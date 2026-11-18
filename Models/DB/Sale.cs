@@ -1,5 +1,5 @@
 
-namespace bi.Models;
+namespace bi.Models.DB;
 
 public class Sale
 {
