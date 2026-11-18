@@ -24,11 +24,28 @@ public class HomeController: ControllerBase
             FROM USER_TABLES
             ORDER BY TABLE_NAME
         """;
-        var result = await command.ExecuteScalarAsync();
+        var result = new List<string>();
+        await using var reader = await command.ExecuteReaderAsync();
+        while (await reader.ReadAsync()){
+            result.Add(reader.GetString(0));
+        }
         await conn.CloseAsync();
         return Ok(new {
                     application = "Power BI API",
                     result = result,
                 });
+    }
+
+
+
+    [HttpGet("/populate-db")]
+    public async Task<IActionResult> PopulateDatabase()
+    {
+
+        // Crete 100 random sales for example
+        return Ok(new
+        {
+            populateDb = false 
+        });
     }
 }
