@@ -80,7 +80,8 @@ public static class CatalogData
 
         // OCEANÍA
         new(21, "Rubén Navarro", 21),
-        new(22, "Iván Torres", 22)
+        new(22, "Iván Torres", 22),
+        new(23, "Óscar Castillo", 23)
     ];
 
 
@@ -483,5 +484,156 @@ public static class CatalogData
     new(90, "Shop N Save", "Fiyi"),
     new(91, "New World IGA", "Fiyi"),
     new(92, "MaxVal-u", "Fiyi")
+    ];
+
+    public static readonly DelegateCustomer[] DelegateCustomers =
+    [
+    // EUROPA
+
+    // España - Alejandro García
+    new(1, 1),
+    new(1, 2),
+    new(1, 3),
+    new(1, 4),
+
+    // Francia - Daniel Rodríguez
+    new(2, 5),
+    new(2, 6),
+    new(2, 7),
+    new(2, 8),
+
+    // Alemania - Pablo González
+    new(3, 9),
+    new(3, 10),
+    new(3, 11),
+    new(3, 12),
+
+    // Italia - Manuel Fernández
+    new(4, 13),
+    new(4, 14),
+    new(4, 15),
+    new(4, 16),
+
+    // Portugal - Álvaro López
+    new(5, 17),
+    new(5, 18),
+    new(5, 19),
+    new(5, 20),
+
+    // Países Bajos - David Martínez
+    new(6, 21),
+    new(6, 22),
+    new(6, 23),
+    new(6, 24),
+
+    // Reino Unido - Javier Sánchez
+    new(7, 25),
+    new(7, 26),
+    new(7, 27),
+    new(7, 28),
+
+    // ASIA
+
+    // Japón - Sergio Pérez
+    new(8, 29),
+    new(8, 30),
+    new(8, 31),
+    new(8, 32),
+
+    // China - Carlos Gómez
+    new(9, 33),
+    new(9, 34),
+    new(9, 35),
+    new(9, 36),
+
+    // India - Adrián Martín
+    new(10, 37),
+    new(10, 38),
+    new(10, 39),
+    new(10, 40),
+
+    // Corea del Sur - Diego Jiménez
+    new(11, 41),
+    new(11, 42),
+    new(11, 43),
+    new(11, 44),
+
+    // Singapur - Mario Ruiz
+    new(12, 45),
+    new(12, 46),
+    new(12, 47),
+    new(12, 48),
+
+    // AMÉRICA DEL NORTE
+
+    // Estados Unidos - Hugo Hernández
+    new(13, 49),
+    new(13, 50),
+    new(13, 51),
+    new(13, 52),
+
+    // Canadá - Lucas Díaz
+    new(14, 53),
+    new(14, 54),
+    new(14, 55),
+    new(14, 56),
+
+    // México - Marcos Moreno
+    new(15, 57),
+    new(15, 58),
+    new(15, 59),
+    new(15, 60),
+
+    // AMÉRICA DEL SUR
+
+    // Brasil - Antonio Álvarez
+    new(16, 61),
+    new(16, 62),
+    new(16, 63),
+    new(16, 64),
+
+    // Argentina - Miguel Muñoz
+    new(17, 65),
+    new(17, 66),
+    new(17, 67),
+    new(17, 68),
+
+    // Chile - José Romero
+    new(18, 69),
+    new(18, 70),
+    new(18, 71),
+    new(18, 72),
+
+    // Colombia - Fernando Alonso
+    new(19, 73),
+    new(19, 74),
+    new(19, 75),
+    new(19, 76),
+
+    // Perú - Raúl Gutiérrez
+    new(20, 77),
+    new(20, 78),
+    new(20, 79),
+    new(20, 80),
+
+    // OCEANÍA
+
+    // Australia - Rubén Navarro
+    new(21, 81),
+    new(21, 82),
+    new(21, 83),
+    new(21, 84),
+
+    // Nueva Zelanda - Iván Torres
+    new(22, 85),
+    new(22, 86),
+    new(22, 87),
+    new(22, 88),
+
+    // Fiyi - Óscar Castillo
+    new(23, 89),
+    new(23, 90),
+    new(23, 91),
+    new(23, 92)
     ];
 }
