@@ -17,12 +17,6 @@ public class Sale
     public decimal SalePrice { get; set; }
     public decimal Kg { get; set; }
 
-    // Precio de venta x kilogramos
-    public decimal TotalSale => SalePrice * Kg;
-    
-
-    
-
 }
 
 
