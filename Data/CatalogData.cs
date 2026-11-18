@@ -357,4 +357,131 @@ public static class CatalogData
     new("A222", "APERITIVOS", "NACHOS DE MAIZ", 4.50m, 7.49m)
     ];
 
+    public static readonly Customer[] Customers =
+    [
+    // EUROPA
+
+    new(1, "Mercadona", "España"),
+    new(2, "Carrefour", "España"),
+    new(3, "Eroski", "España"),
+    new(4, "Lidl", "España"),
+
+    new(5, "E.Leclerc", "Francia"),
+    new(6, "Carrefour", "Francia"),
+    new(7, "Intermarché", "Francia"),
+    new(8, "Auchan", "Francia"),
+
+    new(9, "Edeka", "Alemania"),
+    new(10, "Rewe", "Alemania"),
+    new(11, "Aldi", "Alemania"),
+    new(12, "Lidl", "Alemania"),
+
+    new(13, "Conad", "Italia"),
+    new(14, "Coop", "Italia"),
+    new(15, "Esselunga", "Italia"),
+    new(16, "Eurospin", "Italia"),
+
+    new(17, "Continente", "Portugal"),
+    new(18, "Pingo Doce", "Portugal"),
+    new(19, "Auchan", "Portugal"),
+    new(20, "Lidl", "Portugal"),
+
+    new(21, "Albert Heijn", "Países Bajos"),
+    new(22, "Jumbo", "Países Bajos"),   
+    new(23, "Lidl", "Países Bajos"),
+    new(24, "Aldi", "Países Bajos"),
+
+    new(25, "Tesco", "Reino Unido"),
+    new(26, "Sainsbury's", "Reino Unido"),
+    new(27, "Asda", "Reino Unido"),
+    new(28, "Morrisons", "Reino Unido"),
+
+    // ASIA
+
+    new(29, "Aeon", "Japón"),
+    new(30, "Ito-Yokado", "Japón"),
+    new(31, "Life", "Japón"),
+    new(32, "Seiyu", "Japón"),
+
+    new(33, "CR Vanguard", "China"),
+    new(34, "RT-Mart", "China"),
+    new(35, "Walmart", "China"),
+    new(36, "Hema", "China"),
+
+    new(37, "Reliance Smart Bazaar", "India"),
+    new(38, "DMart", "India"),
+    new(39, "More", "India"),
+    new(40, "Spencer's", "India"),
+
+    new(41, "E-Mart", "Corea del Sur"),
+    new(42, "Homeplus", "Corea del Sur"),
+    new(43, "Lotte Mart", "Corea del Sur"),
+    new(44, "Hanaro Mart", "Corea del Sur"),
+
+    new(45, "FairPrice", "Singapur"),
+    new(46, "Sheng Siong", "Singapur"),
+    new(47, "Cold Storage", "Singapur"),
+    new(48, "Giant", "Singapur"),
+
+    // AMÉRICA DEL NORTE
+
+    new(49, "Walmart", "Estados Unidos"),
+    new(50, "Kroger", "Estados Unidos"),
+    new(51, "Costco", "Estados Unidos"),
+    new(52, "Albertsons", "Estados Unidos"),
+
+    new(53, "Loblaws", "Canadá"),
+    new(54, "Sobeys", "Canadá"),
+    new(55, "Metro", "Canadá"),
+    new(56, "Walmart Canada", "Canadá"),
+
+    new(57, "Walmart de México", "México"),
+    new(58, "Soriana", "México"),
+    new(59, "Chedraui", "México"),
+    new(60, "La Comer", "México"),
+
+    // AMÉRICA DEL SUR
+
+    new(61, "Carrefour Brasil", "Brasil"),
+    new(62, "Assaí Atacadista", "Brasil"),
+    new(63, "Pão de Açúcar", "Brasil"),
+    new(64, "Grupo Mateus", "Brasil"),
+
+    new(65, "Carrefour", "Argentina"),
+    new(66, "Coto", "Argentina"),
+    new(67, "Día", "Argentina"),
+    new(68, "La Anónima", "Argentina"),
+
+    new(69, "Líder", "Chile"),
+    new(70, "Jumbo", "Chile"),
+    new(71, "Santa Isabel", "Chile"),
+    new(72, "Unimarc", "Chile"),
+
+    new(73, "Éxito", "Colombia"),
+    new(74, "Carulla", "Colombia"),
+    new(75, "Jumbo", "Colombia"),
+    new(76, "Olímpica", "Colombia"),
+
+    new(77, "Plaza Vea", "Perú"),
+    new(78, "Wong", "Perú"),
+    new(79, "Metro", "Perú"),
+    new(80, "Tottus", "Perú"),
+
+    // OCEANÍA
+
+    new(81, "Woolworths", "Australia"),
+    new(82, "Coles", "Australia"),
+    new(83, "ALDI", "Australia"),
+    new(84, "IGA", "Australia"),
+
+    new(85, "Woolworths", "Nueva Zelanda"),
+    new(86, "New World", "Nueva Zelanda"),
+    new(87, "PAK'nSAVE", "Nueva Zelanda"),
+    new(88, "Four Square", "Nueva Zelanda"),
+
+    new(89, "RB Patel", "Fiyi"),
+    new(90, "Shop N Save", "Fiyi"),
+    new(91, "New World IGA", "Fiyi"),
+    new(92, "MaxVal-u", "Fiyi")
+    ];
 }
