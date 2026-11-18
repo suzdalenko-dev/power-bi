@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using bi.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+builder.Services.AddDbContext<OracleDbContext>(options => options.UseOracle(builder.Configuration.GetConnectionString("OracleConnection")));
+
+
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -33,6 +40,7 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast");
 
+app.MapControllers();
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
