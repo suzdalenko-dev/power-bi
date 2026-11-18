@@ -1,0 +1,6 @@
+@bi_HostAddress = http://localhost:5139
+
+GET {{bi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
