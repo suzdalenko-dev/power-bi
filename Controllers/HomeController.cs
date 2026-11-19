@@ -75,7 +75,7 @@ public class HomeController: ControllerBase
                 int totalDays  = (finishDate - startDate).Days + 1;
             
                 // 7. Generate 100 sales       
-                for (int i = 0; i <= 11; i++){
+                for (int i = 0; i <= 1111; i++){
                     linesCounter = i;
                     // Choose a random country
                     var country = CatalogData.Countries[Random.Shared.Next(CatalogData.Countries.Length)];
@@ -95,6 +95,9 @@ public class HomeController: ControllerBase
                     // Generate a random date
                     var date = startDate.AddDays(Random.Shared.Next(totalDays));
                     // Build the sales line
+
+                    Console.WriteLine($"{article.Code} {article.Description};");
+
                     string line =
                         $"{date:yyyy-MM-dd};" +
                         $"{market.Name};" +

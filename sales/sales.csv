@@ -1,13 +1,1113 @@
 Date;Market;Country;Delegate;Customer;ArticleCode;Family;Subfamily;CostPrice;SalePrice;Quantity
-2026-01-23;América del Sur;Argentina;Miguel Muñoz;Coto;A066 ;VERDURA;CEBOLLA MORADA;1.10;2.09;55.7
-2022-07-15;Asia;India;Adrián Martín;Reliance Smart Bazaar;A131 ;PANADERIA;NAPOLITANA DE CHOCOLATE;6.20;10.20;66.1
-2021-09-24;América del Sur;Perú;Raúl Gutiérrez;Metro;A049 ;FRUTA;NARANJA DE ZUMO;0.75;1.39;81.4
-2026-06-13;Europa;Portugal;Álvaro López;Auchan;A043 ;FRUTA;MANZANA GOLDEN;1.05;1.89;24.7
-2021-03-28;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A025 ;PESCADO;SALMON FRESCO;10.50;17.90;90.2
-2025-07-30;Oceanía;Nueva Zelanda;Iván Torres;New World;A084 ;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;95.1
-2022-07-17;Europa;España;Alejandro García;Mercadona;A086 ;LACTEOS;LECHE SIN LACTOSA;0.88;1.39;41.7
-2024-04-05;América del Norte;Canadá;Lucas Díaz;Sobeys;A097 ;LACTEOS;QUESO AZUL;8.50;13.90;85.3
-2023-10-16;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A185 ;CONSERVAS;ACEITUNAS VERDES;3.50;5.79;98
-2020-02-11;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A198 ;BEBIDAS;BEBIDA ENERGETICA;2.10;3.49;36.6
-2023-05-09;Europa;Países Bajos;David Martínez;Aldi;A213 ;FRUTOS SECOS;PIPAS DE CALABAZA;8.50;13.90;76
-2022-03-19;Asia;China;Carlos Gómez;Hema;A006 ;CARNE;PAVO ENTERO;4.80;7.90;33.3
+2021-07-08;Asia;Corea del Sur;Diego Jiménez;Homeplus;A331 Peras en almíbar;CONSERVAS;PERAS EN ALMIBAR;2.60;4.49;21.3
+2022-05-15;Asia;Japón;Sergio Pérez;Life;A307 Mezcla de verduras para wok;CONGELADOS;VERDURAS PARA WOK;2.80;4.90;58.4
+2024-06-20;Asia;Corea del Sur;Diego Jiménez;E-Mart;A101 Huevos camperos;LACTEOS;HUEVOS CAMPEROS;2.60;4.20;44.3
+2020-12-30;Europa;Alemania;Pablo González;Lidl;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;9.9
+2023-10-23;América del Norte;Canadá;Lucas Díaz;Metro;A034 Rodaballo fresco;PESCADO;RODABALLO;12.50;20.90;28.6
+2022-11-11;Asia;Japón;Sergio Pérez;Seiyu;A147 Croquetas de jamón congeladas;CONGELADOS;CROQUETAS DE JAMON;5.20;8.49;13.5
+2020-05-27;Asia;Singapur;Mario Ruiz;Sheng Siong;A156 Garbanzos secos;LEGUMBRES Y CEREALES;GARBANZOS;1.50;2.59;2
+2024-03-16;Europa;España;Alejandro García;Eroski;A171 Harina integral de trigo;LEGUMBRES Y CEREALES;HARINA INTEGRAL;1.10;1.89;27.1
+2023-03-22;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A202 Café soluble;BEBIDAS;CAFE SOLUBLE;18.00;28.90;20.4
+2020-08-04;Asia;Singapur;Mario Ruiz;Giant;A121 Barra de pan tradicional;PANADERIA;BARRA DE PAN;1.10;1.95;51.2
+2025-08-27;Europa;Portugal;Álvaro López;Continente;A042 Mejillones frescos;PESCADO;MEJILLONES;2.80;4.90;41.8
+2023-09-01;Europa;Países Bajos;David Martínez;Lidl;A251 Anchoas frescas;PESCADO;ANCHOAS FRESCAS;5.50;9.20;15.2
+2026-01-04;América del Sur;Colombia;Fernando Alonso;Carulla;A238 Aguja de cerdo fresca;CARNE;AGUJA DE CERDO;4.80;7.90;53.1
+2023-08-30;Europa;Portugal;Álvaro López;Continente;A305 Empanadillas de atún;CONGELADOS;EMPANADILLAS DE ATUN;4.50;7.49;62
+2024-12-14;Oceanía;Australia;Rubén Navarro;Woolworths;A128 Pan de hamburguesa clásico;PANADERIA;PAN DE HAMBURGUESA;2.20;3.79;43.1
+2022-03-01;Europa;Italia;Manuel Fernández;Coop;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;13.6
+2025-01-01;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A180 Tomate triturado en conserva;CONSERVAS;TOMATE TRITURADO;1.20;2.09;61.1
+2026-05-14;Oceanía;Australia;Rubén Navarro;Coles;A192 Zumo de melocotón;BEBIDAS;ZUMO DE MELOCOTON;0.95;1.69;80.4
+2025-02-12;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A217 Patatas fritas clásicas;APERITIVOS;PATATAS FRITAS;3.50;5.79;49.6
+2024-06-21;Europa;Italia;Manuel Fernández;Conad;A061 Sandía fresca;FRUTA;SANDIA;0.65;1.29;94.9
+2026-06-23;Asia;India;Adrián Martín;Reliance Smart Bazaar;A286 Kéfir natural;LACTEOS;KEFIR NATURAL;2.10;3.69;7.1
+2026-09-27;Asia;China;Carlos Gómez;Hema;A250 Caballa fresca entera;PESCADO;CABALLA FRESCA;4.50;7.49;56.5
+2022-10-15;Oceanía;Nueva Zelanda;Iván Torres;New World;A110 Lomo embuchado curado;CHARCUTERIA;LOMO EMBUCHADO;15.50;24.90;89.1
+2025-09-18;Europa;Países Bajos;David Martínez;Albert Heijn;A116 Pechuga de pavo loncheada;CHARCUTERIA;PECHUGA DE PAVO LONCHEADA;8.20;13.50;53.8
+2020-05-28;América del Sur;Argentina;Miguel Muñoz;Coto;A047 Pera de agua fresca;FRUTA;PERA DE AGUA;1.60;2.89;63.2
+2021-02-02;América del Norte;Canadá;Lucas Díaz;Metro;A010 Paleta de cerdo fresca;CARNE;PALETA DE CERDO;4.10;6.90;75.1
+2024-05-02;América del Sur;Argentina;Miguel Muñoz;Coto;A275 Remolacha fresca;VERDURA;REMOLACHA;1.30;2.29;33.2
+2025-09-27;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A243 Codornices enteras;CARNE;CODORNICES;8.50;13.90;53.1
+2020-06-26;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;22.3
+2021-02-24;América del Norte;México;Marcos Moreno;Walmart de México;A235 Chuletón de ternera madurado;CARNE;CHULETON DE TERNERA;19.50;31.90;62.7
+2022-02-17;América del Sur;Colombia;Fernando Alonso;Éxito;A316 Semillas de lino;LEGUMBRES Y CEREALES;SEMILLAS DE LINO;3.50;5.90;80.8
+2020-03-20;América del Sur;Argentina;Miguel Muñoz;La Anónima;A012 Solomillo de cerdo fresco;CARNE;SOLOMILLO DE CERDO;7.50;12.20;84.9
+2025-12-25;Europa;Reino Unido;Javier Sánchez;Asda;A260 Caqui fresco;FRUTA;CAQUI;1.80;3.19;75.6
+2025-07-14;Asia;Japón;Sergio Pérez;Life;A043 Manzana Golden nacional;FRUTA;MANZANA GOLDEN;1.05;1.89;7.1
+2021-10-31;Europa;Países Bajos;David Martínez;Lidl;A169 Avena en copos;LEGUMBRES Y CEREALES;AVENA;1.70;2.89;82.4
+2021-09-30;Europa;Alemania;Pablo González;Aldi;A075 Pimiento verde;VERDURA;PIMIENTO VERDE;1.70;2.99;42.2
+2022-04-28;América del Norte;Canadá;Lucas Díaz;Sobeys;A285 Nata montada refrigerada;LACTEOS;NATA MONTADA;3.20;5.49;31.2
+2025-02-14;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A287 Yogur natural sin azúcar;LACTEOS;YOGUR NATURAL SIN AZUCAR;1.80;2.99;76
+2025-05-04;América del Sur;Argentina;Miguel Muñoz;Coto;A187 Pepinillos en vinagre;CONSERVAS;PEPINILLOS;3.80;6.29;60.1
+2026-08-24;Europa;Portugal;Álvaro López;Auchan;A127 Pan de molde integral;PANADERIA;PAN DE MOLDE INTEGRAL;1.85;3.19;26.7
+2024-09-13;Europa;Países Bajos;David Martínez;Aldi;A121 Barra de pan tradicional;PANADERIA;BARRA DE PAN;1.10;1.95;44.6
+2026-02-12;América del Sur;Argentina;Miguel Muñoz;Carrefour;A053 Fresas frescas;FRUTA;FRESA;3.20;5.49;3.4
+2022-09-23;Europa;Francia;Daniel Rodríguez;Carrefour;A141 Brócoli congelado;CONGELADOS;BROCOLI;2.00;3.39;62.1
+2023-07-22;Asia;India;Adrián Martín;DMart;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;81.8
+2021-03-30;Europa;Italia;Manuel Fernández;Esselunga;A309 Tarta helada de nata;CONGELADOS;TARTA HELADA DE NATA;5.50;9.20;73.3
+2022-11-19;América del Norte;Canadá;Lucas Díaz;Sobeys;A314 Trigo sarraceno;LEGUMBRES Y CEREALES;TRIGO SARRACENO;3.20;5.49;17
+2022-08-26;Asia;Singapur;Mario Ruiz;Giant;A236 Rabo de ternera troceado;CARNE;RABO DE TERNERA;8.50;13.90;72.8
+2023-02-11;América del Norte;Canadá;Lucas Díaz;Loblaws;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;97.7
+2025-06-25;América del Sur;Argentina;Miguel Muñoz;Coto;A128 Pan de hamburguesa clásico;PANADERIA;PAN DE HAMBURGUESA;2.20;3.79;38.5
+2026-04-01;Asia;India;Adrián Martín;Spencer's;A243 Codornices enteras;CARNE;CODORNICES;8.50;13.90;66.8
+2024-08-22;Asia;Singapur;Mario Ruiz;FairPrice;A192 Zumo de melocotón;BEBIDAS;ZUMO DE MELOCOTON;0.95;1.69;80.4
+2022-06-30;Europa;Francia;Daniel Rodríguez;Auchan;A004 Muslos de pollo frescos;CARNE;MUSLOS DE POLLO;3.10;5.20;33.7
+2020-04-16;América del Norte;Canadá;Lucas Díaz;Metro;A157 Alubias blancas secas;LEGUMBRES Y CEREALES;ALUBIAS BLANCAS;1.70;2.89;4.3
+2024-02-08;Oceanía;Australia;Rubén Navarro;Woolworths;A011 Secreto de cerdo ibérico;CARNE;SECRETO DE CERDO;8.90;14.50;45.6
+2022-09-26;América del Norte;Canadá;Lucas Díaz;Metro;A286 Kéfir natural;LACTEOS;KEFIR NATURAL;2.10;3.69;77.7
+2020-11-21;América del Norte;México;Marcos Moreno;Walmart de México;A007 Pechuga de pavo fresca;CARNE;PECHUGA DE PAVO;6.50;10.50;85.3
+2024-10-18;América del Norte;Estados Unidos;Hugo Hernández;Costco;A138 Judías verdes congeladas;CONGELADOS;JUDIAS VERDES;1.90;3.19;71.8
+2022-02-08;Europa;Alemania;Pablo González;Lidl;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;70.8
+2021-12-11;América del Sur;Argentina;Miguel Muñoz;Coto;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;76.4
+2025-11-15;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A241 Chuletas de cordero frescas;CARNE;CHULETAS DE CORDERO;14.50;23.90;42.7
+2022-10-12;Europa;Alemania;Pablo González;Lidl;A104 Jamón ibérico de cebo;CHARCUTERIA;JAMON IBERICO DE CEBO;28.00;44.90;35.1
+2020-10-29;Europa;Francia;Daniel Rodríguez;E.Leclerc;A251 Anchoas frescas;PESCADO;ANCHOAS FRESCAS;5.50;9.20;88.1
+2026-05-11;Europa;Francia;Daniel Rodríguez;Auchan;A323 Corazones de alcachofa;CONSERVAS;CORAZONES DE ALCACHOFA;5.50;9.20;28.4
+2020-06-22;América del Norte;Canadá;Lucas Díaz;Loblaws;A206 Almendras tostadas;FRUTOS SECOS;ALMENDRAS TOSTADAS;10.00;16.50;64.3
+2023-05-21;Asia;Singapur;Mario Ruiz;FairPrice;A017 Entrecot de ternera fresco;CARNE;ENTRECOT DE TERNERA;15.50;25.90;97.3
+2021-08-17;América del Sur;Perú;Raúl Gutiérrez;Tottus;A290 Cecina de León curada;CHARCUTERIA;CECINA DE LEON;22.00;35.90;81.4
+2024-11-28;Europa;Reino Unido;Javier Sánchez;Morrisons;A128 Pan de hamburguesa clásico;PANADERIA;PAN DE HAMBURGUESA;2.20;3.79;62.7
+2026-10-08;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A231 Tarta artesanal de queso;PANADERIA;TARTA DE QUESO;8.50;13.90;72.8
+2024-09-01;Oceanía;Nueva Zelanda;Iván Torres;New World;A168 Quinoa natural;LEGUMBRES Y CEREALES;QUINOA;3.80;6.29;39.2
+2025-12-26;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A058 Kiwi verde;FRUTA;KIWI VERDE;2.10;3.69;98.2
+2022-10-07;Asia;China;Carlos Gómez;Hema;A209 Pistachos tostados;FRUTOS SECOS;PISTACHOS;13.50;21.90;21.5
+2021-11-10;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A157 Alubias blancas secas;LEGUMBRES Y CEREALES;ALUBIAS BLANCAS;1.70;2.89;46.4
+2020-04-27;Europa;Francia;Daniel Rodríguez;Intermarché;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;82.8
+2020-11-26;América del Sur;Perú;Raúl Gutiérrez;Wong;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;50.6
+2020-04-18;Europa;Países Bajos;David Martínez;Lidl;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;28.2
+2024-05-27;Europa;Reino Unido;Javier Sánchez;Tesco;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;5.8
+2021-01-25;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A331 Peras en almíbar;CONSERVAS;PERAS EN ALMIBAR;2.60;4.49;87.6
+2025-08-12;América del Norte;México;Marcos Moreno;Walmart de México;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;58.2
+2024-12-11;Oceanía;Australia;Rubén Navarro;Coles;A132 Magdalenas tradicionales;PANADERIA;MAGDALENAS;3.80;6.29;39.2
+2022-03-10;América del Norte;México;Marcos Moreno;Walmart de México;A260 Caqui fresco;FRUTA;CAQUI;1.80;3.19;62.7
+2021-04-20;Oceanía;Australia;Rubén Navarro;ALDI;A055 Arándanos frescos;FRUTA;ARANDANO;7.20;11.90;28.5
+2026-04-13;Europa;Francia;Daniel Rodríguez;Auchan;A032 Dorada fresca;PESCADO;DORADA;6.90;11.49;86.7
+2025-12-17;Europa;Alemania;Pablo González;Lidl;A245 Lenguado fresco;PESCADO;LENGUADO;13.50;22.50;48
+2024-12-03;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A251 Anchoas frescas;PESCADO;ANCHOAS FRESCAS;5.50;9.20;45.7
+2021-07-26;Europa;Italia;Manuel Fernández;Conad;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;97.4
+2021-11-26;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A113 Mortadela italiana;CHARCUTERIA;MORTADELA;4.10;6.79;67.3
+2023-03-01;Asia;India;Adrián Martín;Spencer's;A125 Pan de espelta;PANADERIA;PAN DE ESPELTA;2.80;4.69;27.2
+2021-02-16;Oceanía;Australia;Rubén Navarro;IGA;A266 Limón fresco;FRUTA;LIMON;0.90;1.69;12
+2025-09-29;Europa;Países Bajos;David Martínez;Aldi;A036 Trucha fresca;PESCADO;TRUCHA;5.90;9.90;48.8
+2023-04-12;Asia;China;Carlos Gómez;RT-Mart;A276 Judía verde fresca;VERDURA;JUDIA VERDE FRESCA;2.50;4.29;4.9
+2025-09-02;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A234 Costillar de ternera fresco;CARNE;COSTILLAR DE TERNERA;12.50;20.90;64.4
+2020-11-21;Oceanía;Australia;Rubén Navarro;Coles;A056 Uva blanca sin semillas;FRUTA;UVA BLANCA;2.20;3.90;27.1
+2023-02-06;América del Norte;México;Marcos Moreno;Chedraui;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;7.5
+2020-11-10;Asia;India;Adrián Martín;Reliance Smart Bazaar;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;42.5
+2026-04-25;Europa;Reino Unido;Javier Sánchez;Asda;A178 Berberechos en conserva;CONSERVAS;BERBERECHOS;24.00;38.90;51.8
+2020-03-05;Europa;Italia;Manuel Fernández;Eurospin;A183 Champiñones laminados en conserva;CONSERVAS;CHAMPIÑONES;3.20;5.29;93.1
+2024-04-28;América del Sur;Colombia;Fernando Alonso;Éxito;A128 Pan de hamburguesa clásico;PANADERIA;PAN DE HAMBURGUESA;2.20;3.79;11.7
+2024-09-05;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A133 Donuts glaseados;PANADERIA;DONUTS;5.20;8.49;57.2
+2024-05-04;Asia;Singapur;Mario Ruiz;Cold Storage;A181 Tomate frito en conserva;CONSERVAS;TOMATE FRITO;1.70;2.89;69.9
+2020-04-20;América del Norte;Canadá;Lucas Díaz;Loblaws;A144 Pizza margarita congelada;CONGELADOS;PIZZA MARGARITA;3.80;6.29;52.2
+2021-01-07;América del Sur;Chile;José Romero;Unimarc;A037 Pulpo fresco;PESCADO;PULPO;14.00;23.50;33.4
+2024-09-19;Asia;Singapur;Mario Ruiz;Giant;A151 Calamares a la romana congelados;CONGELADOS;CALAMARES A LA ROMANA;6.50;10.90;59.2
+2024-11-12;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A182 Maíz dulce en conserva;CONSERVAS;MAIZ DULCE;2.10;3.49;80.3
+2025-05-22;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A202 Café soluble;BEBIDAS;CAFE SOLUBLE;18.00;28.90;71.1
+2025-12-29;Asia;Japón;Sergio Pérez;Life;A129 Pan de hot dog;PANADERIA;PAN DE HOT DOG;2.10;3.59;76.3
+2025-06-06;Asia;Singapur;Mario Ruiz;Sheng Siong;A273 Coles de Bruselas frescas;VERDURA;COL DE BRUSELAS;2.20;3.90;45.4
+2024-10-24;Asia;Singapur;Mario Ruiz;Giant;A259 Granada fresca;FRUTA;GRANADA;2.10;3.69;14.7
+2022-11-02;América del Norte;México;Marcos Moreno;Chedraui;A035 Rape fresco;PESCADO;RAPE;13.90;22.90;41.3
+2026-06-28;Oceanía;Nueva Zelanda;Iván Torres;New World;A068 Tomate cherry fresco;VERDURA;TOMATE CHERRY;2.40;4.29;50.3
+2025-05-06;Asia;India;Adrián Martín;DMart;A202 Café soluble;BEBIDAS;CAFE SOLUBLE;18.00;28.90;10
+2022-10-24;Europa;Reino Unido;Javier Sánchez;Tesco;A290 Cecina de León curada;CHARCUTERIA;CECINA DE LEON;22.00;35.90;55.9
+2025-08-05;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;62.9
+2026-04-06;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A131 Napolitana rellena de chocolate;PANADERIA;NAPOLITANA DE CHOCOLATE;6.20;10.20;27.6
+2026-08-17;América del Sur;Colombia;Fernando Alonso;Olímpica;A179 Almejas en conserva;CONSERVAS;ALMEJAS;15.50;24.90;22.5
+2023-07-12;Europa;Alemania;Pablo González;Rewe;A043 Manzana Golden nacional;FRUTA;MANZANA GOLDEN;1.05;1.89;92.3
+2024-10-15;Oceanía;Fiyi;Óscar Castillo;MaxVal-u;A072 Lechuga iceberg;VERDURA;LECHUGA ICEBERG;0.95;1.79;40.1
+2026-07-25;América del Norte;Canadá;Lucas Díaz;Loblaws;A275 Remolacha fresca;VERDURA;REMOLACHA;1.30;2.29;97.4
+2021-10-28;América del Sur;Colombia;Fernando Alonso;Éxito;A330 Melocotón en almíbar;CONSERVAS;MELOCOTON EN ALMIBAR;2.50;4.29;78.3
+2024-04-05;América del Sur;Perú;Raúl Gutiérrez;Wong;A183 Champiñones laminados en conserva;CONSERVAS;CHAMPIÑONES;3.20;5.29;46.7
+2022-02-26;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A055 Arándanos frescos;FRUTA;ARANDANO;7.20;11.90;98.7
+2022-05-31;Asia;Japón;Sergio Pérez;Seiyu;A173 Atún en aceite de oliva;CONSERVAS;ATUN EN ACEITE;8.50;13.90;45
+2025-02-17;Europa;Italia;Manuel Fernández;Conad;A058 Kiwi verde;FRUTA;KIWI VERDE;2.10;3.69;69.6
+2020-08-29;Europa;Países Bajos;David Martínez;Lidl;A156 Garbanzos secos;LEGUMBRES Y CEREALES;GARBANZOS;1.50;2.59;96.8
+2020-09-24;Europa;Países Bajos;David Martínez;Aldi;A045 Manzana Fuji;FRUTA;MANZANA FUJI;1.55;2.79;5.6
+2025-05-15;América del Sur;Chile;José Romero;Líder;A312 Arroz jazmín;LEGUMBRES Y CEREALES;ARROZ JAZMIN;2.50;4.29;24
+2021-08-03;Europa;Portugal;Álvaro López;Pingo Doce;A173 Atún en aceite de oliva;CONSERVAS;ATUN EN ACEITE;8.50;13.90;10.8
+2020-08-18;América del Norte;Canadá;Lucas Díaz;Metro;A076 Calabacín fresco;VERDURA;CALABACIN;1.10;1.99;65.6
+2022-02-25;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;55.4
+2024-09-24;Asia;Japón;Sergio Pérez;Life;A048 Naranja de mesa;FRUTA;NARANJA DE MESA;0.95;1.79;99.2
+2025-02-13;Asia;India;Adrián Martín;Spencer's;A013 Carne picada de cerdo;CARNE;CARNE PICADA DE CERDO;4.60;7.50;11.1
+2022-04-01;América del Sur;Argentina;Miguel Muñoz;La Anónima;A177 Mejillones en escabeche;CONSERVAS;MEJILLONES EN ESCABECHE;9.50;15.50;3
+2022-01-18;Europa;Países Bajos;David Martínez;Jumbo;A178 Berberechos en conserva;CONSERVAS;BERBERECHOS;24.00;38.90;65.9
+2023-11-07;Europa;España;Alejandro García;Carrefour;A316 Semillas de lino;LEGUMBRES Y CEREALES;SEMILLAS DE LINO;3.50;5.90;53.7
+2025-04-26;Oceanía;Australia;Rubén Navarro;IGA;A290 Cecina de León curada;CHARCUTERIA;CECINA DE LEON;22.00;35.90;38.9
+2020-08-03;Oceanía;Australia;Rubén Navarro;Woolworths;A130 Croissant de mantequilla;PANADERIA;CROISSANT;5.50;9.20;45.1
+2021-03-28;Asia;India;Adrián Martín;More;A019 Hamburguesa de vacuno;CARNE;HAMBURGUESA DE VACUNO;7.20;11.90;65.8
+2022-08-21;Europa;Italia;Manuel Fernández;Esselunga;A074 Pimiento rojo;VERDURA;PIMIENTO ROJO;2.10;3.69;79.4
+2024-06-30;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A273 Coles de Bruselas frescas;VERDURA;COL DE BRUSELAS;2.20;3.90;67.9
+2022-09-27;Europa;Italia;Manuel Fernández;Conad;A275 Remolacha fresca;VERDURA;REMOLACHA;1.30;2.29;79.6
+2026-01-14;América del Norte;México;Marcos Moreno;La Comer;A080 Espinacas frescas en bolsa;VERDURA;ESPINACAS FRESCAS;2.50;4.29;78.8
+2021-09-20;América del Sur;Perú;Raúl Gutiérrez;Tottus;A167 Cuscús de trigo;LEGUMBRES Y CEREALES;CUSCUS;1.90;3.19;27.3
+2022-11-04;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A072 Lechuga iceberg;VERDURA;LECHUGA ICEBERG;0.95;1.79;15.5
+2026-01-10;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A326 Garbanzos cocidos;CONSERVAS;GARBANZOS COCIDOS;1.40;2.39;69.7
+2024-12-27;América del Sur;Colombia;Fernando Alonso;Éxito;A137 Guisantes congelados;CONGELADOS;GUISANTES;1.70;2.89;59.6
+2023-08-07;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A021 Conejo entero fresco;CARNE;CONEJO ENTERO;5.80;9.49;58.6
+2021-10-14;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A123 Pan integral de trigo;PANADERIA;PAN INTEGRAL;1.55;2.69;1.4
+2023-06-20;Europa;Países Bajos;David Martínez;Jumbo;A016 Solomillo de ternera fresco;CARNE;SOLOMILLO DE TERNERA;22.00;34.90;81
+2023-06-06;Europa;España;Alejandro García;Mercadona;A267 Batata fresca;VERDURA;BATATA;1.20;2.19;56.7
+2020-04-18;Oceanía;Nueva Zelanda;Iván Torres;New World;A007 Pechuga de pavo fresca;CARNE;PECHUGA DE PAVO;6.50;10.50;88.1
+2023-02-24;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A169 Avena en copos;LEGUMBRES Y CEREALES;AVENA;1.70;2.89;72.1
+2023-02-23;América del Sur;Argentina;Miguel Muñoz;La Anónima;A229 Pan de maíz tradicional;PANADERIA;PAN DE MAIZ;2.10;3.69;87
+2026-07-15;América del Sur;Argentina;Miguel Muñoz;Carrefour;A074 Pimiento rojo;VERDURA;PIMIENTO ROJO;2.10;3.69;4.4
+2022-07-06;Europa;Alemania;Pablo González;Lidl;A110 Lomo embuchado curado;CHARCUTERIA;LOMO EMBUCHADO;15.50;24.90;69.5
+2024-05-10;Asia;India;Adrián Martín;More;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;21.5
+2026-08-23;Europa;Reino Unido;Javier Sánchez;Morrisons;A183 Champiñones laminados en conserva;CONSERVAS;CHAMPIÑONES;3.20;5.29;99.1
+2026-05-27;Oceanía;Fiyi;Óscar Castillo;New World IGA;A086 Leche sin lactosa;LACTEOS;LECHE SIN LACTOSA;0.88;1.39;91.1
+2024-05-22;Europa;Francia;Daniel Rodríguez;E.Leclerc;A222 Nachos de maíz;APERITIVOS;NACHOS DE MAIZ;4.50;7.49;39.5
+2026-03-08;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;87.5
+2021-10-25;Europa;Reino Unido;Javier Sánchez;Morrisons;A028 Bacalao desalado;PESCADO;BACALAO DESALADO;13.50;21.90;34.3
+2025-04-29;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A249 Emperador fresco en filetes;PESCADO;EMPERADOR;14.50;23.90;15.7
+2021-04-25;América del Sur;Argentina;Miguel Muñoz;La Anónima;A320 Harina de garbanzo;LEGUMBRES Y CEREALES;HARINA DE GARBANZO;2.50;4.29;54.9
+2024-03-17;América del Sur;Argentina;Miguel Muñoz;La Anónima;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;81.7
+2024-10-20;Asia;China;Carlos Gómez;CR Vanguard;A087 Leche de cabra;LACTEOS;LECHE DE CABRA;1.45;2.39;76
+2026-06-19;Asia;Singapur;Mario Ruiz;Cold Storage;A313 Bulgur de trigo;LEGUMBRES Y CEREALES;BULGUR;2.80;4.90;90.1
+2021-03-05;América del Norte;México;Marcos Moreno;Walmart de México;A215 Orejones de albaricoque;FRUTOS SECOS;OREJONES;7.50;12.20;3.6
+2025-06-07;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;10.7
+2026-07-09;Oceanía;Australia;Rubén Navarro;IGA;A174 Atún al natural;CONSERVAS;ATUN AL NATURAL;9.20;14.90;50.3
+2021-07-11;América del Sur;Argentina;Miguel Muñoz;La Anónima;A083 Leche entera UHT;LACTEOS;LECHE ENTERA;0.72;1.09;43
+2022-08-31;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;91.7
+2025-10-04;Asia;India;Adrián Martín;Reliance Smart Bazaar;A247 Corvina fresca;PESCADO;CORVINA;10.50;17.50;77.4
+2024-10-31;Europa;Francia;Daniel Rodríguez;Carrefour;A117 Chopped de cerdo;CHARCUTERIA;CHOPPED DE CERDO;3.90;6.49;52.9
+2024-05-12;Asia;Japón;Sergio Pérez;Life;A318 Granola con cereales;LEGUMBRES Y CEREALES;GRANOLA;4.20;6.90;59.9
+2021-10-10;Europa;Reino Unido;Javier Sánchez;Morrisons;A323 Corazones de alcachofa;CONSERVAS;CORAZONES DE ALCACHOFA;5.50;9.20;14.6
+2021-11-26;Oceanía;Nueva Zelanda;Iván Torres;New World;A318 Granola con cereales;LEGUMBRES Y CEREALES;GRANOLA;4.20;6.90;52.2
+2022-06-05;Europa;Reino Unido;Javier Sánchez;Asda;A075 Pimiento verde;VERDURA;PIMIENTO VERDE;1.70;2.99;81.8
+2023-10-08;América del Norte;Canadá;Lucas Díaz;Sobeys;A112 Salami en lonchas;CHARCUTERIA;SALAMI;6.80;11.20;61
+2021-04-10;Europa;Alemania;Pablo González;Edeka;A115 Panceta de cerdo;CHARCUTERIA;PANCETA;5.50;9.20;13.7
+2024-10-16;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A033 Lubina fresca;PESCADO;LUBINA;7.80;12.90;74.8
+2022-01-19;Asia;China;Carlos Gómez;CR Vanguard;A287 Yogur natural sin azúcar;LACTEOS;YOGUR NATURAL SIN AZUCAR;1.80;2.99;78.5
+2020-11-21;Asia;China;Carlos Gómez;Walmart;A186 Aceitunas negras sin hueso;CONSERVAS;ACEITUNAS NEGRAS;4.10;6.79;59.2
+2024-01-24;Europa;Países Bajos;David Martínez;Lidl;A084 Leche semidesnatada UHT;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;61
+2021-08-13;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;89.7
+2020-08-17;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;54.2
+2026-05-11;Europa;Países Bajos;David Martínez;Albert Heijn;A057 Uva negra fresca;FRUTA;UVA NEGRA;2.60;4.49;87.9
+2020-07-12;Europa;Reino Unido;Javier Sánchez;Asda;A234 Costillar de ternera fresco;CARNE;COSTILLAR DE TERNERA;12.50;20.90;78.4
+2025-06-29;Europa;Italia;Manuel Fernández;Conad;A042 Mejillones frescos;PESCADO;MEJILLONES;2.80;4.90;55.7
+2023-03-29;Asia;Singapur;Mario Ruiz;Cold Storage;A163 Espaguetis de trigo;LEGUMBRES Y CEREALES;ESPAGUETIS;1.20;1.99;15.1
+2023-02-20;Europa;Reino Unido;Javier Sánchez;Asda;A180 Tomate triturado en conserva;CONSERVAS;TOMATE TRITURADO;1.20;2.09;33.4
+2023-10-16;Europa;Reino Unido;Javier Sánchez;Tesco;A259 Granada fresca;FRUTA;GRANADA;2.10;3.69;89.5
+2021-06-07;Europa;Reino Unido;Javier Sánchez;Tesco;A131 Napolitana rellena de chocolate;PANADERIA;NAPOLITANA DE CHOCOLATE;6.20;10.20;15.5
+2020-08-02;Europa;Francia;Daniel Rodríguez;Auchan;A278 Queso de cabra curado;LACTEOS;QUESO DE CABRA;10.50;17.50;61.5
+2021-02-25;Asia;India;Adrián Martín;Reliance Smart Bazaar;A028 Bacalao desalado;PESCADO;BACALAO DESALADO;13.50;21.90;82.3
+2026-04-18;Asia;India;Adrián Martín;DMart;A219 Gusanitos de maíz;APERITIVOS;GUSANITOS DE MAIZ;4.20;6.90;8.5
+2021-04-27;América del Norte;Estados Unidos;Hugo Hernández;Costco;A077 Berenjena fresca;VERDURA;BERENJENA;1.30;2.39;82.1
+2023-07-19;América del Sur;Chile;José Romero;Jumbo;A322 Pimientos del piquillo rellenos;CONSERVAS;PIMIENTO DEL PIQUILLO RELLENO;7.50;12.50;74.9
+2025-02-02;Europa;Reino Unido;Javier Sánchez;Asda;A170 Harina de trigo;LEGUMBRES Y CEREALES;HARINA DE TRIGO;0.85;1.49;19.6
+2024-06-19;Europa;Portugal;Álvaro López;Pingo Doce;A053 Fresas frescas;FRUTA;FRESA;3.20;5.49;9.9
+2022-06-27;Europa;Alemania;Pablo González;Lidl;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;42.4
+2026-04-02;Asia;India;Adrián Martín;Reliance Smart Bazaar;A300 Anillas de calamar congeladas;CONGELADOS;ANILLAS DE CALAMAR;7.50;12.50;88.4
+2024-01-14;Asia;China;Carlos Gómez;CR Vanguard;A068 Tomate cherry fresco;VERDURA;TOMATE CHERRY;2.40;4.29;74.2
+2024-11-29;América del Sur;Argentina;Miguel Muñoz;Día;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;88.3
+2020-08-11;Europa;Reino Unido;Javier Sánchez;Tesco;A205 Almendras naturales;FRUTOS SECOS;ALMENDRAS NATURALES;8.50;13.90;45
+2021-04-20;Europa;Alemania;Pablo González;Rewe;A167 Cuscús de trigo;LEGUMBRES Y CEREALES;CUSCUS;1.90;3.19;46.5
+2023-04-02;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A132 Magdalenas tradicionales;PANADERIA;MAGDALENAS;3.80;6.29;36.5
+2022-06-10;Europa;Alemania;Pablo González;Rewe;A289 Jamón de pato curado;CHARCUTERIA;JAMON DE PATO;18.50;29.90;23.1
+2021-07-11;América del Norte;México;Marcos Moreno;Soriana;A153 Helado de chocolate;CONGELADOS;HELADO DE CHOCOLATE;4.20;6.90;92.2
+2021-03-25;Europa;Francia;Daniel Rodríguez;Auchan;A215 Orejones de albaricoque;FRUTOS SECOS;OREJONES;7.50;12.20;68.3
+2022-12-17;Asia;China;Carlos Gómez;RT-Mart;A296 Paté tradicional de cerdo;CHARCUTERIA;PATE DE CERDO;4.20;6.90;59.6
+2022-04-17;América del Sur;Chile;José Romero;Santa Isabel;A217 Patatas fritas clásicas;APERITIVOS;PATATAS FRITAS;3.50;5.79;96.6
+2021-11-26;Asia;Singapur;Mario Ruiz;Sheng Siong;A118 Morcilla tradicional;CHARCUTERIA;MORCILLA;4.50;7.49;49.9
+2020-11-12;América del Sur;Perú;Raúl Gutiérrez;Tottus;A246 Salmonetes frescos;PESCADO;SALMONETES;9.50;15.90;26
+2026-04-02;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A327 Lentejas cocidas;CONSERVAS;LENTEJAS COCIDAS;1.30;2.29;66.7
+2024-06-13;Asia;Corea del Sur;Diego Jiménez;E-Mart;A248 Besugo fresco;PESCADO;BESUGO;12.50;20.90;82.3
+2025-01-07;Asia;India;Adrián Martín;More;A214 Pasas de uva;FRUTOS SECOS;PASAS;4.10;6.79;97.5
+2023-12-05;Asia;Japón;Sergio Pérez;Aeon;A077 Berenjena fresca;VERDURA;BERENJENA;1.30;2.39;58.3
+2025-05-18;Asia;India;Adrián Martín;More;A054 Frambuesas frescas;FRUTA;FRAMBUESA;8.50;13.90;38.3
+2021-09-27;Europa;Portugal;Álvaro López;Lidl;A244 Pechuga de pato fresca;CARNE;PECHUGA DE PATO;12.50;20.90;9.1
+2025-11-19;Europa;España;Alejandro García;Eroski;A131 Napolitana rellena de chocolate;PANADERIA;NAPOLITANA DE CHOCOLATE;6.20;10.20;89.2
+2021-10-08;Europa;Reino Unido;Javier Sánchez;Morrisons;A303 Filetes de salmón congelados;CONGELADOS;FILETES DE SALMON;11.50;18.90;81.9
+2024-10-04;América del Norte;México;Marcos Moreno;Walmart de México;A303 Filetes de salmón congelados;CONGELADOS;FILETES DE SALMON;11.50;18.90;38.9
+2023-08-01;Asia;India;Adrián Martín;Spencer's;A325 Alubias blancas cocidas;CONSERVAS;ALUBIAS BLANCAS COCIDAS;1.50;2.59;65.5
+2023-08-10;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;39
+2026-10-29;Asia;Singapur;Mario Ruiz;FairPrice;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;90.1
+2022-10-02;Europa;Francia;Daniel Rodríguez;Carrefour;A019 Hamburguesa de vacuno;CARNE;HAMBURGUESA DE VACUNO;7.20;11.90;85.9
+2026-05-13;Asia;China;Carlos Gómez;RT-Mart;A165 Pasta integral;LEGUMBRES Y CEREALES;PASTA INTEGRAL;1.50;2.49;36.4
+2022-05-09;Europa;España;Alejandro García;Carrefour;A119 Butifarra fresca;CHARCUTERIA;BUTIFARRA;6.50;10.90;8.7
+2021-02-02;Europa;Reino Unido;Javier Sánchez;Asda;A002 Pechuga de pollo fresca;CARNE;PECHUGA DE POLLO;5.40;8.95;20.1
+2025-07-21;Oceanía;Australia;Rubén Navarro;ALDI;A149 Filetes de merluza congelados;CONGELADOS;FILETES DE MERLUZA;7.50;12.20;89.4
+2024-03-14;Europa;Alemania;Pablo González;Aldi;A251 Anchoas frescas;PESCADO;ANCHOAS FRESCAS;5.50;9.20;23.4
+2024-06-11;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A006 Pavo entero fresco;CARNE;PAVO ENTERO;4.80;7.90;74.8
+2025-08-08;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A012 Solomillo de cerdo fresco;CARNE;SOLOMILLO DE CERDO;7.50;12.20;24.6
+2023-03-20;Asia;Japón;Sergio Pérez;Seiyu;A293 Salchichón ibérico curado;CHARCUTERIA;SALCHICHON IBERICO;16.50;26.90;5.9
+2021-09-28;América del Sur;Chile;José Romero;Unimarc;A244 Pechuga de pato fresca;CARNE;PECHUGA DE PATO;12.50;20.90;60.1
+2024-04-20;Oceanía;Nueva Zelanda;Iván Torres;New World;A204 Cacao puro en polvo;BEBIDAS;CACAO EN POLVO;5.50;9.20;92.5
+2023-03-25;Oceanía;Fiyi;Óscar Castillo;New World IGA;A243 Codornices enteras;CARNE;CODORNICES;8.50;13.90;65.7
+2026-10-05;Asia;Japón;Sergio Pérez;Life;A221 Tortitas de arroz;APERITIVOS;TORTITAS DE ARROZ;3.80;6.29;51.5
+2024-07-20;América del Norte;México;Marcos Moreno;Chedraui;A235 Chuletón de ternera madurado;CARNE;CHULETON DE TERNERA;19.50;31.90;7.2
+2022-05-30;América del Norte;México;Marcos Moreno;Soriana;A114 Bacon ahumado en lonchas;CHARCUTERIA;BACON AHUMADO;6.20;10.20;92.3
+2025-08-18;Asia;Japón;Sergio Pérez;Life;A195 Refresco de limón;BEBIDAS;REFRESCO DE LIMON;0.95;1.69;10.9
+2023-03-05;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A120 Longaniza fresca;CHARCUTERIA;LONGANIZA;6.90;11.49;86.8
+2023-07-18;Europa;Países Bajos;David Martínez;Aldi;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;81.4
+2020-09-24;Europa;Alemania;Pablo González;Rewe;A152 Helado de vainilla;CONGELADOS;HELADO DE VAINILLA;3.80;6.29;31.3
+2025-10-22;Europa;Portugal;Álvaro López;Lidl;A239 Presa de cerdo ibérico;CARNE;PRESA IBERICA;15.50;24.90;27
+2026-10-22;América del Sur;Perú;Raúl Gutiérrez;Tottus;A158 Alubias rojas secas;LEGUMBRES Y CEREALES;ALUBIAS ROJAS;2.10;3.59;73.3
+2020-08-21;Europa;España;Alejandro García;Eroski;A164 Macarrones de trigo;LEGUMBRES Y CEREALES;MACARRONES;1.10;1.89;61.4
+2021-04-26;Oceanía;Nueva Zelanda;Iván Torres;New World;A070 Zanahoria fresca;VERDURA;ZANAHORIA;0.75;1.39;32.6
+2023-01-27;Oceanía;Australia;Rubén Navarro;Woolworths;A034 Rodaballo fresco;PESCADO;RODABALLO;12.50;20.90;18.7
+2024-03-29;América del Norte;México;Marcos Moreno;La Comer;A196 Refresco de naranja;BEBIDAS;REFRESCO DE NARANJA;0.95;1.69;41
+2021-05-04;Europa;Portugal;Álvaro López;Pingo Doce;A002 Pechuga de pollo fresca;CARNE;PECHUGA DE POLLO;5.40;8.95;24.3
+2024-03-03;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A014 Carne de ternera para guisar;CARNE;TERNERA PARA GUISAR;8.20;13.50;40.4
+2020-12-01;Europa;Países Bajos;David Martínez;Aldi;A029 Atún fresco en lomos;PESCADO;ATUN FRESCO;14.50;23.90;15.5
+2022-06-06;América del Sur;Colombia;Fernando Alonso;Olímpica;A186 Aceitunas negras sin hueso;CONSERVAS;ACEITUNAS NEGRAS;4.10;6.79;10.8
+2020-02-25;Europa;Alemania;Pablo González;Edeka;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;39.5
+2023-06-16;Asia;Japón;Sergio Pérez;Aeon;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;73.8
+2024-02-05;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A023 Merluza fresca entera;PESCADO;MERLUZA;7.80;12.90;83.5
+2021-06-29;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A026 Salmón ahumado en lonchas;PESCADO;SALMON AHUMADO;22.00;34.90;1.7
+2026-06-24;América del Sur;Colombia;Fernando Alonso;Éxito;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;24.4
+2020-11-24;Asia;India;Adrián Martín;Spencer's;A044 Manzana Royal Gala;FRUTA;MANZANA ROYAL GALA;1.35;2.39;73.7
+2022-11-18;América del Sur;Perú;Raúl Gutiérrez;Tottus;A317 Copos de avena;LEGUMBRES Y CEREALES;COPOS DE AVENA;2.10;3.69;47
+2021-10-18;Europa;Países Bajos;David Martínez;Jumbo;A113 Mortadela italiana;CHARCUTERIA;MORTADELA;4.10;6.79;99.2
+2020-08-24;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A244 Pechuga de pato fresca;CARNE;PECHUGA DE PATO;12.50;20.90;90.2
+2024-01-01;América del Sur;Chile;José Romero;Unimarc;A097 Queso azul;LACTEOS;QUESO AZUL;8.50;13.90;61.4
+2025-04-27;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;54
+2026-06-24;Europa;Alemania;Pablo González;Rewe;A238 Aguja de cerdo fresca;CARNE;AGUJA DE CERDO;4.80;7.90;27.1
+2025-09-10;Europa;Países Bajos;David Martínez;Albert Heijn;A307 Mezcla de verduras para wok;CONGELADOS;VERDURAS PARA WOK;2.80;4.90;89.6
+2026-04-03;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A136 Empanada gallega;PANADERIA;EMPANADA;6.80;11.20;69.7
+2025-02-17;Europa;Alemania;Pablo González;Lidl;A044 Manzana Royal Gala;FRUTA;MANZANA ROYAL GALA;1.35;2.39;69.1
+2021-03-22;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;67
+2021-02-26;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A167 Cuscús de trigo;LEGUMBRES Y CEREALES;CUSCUS;1.90;3.19;70
+2020-02-14;Asia;Singapur;Mario Ruiz;FairPrice;A098 Mantequilla tradicional;LACTEOS;MANTEQUILLA;5.80;9.49;6
+2026-09-29;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A117 Chopped de cerdo;CHARCUTERIA;CHOPPED DE CERDO;3.90;6.49;13
+2026-11-04;Asia;Singapur;Mario Ruiz;Sheng Siong;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;87.7
+2023-11-22;Europa;Francia;Daniel Rodríguez;Auchan;A325 Alubias blancas cocidas;CONSERVAS;ALUBIAS BLANCAS COCIDAS;1.50;2.59;71.3
+2025-06-24;Europa;Alemania;Pablo González;Edeka;A275 Remolacha fresca;VERDURA;REMOLACHA;1.30;2.29;63.6
+2021-07-22;Europa;Reino Unido;Javier Sánchez;Morrisons;A200 Café molido natural;BEBIDAS;CAFE MOLIDO;8.50;13.90;94.3
+2025-09-14;Europa;España;Alejandro García;Carrefour;A018 Carne picada de ternera;CARNE;CARNE PICADA DE TERNERA;7.80;12.90;43.6
+2024-03-20;Asia;Singapur;Mario Ruiz;FairPrice;A180 Tomate triturado en conserva;CONSERVAS;TOMATE TRITURADO;1.20;2.09;17.5
+2023-09-07;Europa;Francia;Daniel Rodríguez;Carrefour;A325 Alubias blancas cocidas;CONSERVAS;ALUBIAS BLANCAS COCIDAS;1.50;2.59;61
+2020-06-11;Europa;Alemania;Pablo González;Edeka;A328 Pisto de verduras;CONSERVAS;PISTO DE VERDURAS;2.80;4.90;62.9
+2026-05-08;Europa;España;Alejandro García;Lidl;A088 Yogur natural;LACTEOS;YOGUR NATURAL;1.65;2.69;85.4
+2021-12-20;América del Norte;México;Marcos Moreno;Soriana;A197 Bebida isotónica;BEBIDAS;BEBIDA ISOTONICA;1.20;2.09;10.6
+2026-08-19;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A041 Langostinos frescos;PESCADO;LANGOSTINOS;13.50;22.90;62.2
+2020-12-17;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A208 Avellanas naturales;FRUTOS SECOS;AVELLANAS;9.50;15.50;47.7
+2021-10-27;Europa;Italia;Manuel Fernández;Eurospin;A148 Nuggets de pollo congelados;CONGELADOS;NUGGETS DE POLLO;4.10;6.90;23.5
+2025-04-11;Europa;Francia;Daniel Rodríguez;E.Leclerc;A170 Harina de trigo;LEGUMBRES Y CEREALES;HARINA DE TRIGO;0.85;1.49;7.8
+2021-06-30;Europa;Portugal;Álvaro López;Lidl;A118 Morcilla tradicional;CHARCUTERIA;MORCILLA;4.50;7.49;16.3
+2020-04-04;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A150 Gambas peladas congeladas;CONGELADOS;GAMBAS PELADAS;10.50;17.20;20.1
+2024-09-04;Europa;Francia;Daniel Rodríguez;Carrefour;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;59.5
+2023-01-02;Europa;Francia;Daniel Rodríguez;Carrefour;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;92.2
+2026-05-26;Europa;Alemania;Pablo González;Rewe;A047 Pera de agua fresca;FRUTA;PERA DE AGUA;1.60;2.89;35.8
+2023-06-16;América del Norte;México;Marcos Moreno;Soriana;A305 Empanadillas de atún;CONGELADOS;EMPANADILLAS DE ATUN;4.50;7.49;48.2
+2020-03-01;Asia;India;Adrián Martín;More;A079 Coliflor fresca;VERDURA;COLIFLOR;1.50;2.69;59.3
+2026-05-21;Asia;India;Adrián Martín;Reliance Smart Bazaar;A042 Mejillones frescos;PESCADO;MEJILLONES;2.80;4.90;67.1
+2025-10-12;Europa;Alemania;Pablo González;Edeka;A048 Naranja de mesa;FRUTA;NARANJA DE MESA;0.95;1.79;9.5
+2020-01-08;América del Sur;Argentina;Miguel Muñoz;Coto;A316 Semillas de lino;LEGUMBRES Y CEREALES;SEMILLAS DE LINO;3.50;5.90;19.5
+2021-01-23;Europa;Italia;Manuel Fernández;Esselunga;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;41.9
+2025-05-07;Europa;Alemania;Pablo González;Rewe;A154 Mezcla de frutos rojos congelados;CONGELADOS;FRUTOS ROJOS;5.20;8.49;28.9
+2020-09-16;América del Sur;Argentina;Miguel Muñoz;Carrefour;A010 Paleta de cerdo fresca;CARNE;PALETA DE CERDO;4.10;6.90;18.6
+2026-06-22;América del Norte;México;Marcos Moreno;Walmart de México;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;75.6
+2021-02-12;Oceanía;Australia;Rubén Navarro;Woolworths;A156 Garbanzos secos;LEGUMBRES Y CEREALES;GARBANZOS;1.50;2.59;91.4
+2021-01-09;América del Norte;Estados Unidos;Hugo Hernández;Costco;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;26.5
+2021-05-18;América del Sur;Perú;Raúl Gutiérrez;Tottus;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;54.8
+2023-09-04;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A026 Salmón ahumado en lonchas;PESCADO;SALMON AHUMADO;22.00;34.90;18.5
+2025-04-03;Asia;Japón;Sergio Pérez;Life;A285 Nata montada refrigerada;LACTEOS;NATA MONTADA;3.20;5.49;74.5
+2023-12-13;Europa;Países Bajos;David Martínez;Albert Heijn;A096 Queso parmesano;LACTEOS;QUESO PARMESANO;14.00;22.90;26
+2021-07-05;Asia;China;Carlos Gómez;Hema;A015 Filete de ternera fresco;CARNE;FILETE DE TERNERA;10.50;17.90;38.2
+2024-12-14;Europa;Francia;Daniel Rodríguez;Auchan;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;84
+2022-04-23;América del Norte;México;Marcos Moreno;Chedraui;A030 Sardinas frescas;PESCADO;SARDINAS;3.80;6.49;6.6
+2024-06-09;América del Norte;México;Marcos Moreno;Soriana;A223 Pan artesanal de masa madre;PANADERIA;PAN DE MASA MADRE;2.40;4.20;42.4
+2022-05-26;Asia;Japón;Sergio Pérez;Ito-Yokado;A188 Pimientos del piquillo;CONSERVAS;PIQUILLOS;5.20;8.49;67.2
+2020-07-17;América del Norte;México;Marcos Moreno;Walmart de México;A127 Pan de molde integral;PANADERIA;PAN DE MOLDE INTEGRAL;1.85;3.19;14
+2023-11-13;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A125 Pan de espelta;PANADERIA;PAN DE ESPELTA;2.80;4.69;30.9
+2024-05-09;Europa;Italia;Manuel Fernández;Eurospin;A104 Jamón ibérico de cebo;CHARCUTERIA;JAMON IBERICO DE CEBO;28.00;44.90;83.3
+2025-08-14;Europa;Portugal;Álvaro López;Lidl;A100 Requesón fresco;LACTEOS;REQUESON;4.10;6.90;73.3
+2021-09-25;Asia;China;Carlos Gómez;Hema;A313 Bulgur de trigo;LEGUMBRES Y CEREALES;BULGUR;2.80;4.90;87.5
+2025-03-17;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A006 Pavo entero fresco;CARNE;PAVO ENTERO;4.80;7.90;54.9
+2021-08-15;Asia;Singapur;Mario Ruiz;Cold Storage;A330 Melocotón en almíbar;CONSERVAS;MELOCOTON EN ALMIBAR;2.50;4.29;98.8
+2022-07-09;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A087 Leche de cabra;LACTEOS;LECHE DE CABRA;1.45;2.39;1.8
+2020-03-09;América del Norte;México;Marcos Moreno;Soriana;A066 Cebolla morada;VERDURA;CEBOLLA MORADA;1.10;2.09;72.1
+2022-06-21;Oceanía;Fiyi;Óscar Castillo;New World IGA;A152 Helado de vainilla;CONGELADOS;HELADO DE VAINILLA;3.80;6.29;31.5
+2022-03-19;América del Sur;Chile;José Romero;Santa Isabel;A319 Muesli de cereales;LEGUMBRES Y CEREALES;MUESLI;3.80;6.29;16.3
+2022-05-02;Asia;Japón;Sergio Pérez;Aeon;A227 Pan brioche para hamburguesa;PANADERIA;PAN DE HAMBURGUESA BRIOCHE;2.90;4.90;90.4
+2020-09-15;Europa;Alemania;Pablo González;Rewe;A044 Manzana Royal Gala;FRUTA;MANZANA ROYAL GALA;1.35;2.39;5.5
+2026-11-02;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A122 Baguette francesa;PANADERIA;BAGUETTE;1.20;2.10;77.2
+2020-11-20;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A119 Butifarra fresca;CHARCUTERIA;BUTIFARRA;6.50;10.90;66.6
+2020-03-08;Europa;Portugal;Álvaro López;Auchan;A296 Paté tradicional de cerdo;CHARCUTERIA;PATE DE CERDO;4.20;6.90;65.1
+2020-05-08;Asia;Singapur;Mario Ruiz;Cold Storage;A127 Pan de molde integral;PANADERIA;PAN DE MOLDE INTEGRAL;1.85;3.19;11.6
+2021-08-20;América del Sur;Colombia;Fernando Alonso;Éxito;A142 Patatas fritas congeladas;CONGELADOS;PATATAS FRITAS;1.50;2.59;12.9
+2024-12-31;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A203 Té negro en bolsitas;BEBIDAS;TE NEGRO;12.50;19.90;87.6
+2026-03-20;Oceanía;Australia;Rubén Navarro;ALDI;A019 Hamburguesa de vacuno;CARNE;HAMBURGUESA DE VACUNO;7.20;11.90;39.3
+2026-10-14;Oceanía;Fiyi;Óscar Castillo;RB Patel;A083 Leche entera UHT;LACTEOS;LECHE ENTERA;0.72;1.09;73.1
+2023-12-04;América del Norte;Canadá;Lucas Díaz;Loblaws;A066 Cebolla morada;VERDURA;CEBOLLA MORADA;1.10;2.09;34.4
+2020-06-27;América del Sur;Argentina;Miguel Muñoz;La Anónima;A093 Queso semicurado;LACTEOS;QUESO SEMICURADO;7.20;11.90;82.8
+2020-10-06;Asia;India;Adrián Martín;Reliance Smart Bazaar;A186 Aceitunas negras sin hueso;CONSERVAS;ACEITUNAS NEGRAS;4.10;6.79;37.2
+2021-03-27;Europa;Países Bajos;David Martínez;Jumbo;A105 Jamón ibérico de bellota;CHARCUTERIA;JAMON IBERICO DE BELLOTA;65.00;99.90;85
+2026-04-28;América del Norte;Canadá;Lucas Díaz;Loblaws;A109 Salchichón tradicional;CHARCUTERIA;SALCHICHON;7.50;12.20;37.5
+2021-03-20;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A276 Judía verde fresca;VERDURA;JUDIA VERDE FRESCA;2.50;4.29;43.3
+2025-06-26;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A042 Mejillones frescos;PESCADO;MEJILLONES;2.80;4.90;38.2
+2020-10-17;Asia;India;Adrián Martín;Reliance Smart Bazaar;A132 Magdalenas tradicionales;PANADERIA;MAGDALENAS;3.80;6.29;74.3
+2025-10-14;Europa;Italia;Manuel Fernández;Eurospin;A023 Merluza fresca entera;PESCADO;MERLUZA;7.80;12.90;51.5
+2025-09-20;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A234 Costillar de ternera fresco;CARNE;COSTILLAR DE TERNERA;12.50;20.90;70.8
+2026-05-13;Europa;Alemania;Pablo González;Aldi;A016 Solomillo de ternera fresco;CARNE;SOLOMILLO DE TERNERA;22.00;34.90;86
+2025-01-30;Europa;Reino Unido;Javier Sánchez;Morrisons;A252 Vieiras frescas;PESCADO;VIEIRAS;18.50;29.90;91.5
+2023-01-25;Europa;Francia;Daniel Rodríguez;Auchan;A085 Leche desnatada UHT;LACTEOS;LECHE DESNATADA;0.68;1.02;28.6
+2026-10-23;América del Sur;Colombia;Fernando Alonso;Olímpica;A173 Atún en aceite de oliva;CONSERVAS;ATUN EN ACEITE;8.50;13.90;55.7
+2026-11-09;Asia;Singapur;Mario Ruiz;Giant;A240 Pluma de cerdo ibérico;CARNE;PLUMA IBERICA;16.50;26.90;79.2
+2020-06-29;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A189 Agua mineral natural;BEBIDAS;AGUA MINERAL;0.12;0.25;55.7
+2020-04-12;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A279 Queso Brie francés;LACTEOS;QUESO BRIE;8.50;13.90;48.5
+2022-08-01;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A204 Cacao puro en polvo;BEBIDAS;CACAO EN POLVO;5.50;9.20;27.5
+2023-02-13;América del Norte;México;Marcos Moreno;La Comer;A137 Guisantes congelados;CONGELADOS;GUISANTES;1.70;2.89;17.9
+2022-09-29;Europa;Países Bajos;David Martínez;Jumbo;A220 Palomitas de maíz;APERITIVOS;PALOMITAS;3.10;5.20;90.2
+2020-03-11;Asia;Japón;Sergio Pérez;Ito-Yokado;A081 Champiñón fresco;VERDURA;CHAMPIÑON;2.60;4.49;55.8
+2024-05-29;Asia;Singapur;Mario Ruiz;Cold Storage;A151 Calamares a la romana congelados;CONGELADOS;CALAMARES A LA ROMANA;6.50;10.90;21.8
+2020-10-19;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A184 Espárragos blancos en conserva;CONSERVAS;ESPARRAGOS BLANCOS;5.80;9.49;33.9
+2025-07-14;Oceanía;Fiyi;Óscar Castillo;RB Patel;A287 Yogur natural sin azúcar;LACTEOS;YOGUR NATURAL SIN AZUCAR;1.80;2.99;46.8
+2026-04-10;América del Sur;Colombia;Fernando Alonso;Éxito;A221 Tortitas de arroz;APERITIVOS;TORTITAS DE ARROZ;3.80;6.29;48.7
+2025-04-19;Asia;India;Adrián Martín;Spencer's;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;46.2
+2026-01-19;América del Norte;México;Marcos Moreno;Walmart de México;A143 Patatas gajo congeladas;CONGELADOS;PATATAS GAJO;2.10;3.59;66.8
+2026-10-31;Europa;Países Bajos;David Martínez;Albert Heijn;A097 Queso azul;LACTEOS;QUESO AZUL;8.50;13.90;33.4
+2024-04-16;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A025 Salmón fresco;PESCADO;SALMON FRESCO;10.50;17.90;1.8
+2021-08-12;Europa;Países Bajos;David Martínez;Albert Heijn;A328 Pisto de verduras;CONSERVAS;PISTO DE VERDURAS;2.80;4.90;7.3
+2021-12-19;América del Sur;Argentina;Miguel Muñoz;La Anónima;A141 Brócoli congelado;CONGELADOS;BROCOLI;2.00;3.39;29.6
+2023-11-29;Europa;Francia;Daniel Rodríguez;Intermarché;A113 Mortadela italiana;CHARCUTERIA;MORTADELA;4.10;6.79;61.8
+2024-02-02;Europa;Reino Unido;Javier Sánchez;Asda;A319 Muesli de cereales;LEGUMBRES Y CEREALES;MUESLI;3.80;6.29;86.1
+2026-05-06;Europa;Portugal;Álvaro López;Auchan;A026 Salmón ahumado en lonchas;PESCADO;SALMON AHUMADO;22.00;34.90;2.9
+2020-08-25;Asia;Japón;Sergio Pérez;Life;A118 Morcilla tradicional;CHARCUTERIA;MORCILLA;4.50;7.49;85.2
+2026-07-08;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A065 Cebolla amarilla;VERDURA;CEBOLLA AMARILLA;0.65;1.29;8.9
+2020-07-29;Oceanía;Australia;Rubén Navarro;Coles;A014 Carne de ternera para guisar;CARNE;TERNERA PARA GUISAR;8.20;13.50;8.5
+2021-08-03;Asia;Japón;Sergio Pérez;Seiyu;A264 Melón Galia;FRUTA;MELON GALIA;1.10;1.99;82.2
+2022-04-02;Asia;Japón;Sergio Pérez;Seiyu;A223 Pan artesanal de masa madre;PANADERIA;PAN DE MASA MADRE;2.40;4.20;70.2
+2026-09-03;Asia;Singapur;Mario Ruiz;Sheng Siong;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;67.5
+2023-08-01;Europa;Italia;Manuel Fernández;Eurospin;A092 Queso curado de oveja;LACTEOS;QUESO CURADO;9.50;15.90;60.8
+2023-08-06;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A056 Uva blanca sin semillas;FRUTA;UVA BLANCA;2.20;3.90;56.2
+2021-12-17;Europa;Francia;Daniel Rodríguez;Auchan;A220 Palomitas de maíz;APERITIVOS;PALOMITAS;3.10;5.20;10.4
+2024-05-17;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A282 Queso fresco de Burgos;LACTEOS;QUESO DE BURGOS;4.50;7.49;23
+2025-10-02;Europa;Portugal;Álvaro López;Continente;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;18.5
+2021-05-17;Oceanía;Australia;Rubén Navarro;IGA;A149 Filetes de merluza congelados;CONGELADOS;FILETES DE MERLUZA;7.50;12.20;7.5
+2021-10-25;Europa;Italia;Manuel Fernández;Eurospin;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;97.1
+2021-06-04;Asia;India;Adrián Martín;More;A202 Café soluble;BEBIDAS;CAFE SOLUBLE;18.00;28.90;60.4
+2020-10-06;América del Norte;México;Marcos Moreno;Soriana;A061 Sandía fresca;FRUTA;SANDIA;0.65;1.29;64.4
+2023-02-07;Asia;Corea del Sur;Diego Jiménez;Homeplus;A216 Dátiles sin hueso;FRUTOS SECOS;DATILES;5.20;8.49;85.5
+2022-07-24;Asia;Japón;Sergio Pérez;Seiyu;A223 Pan artesanal de masa madre;PANADERIA;PAN DE MASA MADRE;2.40;4.20;84.8
+2022-11-04;Europa;Alemania;Pablo González;Lidl;A017 Entrecot de ternera fresco;CARNE;ENTRECOT DE TERNERA;15.50;25.90;14
+2026-10-18;Europa;Italia;Manuel Fernández;Esselunga;A014 Carne de ternera para guisar;CARNE;TERNERA PARA GUISAR;8.20;13.50;41.8
+2022-03-04;Asia;China;Carlos Gómez;CR Vanguard;A208 Avellanas naturales;FRUTOS SECOS;AVELLANAS;9.50;15.50;71.3
+2021-12-07;América del Sur;Colombia;Fernando Alonso;Éxito;A052 Plátano de importación;FRUTA;PLATANO DE IMPORTACION;1.10;1.99;63.3
+2021-08-09;América del Sur;Chile;José Romero;Unimarc;A114 Bacon ahumado en lonchas;CHARCUTERIA;BACON AHUMADO;6.20;10.20;88
+2021-11-08;Europa;España;Alejandro García;Carrefour;A130 Croissant de mantequilla;PANADERIA;CROISSANT;5.50;9.20;28.5
+2024-03-23;Asia;Singapur;Mario Ruiz;Cold Storage;A206 Almendras tostadas;FRUTOS SECOS;ALMENDRAS TOSTADAS;10.00;16.50;62.1
+2021-12-04;América del Sur;Colombia;Fernando Alonso;Carulla;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;53.6
+2022-01-01;América del Norte;Canadá;Lucas Díaz;Loblaws;A116 Pechuga de pavo loncheada;CHARCUTERIA;PECHUGA DE PAVO LONCHEADA;8.20;13.50;65.6
+2026-03-27;América del Sur;Perú;Raúl Gutiérrez;Tottus;A313 Bulgur de trigo;LEGUMBRES Y CEREALES;BULGUR;2.80;4.90;41.2
+2022-10-05;América del Sur;Chile;José Romero;Jumbo;A064 Patata roja de consumo;VERDURA;PATATA ROJA;0.75;1.49;61.6
+2022-10-23;Asia;Singapur;Mario Ruiz;Giant;A277 Calabaza fresca;VERDURA;CALABAZA;1.10;1.99;2
+2021-04-03;Asia;India;Adrián Martín;DMart;A122 Baguette francesa;PANADERIA;BAGUETTE;1.20;2.10;61
+2021-10-12;Europa;Portugal;Álvaro López;Lidl;A088 Yogur natural;LACTEOS;YOGUR NATURAL;1.65;2.69;32.1
+2023-08-06;Europa;Alemania;Pablo González;Aldi;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;85
+2026-08-08;Asia;Japón;Sergio Pérez;Ito-Yokado;A209 Pistachos tostados;FRUTOS SECOS;PISTACHOS;13.50;21.90;10
+2024-11-21;América del Sur;Chile;José Romero;Santa Isabel;A214 Pasas de uva;FRUTOS SECOS;PASAS;4.10;6.79;88.9
+2025-09-07;Europa;España;Alejandro García;Lidl;A229 Pan de maíz tradicional;PANADERIA;PAN DE MAIZ;2.10;3.69;65
+2026-10-12;Europa;Portugal;Álvaro López;Pingo Doce;A253 Almejas frescas;PESCADO;ALMEJAS FRESCAS;12.50;20.90;65.1
+2023-06-02;Europa;Portugal;Álvaro López;Auchan;A303 Filetes de salmón congelados;CONGELADOS;FILETES DE SALMON;11.50;18.90;75
+2024-03-05;Europa;Italia;Manuel Fernández;Esselunga;A165 Pasta integral;LEGUMBRES Y CEREALES;PASTA INTEGRAL;1.50;2.49;5.7
+2025-08-04;Oceanía;Fiyi;Óscar Castillo;RB Patel;A258 Papaya tropical;FRUTA;PAPAYA;2.80;4.90;30.8
+2025-05-31;Oceanía;Australia;Rubén Navarro;ALDI;A076 Calabacín fresco;VERDURA;CALABACIN;1.10;1.99;7.7
+2024-08-26;Oceanía;Nueva Zelanda;Iván Torres;New World;A322 Pimientos del piquillo rellenos;CONSERVAS;PIMIENTO DEL PIQUILLO RELLENO;7.50;12.50;98.7
+2024-02-04;Europa;Francia;Daniel Rodríguez;Intermarché;A189 Agua mineral natural;BEBIDAS;AGUA MINERAL;0.12;0.25;40.8
+2020-11-02;Europa;Portugal;Álvaro López;Lidl;A222 Nachos de maíz;APERITIVOS;NACHOS DE MAIZ;4.50;7.49;31.8
+2023-01-05;Asia;India;Adrián Martín;More;A308 Maíz dulce congelado;CONGELADOS;MAIZ DULCE CONGELADO;1.80;3.19;64.6
+2023-02-16;Europa;Portugal;Álvaro López;Pingo Doce;A042 Mejillones frescos;PESCADO;MEJILLONES;2.80;4.90;4.3
+2020-12-17;América del Norte;México;Marcos Moreno;La Comer;A153 Helado de chocolate;CONGELADOS;HELADO DE CHOCOLATE;4.20;6.90;95.8
+2023-10-03;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A108 Chorizo curado;CHARCUTERIA;CHORIZO CURADO;7.20;11.90;69.1
+2020-06-21;Asia;Japón;Sergio Pérez;Ito-Yokado;A092 Queso curado de oveja;LACTEOS;QUESO CURADO;9.50;15.90;72.4
+2021-11-04;Europa;Portugal;Álvaro López;Lidl;A326 Garbanzos cocidos;CONSERVAS;GARBANZOS COCIDOS;1.40;2.39;28
+2024-10-20;Asia;India;Adrián Martín;More;A080 Espinacas frescas en bolsa;VERDURA;ESPINACAS FRESCAS;2.50;4.29;31
+2025-08-05;América del Sur;Perú;Raúl Gutiérrez;Tottus;A075 Pimiento verde;VERDURA;PIMIENTO VERDE;1.70;2.99;65.7
+2021-04-22;Europa;Países Bajos;David Martínez;Lidl;A180 Tomate triturado en conserva;CONSERVAS;TOMATE TRITURADO;1.20;2.09;73.7
+2020-08-06;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A125 Pan de espelta;PANADERIA;PAN DE ESPELTA;2.80;4.69;32.3
+2026-03-16;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;31.2
+2026-10-27;América del Sur;Chile;José Romero;Santa Isabel;A068 Tomate cherry fresco;VERDURA;TOMATE CHERRY;2.40;4.29;98.9
+2021-06-18;Europa;España;Alejandro García;Carrefour;A224 Pan tradicional de payés;PANADERIA;PAN DE PAYES;2.80;4.90;44.9
+2021-10-14;Europa;Italia;Manuel Fernández;Coop;A052 Plátano de importación;FRUTA;PLATANO DE IMPORTACION;1.10;1.99;38.7
+2022-07-31;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A092 Queso curado de oveja;LACTEOS;QUESO CURADO;9.50;15.90;8.9
+2020-07-02;Europa;Francia;Daniel Rodríguez;Carrefour;A098 Mantequilla tradicional;LACTEOS;MANTEQUILLA;5.80;9.49;57.5
+2025-08-06;Europa;Italia;Manuel Fernández;Eurospin;A315 Semillas de chía;LEGUMBRES Y CEREALES;SEMILLAS DE CHIA;5.50;9.20;72.6
+2022-06-27;América del Norte;Estados Unidos;Hugo Hernández;Costco;A311 Arroz salvaje;LEGUMBRES Y CEREALES;ARROZ SALVAJE;4.50;7.49;91.1
+2024-07-29;América del Sur;Perú;Raúl Gutiérrez;Metro;A053 Fresas frescas;FRUTA;FRESA;3.20;5.49;43.1
+2022-12-15;Europa;Francia;Daniel Rodríguez;Auchan;A244 Pechuga de pato fresca;CARNE;PECHUGA DE PATO;12.50;20.90;36.4
+2024-07-28;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A063 Patata blanca de consumo;VERDURA;PATATA BLANCA;0.55;1.09;99.6
+2025-09-01;Asia;Singapur;Mario Ruiz;Cold Storage;A308 Maíz dulce congelado;CONGELADOS;MAIZ DULCE CONGELADO;1.80;3.19;60.2
+2024-04-19;Europa;Portugal;Álvaro López;Auchan;A327 Lentejas cocidas;CONSERVAS;LENTEJAS COCIDAS;1.30;2.29;23.7
+2021-05-18;Asia;India;Adrián Martín;Reliance Smart Bazaar;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;9.6
+2021-09-10;América del Sur;Chile;José Romero;Líder;A039 Sepia fresca;PESCADO;SEPIA;10.50;17.50;16.3
+2024-12-04;Oceanía;Nueva Zelanda;Iván Torres;New World;A320 Harina de garbanzo;LEGUMBRES Y CEREALES;HARINA DE GARBANZO;2.50;4.29;81.9
+2024-11-15;Asia;Singapur;Mario Ruiz;Giant;A080 Espinacas frescas en bolsa;VERDURA;ESPINACAS FRESCAS;2.50;4.29;96
+2022-06-02;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A093 Queso semicurado;LACTEOS;QUESO SEMICURADO;7.20;11.90;21.3
+2023-05-14;América del Norte;México;Marcos Moreno;Chedraui;A264 Melón Galia;FRUTA;MELON GALIA;1.10;1.99;50.9
+2023-10-24;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A218 Patatas fritas onduladas;APERITIVOS;PATATAS ONDULADAS;3.80;6.29;62.4
+2026-05-14;Asia;Singapur;Mario Ruiz;FairPrice;A272 Col lombarda fresca;VERDURA;COL LOMBARDA;1.40;2.49;56.3
+2024-02-11;Europa;Portugal;Álvaro López;Continente;A039 Sepia fresca;PESCADO;SEPIA;10.50;17.50;24
+2020-05-02;Europa;Alemania;Pablo González;Lidl;A144 Pizza margarita congelada;CONGELADOS;PIZZA MARGARITA;3.80;6.29;10.9
+2025-04-03;América del Sur;Colombia;Fernando Alonso;Carulla;A217 Patatas fritas clásicas;APERITIVOS;PATATAS FRITAS;3.50;5.79;77.8
+2024-06-12;Europa;España;Alejandro García;Eroski;A296 Paté tradicional de cerdo;CHARCUTERIA;PATE DE CERDO;4.20;6.90;17.2
+2024-12-04;Asia;India;Adrián Martín;Reliance Smart Bazaar;A027 Bacalao fresco;PESCADO;BACALAO FRESCO;10.80;17.50;9.3
+2022-09-10;Asia;Corea del Sur;Diego Jiménez;E-Mart;A028 Bacalao desalado;PESCADO;BACALAO DESALADO;13.50;21.90;93.1
+2022-06-05;América del Sur;Argentina;Miguel Muñoz;Día;A150 Gambas peladas congeladas;CONGELADOS;GAMBAS PELADAS;10.50;17.20;89.3
+2024-10-29;Europa;Italia;Manuel Fernández;Conad;A144 Pizza margarita congelada;CONGELADOS;PIZZA MARGARITA;3.80;6.29;20.5
+2026-08-18;Asia;China;Carlos Gómez;CR Vanguard;A140 Espinacas congeladas;CONGELADOS;ESPINACAS;1.60;2.79;91.5
+2021-05-14;América del Sur;Perú;Raúl Gutiérrez;Wong;A323 Corazones de alcachofa;CONSERVAS;CORAZONES DE ALCACHOFA;5.50;9.20;48.9
+2021-09-01;Oceanía;Australia;Rubén Navarro;ALDI;A201 Café en grano natural;BEBIDAS;CAFE EN GRANO;12.00;19.90;26.8
+2026-10-01;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A327 Lentejas cocidas;CONSERVAS;LENTEJAS COCIDAS;1.30;2.29;48.3
+2025-09-19;América del Sur;Chile;José Romero;Jumbo;A176 Caballa en aceite;CONSERVAS;CABALLA EN ACEITE;6.80;11.20;8.7
+2021-05-13;Oceanía;Australia;Rubén Navarro;Coles;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;89.1
+2025-10-25;Europa;Francia;Daniel Rodríguez;Carrefour;A111 Fuet tradicional;CHARCUTERIA;FUET;8.20;13.50;4.4
+2024-03-01;América del Sur;Argentina;Miguel Muñoz;Día;A236 Rabo de ternera troceado;CARNE;RABO DE TERNERA;8.50;13.90;32
+2024-04-27;Europa;Francia;Daniel Rodríguez;E.Leclerc;A123 Pan integral de trigo;PANADERIA;PAN INTEGRAL;1.55;2.69;41.3
+2023-09-11;América del Norte;México;Marcos Moreno;Chedraui;A028 Bacalao desalado;PESCADO;BACALAO DESALADO;13.50;21.90;57.4
+2024-09-09;Europa;Francia;Daniel Rodríguez;Intermarché;A244 Pechuga de pato fresca;CARNE;PECHUGA DE PATO;12.50;20.90;57.4
+2023-02-27;América del Norte;México;Marcos Moreno;La Comer;A239 Presa de cerdo ibérico;CARNE;PRESA IBERICA;15.50;24.90;76.8
+2024-09-27;Asia;India;Adrián Martín;Spencer's;A132 Magdalenas tradicionales;PANADERIA;MAGDALENAS;3.80;6.29;77
+2026-06-11;América del Sur;Perú;Raúl Gutiérrez;Tottus;A298 Salchichas Frankfurt;CHARCUTERIA;SALCHICHAS FRANKFURT;4.50;7.49;60.5
+2021-02-17;Europa;Países Bajos;David Martínez;Jumbo;A046 Pera Conferencia;FRUTA;PERA CONFERENCIA;1.45;2.59;65.4
+2025-08-27;Europa;Alemania;Pablo González;Aldi;A206 Almendras tostadas;FRUTOS SECOS;ALMENDRAS TOSTADAS;10.00;16.50;95.7
+2020-12-21;Europa;Italia;Manuel Fernández;Coop;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;23.8
+2022-04-08;Europa;Alemania;Pablo González;Rewe;A088 Yogur natural;LACTEOS;YOGUR NATURAL;1.65;2.69;9.5
+2023-09-16;Oceanía;Australia;Rubén Navarro;IGA;A251 Anchoas frescas;PESCADO;ANCHOAS FRESCAS;5.50;9.20;9.3
+2023-04-27;Europa;España;Alejandro García;Eroski;A155 Lentejas secas;LEGUMBRES Y CEREALES;LENTEJAS;1.40;2.39;64.1
+2026-10-06;América del Sur;Colombia;Fernando Alonso;Éxito;A231 Tarta artesanal de queso;PANADERIA;TARTA DE QUESO;8.50;13.90;74.5
+2020-12-16;América del Sur;Perú;Raúl Gutiérrez;Tottus;A315 Semillas de chía;LEGUMBRES Y CEREALES;SEMILLAS DE CHIA;5.50;9.20;62.4
+2022-12-01;Oceanía;Australia;Rubén Navarro;ALDI;A258 Papaya tropical;FRUTA;PAPAYA;2.80;4.90;4.1
+2023-08-24;Asia;India;Adrián Martín;DMart;A181 Tomate frito en conserva;CONSERVAS;TOMATE FRITO;1.70;2.89;96.1
+2022-04-08;Europa;España;Alejandro García;Lidl;A312 Arroz jazmín;LEGUMBRES Y CEREALES;ARROZ JAZMIN;2.50;4.29;61.2
+2024-04-05;Europa;Italia;Manuel Fernández;Esselunga;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;64.6
+2020-10-22;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A094 Queso manchego;LACTEOS;QUESO MANCHEGO;13.50;21.90;77.2
+2026-03-06;Europa;Países Bajos;David Martínez;Jumbo;A085 Leche desnatada UHT;LACTEOS;LECHE DESNATADA;0.68;1.02;39.9
+2024-10-15;Europa;Francia;Daniel Rodríguez;Auchan;A277 Calabaza fresca;VERDURA;CALABAZA;1.10;1.99;30.3
+2025-08-03;Europa;Portugal;Álvaro López;Lidl;A205 Almendras naturales;FRUTOS SECOS;ALMENDRAS NATURALES;8.50;13.90;1.1
+2024-02-13;Asia;China;Carlos Gómez;Walmart;A215 Orejones de albaricoque;FRUTOS SECOS;OREJONES;7.50;12.20;75.7
+2025-06-14;América del Sur;Colombia;Fernando Alonso;Jumbo;A015 Filete de ternera fresco;CARNE;FILETE DE TERNERA;10.50;17.90;31
+2024-05-14;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A216 Dátiles sin hueso;FRUTOS SECOS;DATILES;5.20;8.49;85.8
+2023-07-21;Asia;Singapur;Mario Ruiz;Sheng Siong;A244 Pechuga de pato fresca;CARNE;PECHUGA DE PATO;12.50;20.90;14.8
+2020-01-26;América del Sur;Argentina;Miguel Muñoz;Coto;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;5.6
+2022-08-05;Europa;Francia;Daniel Rodríguez;Auchan;A142 Patatas fritas congeladas;CONGELADOS;PATATAS FRITAS;1.50;2.59;26.5
+2026-11-10;Oceanía;Fiyi;Óscar Castillo;MaxVal-u;A072 Lechuga iceberg;VERDURA;LECHUGA ICEBERG;0.95;1.79;60.8
+2024-09-02;Europa;Francia;Daniel Rodríguez;E.Leclerc;A025 Salmón fresco;PESCADO;SALMON FRESCO;10.50;17.90;35.6
+2020-10-12;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A228 Pan integral con semillas;PANADERIA;PAN DE SEMILLAS;2.30;3.99;79.3
+2024-07-22;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;100
+2023-01-06;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A145 Pizza cuatro quesos congelada;CONGELADOS;PIZZA CUATRO QUESOS;4.50;7.49;19.5
+2021-11-13;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A045 Manzana Fuji;FRUTA;MANZANA FUJI;1.55;2.79;98.3
+2023-02-13;América del Norte;México;Marcos Moreno;Walmart de México;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;9.8
+2025-11-01;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;29
+2020-11-18;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A100 Requesón fresco;LACTEOS;REQUESON;4.10;6.90;67.6
+2020-08-23;América del Sur;Chile;José Romero;Santa Isabel;A053 Fresas frescas;FRUTA;FRESA;3.20;5.49;30.1
+2021-01-27;América del Sur;Colombia;Fernando Alonso;Jumbo;A165 Pasta integral;LEGUMBRES Y CEREALES;PASTA INTEGRAL;1.50;2.49;93.1
+2021-01-12;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A029 Atún fresco en lomos;PESCADO;ATUN FRESCO;14.50;23.90;28.3
+2026-01-13;Europa;España;Alejandro García;Eroski;A296 Paté tradicional de cerdo;CHARCUTERIA;PATE DE CERDO;4.20;6.90;90.5
+2022-04-19;América del Sur;Argentina;Miguel Muñoz;Día;A253 Almejas frescas;PESCADO;ALMEJAS FRESCAS;12.50;20.90;29.3
+2024-05-31;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A200 Café molido natural;BEBIDAS;CAFE MOLIDO;8.50;13.90;96.3
+2022-12-16;Oceanía;Australia;Rubén Navarro;IGA;A135 Ensaimada tradicional;PANADERIA;ENSAIMADA;6.50;10.90;80.4
+2025-05-16;América del Sur;Argentina;Miguel Muñoz;Día;A206 Almendras tostadas;FRUTOS SECOS;ALMENDRAS TOSTADAS;10.00;16.50;63.3
+2024-12-03;Asia;Singapur;Mario Ruiz;Sheng Siong;A332 Mermelada de fresa;CONSERVAS;MERMELADA DE FRESA;2.80;4.90;1.4
+2025-03-05;Asia;Japón;Sergio Pérez;Seiyu;A130 Croissant de mantequilla;PANADERIA;CROISSANT;5.50;9.20;98.4
+2023-10-18;Europa;Francia;Daniel Rodríguez;Intermarché;A236 Rabo de ternera troceado;CARNE;RABO DE TERNERA;8.50;13.90;14.5
+2020-04-18;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A144 Pizza margarita congelada;CONGELADOS;PIZZA MARGARITA;3.80;6.29;40.6
+2026-03-10;Europa;Italia;Manuel Fernández;Coop;A228 Pan integral con semillas;PANADERIA;PAN DE SEMILLAS;2.30;3.99;29.8
+2022-07-01;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;73.9
+2026-03-24;Asia;Japón;Sergio Pérez;Seiyu;A117 Chopped de cerdo;CHARCUTERIA;CHOPPED DE CERDO;3.90;6.49;97.1
+2021-09-26;América del Sur;Colombia;Fernando Alonso;Éxito;A035 Rape fresco;PESCADO;RAPE;13.90;22.90;25.9
+2020-04-09;América del Norte;Canadá;Lucas Díaz;Loblaws;A054 Frambuesas frescas;FRUTA;FRAMBUESA;8.50;13.90;66.3
+2025-07-12;Oceanía;Australia;Rubén Navarro;Coles;A011 Secreto de cerdo ibérico;CARNE;SECRETO DE CERDO;8.90;14.50;1.3
+2024-12-16;Europa;Alemania;Pablo González;Rewe;A106 Jamón cocido en lonchas;CHARCUTERIA;JAMON COCIDO;5.20;8.49;81.5
+2023-11-20;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A041 Langostinos frescos;PESCADO;LANGOSTINOS;13.50;22.90;3.9
+2022-04-29;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A026 Salmón ahumado en lonchas;PESCADO;SALMON AHUMADO;22.00;34.90;38.8
+2021-09-24;Europa;España;Alejandro García;Mercadona;A260 Caqui fresco;FRUTA;CAQUI;1.80;3.19;48.6
+2020-05-31;Europa;Países Bajos;David Martínez;Albert Heijn;A315 Semillas de chía;LEGUMBRES Y CEREALES;SEMILLAS DE CHIA;5.50;9.20;96.1
+2020-03-03;Asia;India;Adrián Martín;More;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;19.6
+2020-04-08;América del Norte;México;Marcos Moreno;Soriana;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;97.2
+2026-10-26;Asia;China;Carlos Gómez;Walmart;A077 Berenjena fresca;VERDURA;BERENJENA;1.30;2.39;28.9
+2023-06-30;América del Norte;México;Marcos Moreno;Soriana;A113 Mortadela italiana;CHARCUTERIA;MORTADELA;4.10;6.79;28.4
+2021-06-23;Europa;Portugal;Álvaro López;Pingo Doce;A113 Mortadela italiana;CHARCUTERIA;MORTADELA;4.10;6.79;90.6
+2023-12-09;Europa;Italia;Manuel Fernández;Coop;A312 Arroz jazmín;LEGUMBRES Y CEREALES;ARROZ JAZMIN;2.50;4.29;47
+2025-08-01;Oceanía;Australia;Rubén Navarro;Coles;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;23.2
+2024-08-20;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A060 Melocotón amarillo;FRUTA;MELOCOTON;1.80;3.19;32.7
+2025-06-11;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A017 Entrecot de ternera fresco;CARNE;ENTRECOT DE TERNERA;15.50;25.90;38.8
+2021-08-27;Europa;Portugal;Álvaro López;Auchan;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;35.5
+2026-10-10;Asia;China;Carlos Gómez;RT-Mart;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;83.1
+2020-06-30;Europa;Francia;Daniel Rodríguez;E.Leclerc;A013 Carne picada de cerdo;CARNE;CARNE PICADA DE CERDO;4.60;7.50;84.9
+2026-01-06;América del Norte;Canadá;Lucas Díaz;Sobeys;A306 Canelones rellenos de carne;CONGELADOS;CANELONES DE CARNE;5.20;8.49;37.7
+2020-04-04;Asia;China;Carlos Gómez;RT-Mart;A298 Salchichas Frankfurt;CHARCUTERIA;SALCHICHAS FRANKFURT;4.50;7.49;46.8
+2024-08-16;Europa;Alemania;Pablo González;Rewe;A267 Batata fresca;VERDURA;BATATA;1.20;2.19;25.1
+2025-03-17;Europa;Reino Unido;Javier Sánchez;Tesco;A069 Tomate Raf;VERDURA;TOMATE RAF;3.80;6.49;3.9
+2026-11-19;América del Norte;Canadá;Lucas Díaz;Sobeys;A032 Dorada fresca;PESCADO;DORADA;6.90;11.49;48.4
+2026-09-04;América del Sur;Argentina;Miguel Muñoz;Coto;A325 Alubias blancas cocidas;CONSERVAS;ALUBIAS BLANCAS COCIDAS;1.50;2.59;68.2
+2023-11-07;Europa;Reino Unido;Javier Sánchez;Asda;A217 Patatas fritas clásicas;APERITIVOS;PATATAS FRITAS;3.50;5.79;40.6
+2026-05-08;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A219 Gusanitos de maíz;APERITIVOS;GUSANITOS DE MAIZ;4.20;6.90;61.5
+2024-05-30;Asia;Corea del Sur;Diego Jiménez;Homeplus;A049 Naranja para zumo;FRUTA;NARANJA DE ZUMO;0.75;1.39;72.2
+2023-05-14;Europa;Reino Unido;Javier Sánchez;Asda;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;16.9
+2023-05-02;Europa;Alemania;Pablo González;Aldi;A093 Queso semicurado;LACTEOS;QUESO SEMICURADO;7.20;11.90;86.5
+2025-03-24;América del Sur;Colombia;Fernando Alonso;Olímpica;A284 Queso Feta griego;LACTEOS;QUESO FETA;8.20;13.50;21.3
+2021-05-22;Europa;Italia;Manuel Fernández;Coop;A134 Bizcocho casero;PANADERIA;BIZCOCHO;4.10;6.90;15.7
+2025-01-27;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A007 Pechuga de pavo fresca;CARNE;PECHUGA DE PAVO;6.50;10.50;95.3
+2021-06-12;Europa;Países Bajos;David Martínez;Lidl;A116 Pechuga de pavo loncheada;CHARCUTERIA;PECHUGA DE PAVO LONCHEADA;8.20;13.50;91.6
+2020-05-20;Asia;China;Carlos Gómez;Walmart;A202 Café soluble;BEBIDAS;CAFE SOLUBLE;18.00;28.90;13
+2024-09-19;Europa;Portugal;Álvaro López;Auchan;A002 Pechuga de pollo fresca;CARNE;PECHUGA DE POLLO;5.40;8.95;72.5
+2024-02-19;Europa;Alemania;Pablo González;Lidl;A178 Berberechos en conserva;CONSERVAS;BERBERECHOS;24.00;38.90;19.4
+2023-02-25;América del Norte;Canadá;Lucas Díaz;Loblaws;A064 Patata roja de consumo;VERDURA;PATATA ROJA;0.75;1.49;1.5
+2024-06-17;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A015 Filete de ternera fresco;CARNE;FILETE DE TERNERA;10.50;17.90;18
+2023-04-06;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A162 Arroz bomba;LEGUMBRES Y CEREALES;ARROZ BOMBA;2.80;4.69;68.1
+2024-08-09;América del Sur;Argentina;Miguel Muñoz;Día;A083 Leche entera UHT;LACTEOS;LECHE ENTERA;0.72;1.09;52.3
+2021-07-16;Asia;India;Adrián Martín;DMart;A080 Espinacas frescas en bolsa;VERDURA;ESPINACAS FRESCAS;2.50;4.29;80.9
+2021-01-12;Europa;Italia;Manuel Fernández;Conad;A241 Chuletas de cordero frescas;CARNE;CHULETAS DE CORDERO;14.50;23.90;18.7
+2024-01-18;Oceanía;Australia;Rubén Navarro;ALDI;A326 Garbanzos cocidos;CONSERVAS;GARBANZOS COCIDOS;1.40;2.39;63.4
+2026-05-04;Europa;Países Bajos;David Martínez;Aldi;A030 Sardinas frescas;PESCADO;SARDINAS;3.80;6.49;60.5
+2026-01-14;Asia;India;Adrián Martín;More;A195 Refresco de limón;BEBIDAS;REFRESCO DE LIMON;0.95;1.69;8.4
+2021-08-09;América del Sur;Colombia;Fernando Alonso;Jumbo;A041 Langostinos frescos;PESCADO;LANGOSTINOS;13.50;22.90;73.4
+2026-03-14;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A109 Salchichón tradicional;CHARCUTERIA;SALCHICHON;7.50;12.20;34.6
+2022-04-22;Europa;Italia;Manuel Fernández;Esselunga;A080 Espinacas frescas en bolsa;VERDURA;ESPINACAS FRESCAS;2.50;4.29;36.8
+2022-06-02;Europa;Italia;Manuel Fernández;Conad;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;56.2
+2025-12-27;América del Sur;Chile;José Romero;Santa Isabel;A083 Leche entera UHT;LACTEOS;LECHE ENTERA;0.72;1.09;28.6
+2022-11-25;Oceanía;Australia;Rubén Navarro;ALDI;A161 Arroz integral;LEGUMBRES Y CEREALES;ARROZ INTEGRAL;1.80;2.99;56.8
+2021-11-19;América del Sur;Chile;José Romero;Jumbo;A284 Queso Feta griego;LACTEOS;QUESO FETA;8.20;13.50;36.5
+2020-10-31;Europa;España;Alejandro García;Lidl;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;1.6
+2023-09-15;Oceanía;Australia;Rubén Navarro;ALDI;A263 Cerezas frescas;FRUTA;CEREZAS;5.50;9.49;99.5
+2022-12-17;América del Sur;Colombia;Fernando Alonso;Éxito;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;3.3
+2024-05-13;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A259 Granada fresca;FRUTA;GRANADA;2.10;3.69;51.3
+2023-06-08;América del Norte;Canadá;Lucas Díaz;Metro;A160 Arroz basmati;LEGUMBRES Y CEREALES;ARROZ BASMATI;2.10;3.49;82.1
+2025-07-17;América del Sur;Colombia;Fernando Alonso;Éxito;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;55.5
+2022-10-08;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A324 Espárragos trigueros en conserva;CONSERVAS;ESPARRAGOS TRIGUEROS;5.20;8.49;63.7
+2020-04-17;Europa;Francia;Daniel Rodríguez;Intermarché;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;38
+2020-12-31;Europa;Portugal;Álvaro López;Pingo Doce;A159 Arroz redondo;LEGUMBRES Y CEREALES;ARROZ REDONDO;1.30;2.19;5.2
+2023-01-18;Europa;Francia;Daniel Rodríguez;Carrefour;A209 Pistachos tostados;FRUTOS SECOS;PISTACHOS;13.50;21.90;56
+2024-02-24;Asia;Singapur;Mario Ruiz;Sheng Siong;A147 Croquetas de jamón congeladas;CONGELADOS;CROQUETAS DE JAMON;5.20;8.49;8.9
+2026-02-18;Europa;España;Alejandro García;Mercadona;A066 Cebolla morada;VERDURA;CEBOLLA MORADA;1.10;2.09;87.3
+2024-05-28;Europa;Países Bajos;David Martínez;Jumbo;A141 Brócoli congelado;CONGELADOS;BROCOLI;2.00;3.39;37.4
+2022-01-18;Europa;España;Alejandro García;Eroski;A150 Gambas peladas congeladas;CONGELADOS;GAMBAS PELADAS;10.50;17.20;80.2
+2020-04-12;América del Norte;Canadá;Lucas Díaz;Metro;A308 Maíz dulce congelado;CONGELADOS;MAIZ DULCE CONGELADO;1.80;3.19;85.3
+2024-11-02;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A043 Manzana Golden nacional;FRUTA;MANZANA GOLDEN;1.05;1.89;94.5
+2020-10-06;Asia;China;Carlos Gómez;RT-Mart;A070 Zanahoria fresca;VERDURA;ZANAHORIA;0.75;1.39;6.8
+2025-08-13;Europa;Países Bajos;David Martínez;Aldi;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;3.7
+2025-05-24;Europa;Italia;Manuel Fernández;Coop;A144 Pizza margarita congelada;CONGELADOS;PIZZA MARGARITA;3.80;6.29;34.5
+2021-02-24;Europa;Reino Unido;Javier Sánchez;Asda;A236 Rabo de ternera troceado;CARNE;RABO DE TERNERA;8.50;13.90;74.1
+2021-12-14;América del Norte;México;Marcos Moreno;Walmart de México;A084 Leche semidesnatada UHT;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;44.1
+2023-09-03;Europa;España;Alejandro García;Carrefour;A072 Lechuga iceberg;VERDURA;LECHUGA ICEBERG;0.95;1.79;69.9
+2020-09-03;Oceanía;Australia;Rubén Navarro;ALDI;A217 Patatas fritas clásicas;APERITIVOS;PATATAS FRITAS;3.50;5.79;91.4
+2025-01-28;América del Sur;Colombia;Fernando Alonso;Olímpica;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;15.3
+2023-09-13;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A204 Cacao puro en polvo;BEBIDAS;CACAO EN POLVO;5.50;9.20;33.7
+2021-04-12;Asia;Japón;Sergio Pérez;Life;A209 Pistachos tostados;FRUTOS SECOS;PISTACHOS;13.50;21.90;16.4
+2025-06-12;Asia;China;Carlos Gómez;Walmart;A017 Entrecot de ternera fresco;CARNE;ENTRECOT DE TERNERA;15.50;25.90;24.3
+2024-05-30;Asia;India;Adrián Martín;More;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;70.4
+2026-09-01;América del Sur;Colombia;Fernando Alonso;Éxito;A084 Leche semidesnatada UHT;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;21.5
+2021-08-12;América del Sur;Colombia;Fernando Alonso;Olímpica;A213 Pipas de calabaza;FRUTOS SECOS;PIPAS DE CALABAZA;8.50;13.90;90.3
+2023-12-18;América del Norte;Canadá;Lucas Díaz;Loblaws;A307 Mezcla de verduras para wok;CONGELADOS;VERDURAS PARA WOK;2.80;4.90;94.6
+2026-09-24;América del Sur;Perú;Raúl Gutiérrez;Tottus;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;86
+2025-07-09;Europa;Portugal;Álvaro López;Auchan;A187 Pepinillos en vinagre;CONSERVAS;PEPINILLOS;3.80;6.29;5
+2021-06-16;Europa;Italia;Manuel Fernández;Esselunga;A110 Lomo embuchado curado;CHARCUTERIA;LOMO EMBUCHADO;15.50;24.90;28.2
+2020-10-07;Europa;Francia;Daniel Rodríguez;E.Leclerc;A269 Puerro fresco;VERDURA;PUERRO;1.10;1.99;67.4
+2026-01-06;América del Sur;Colombia;Fernando Alonso;Éxito;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;16.1
+2024-06-03;Europa;Italia;Manuel Fernández;Coop;A033 Lubina fresca;PESCADO;LUBINA;7.80;12.90;31.2
+2020-07-23;Asia;China;Carlos Gómez;Walmart;A065 Cebolla amarilla;VERDURA;CEBOLLA AMARILLA;0.65;1.29;14.2
+2026-03-31;Oceanía;Fiyi;Óscar Castillo;New World IGA;A151 Calamares a la romana congelados;CONGELADOS;CALAMARES A LA ROMANA;6.50;10.90;44.7
+2025-07-18;Europa;Países Bajos;David Martínez;Jumbo;A327 Lentejas cocidas;CONSERVAS;LENTEJAS COCIDAS;1.30;2.29;28.2
+2025-02-25;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A202 Café soluble;BEBIDAS;CAFE SOLUBLE;18.00;28.90;65.8
+2024-08-16;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A071 Lechuga romana;VERDURA;LECHUGA ROMANA;0.85;1.59;92.7
+2023-02-27;América del Sur;Argentina;Miguel Muñoz;Coto;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;89
+2025-05-05;América del Sur;Argentina;Miguel Muñoz;La Anónima;A273 Coles de Bruselas frescas;VERDURA;COL DE BRUSELAS;2.20;3.90;55.6
+2021-06-10;América del Sur;Argentina;Miguel Muñoz;Coto;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;28.9
+2021-11-30;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A117 Chopped de cerdo;CHARCUTERIA;CHOPPED DE CERDO;3.90;6.49;83.7
+2025-04-23;América del Sur;Chile;José Romero;Jumbo;A293 Salchichón ibérico curado;CHARCUTERIA;SALCHICHON IBERICO;16.50;26.90;64.7
+2022-07-01;Asia;Corea del Sur;Diego Jiménez;Homeplus;A030 Sardinas frescas;PESCADO;SARDINAS;3.80;6.49;79.2
+2024-11-05;Oceanía;Australia;Rubén Navarro;Woolworths;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;48.6
+2021-09-03;Europa;Italia;Manuel Fernández;Coop;A049 Naranja para zumo;FRUTA;NARANJA DE ZUMO;0.75;1.39;13.6
+2022-11-05;América del Norte;Estados Unidos;Hugo Hernández;Costco;A156 Garbanzos secos;LEGUMBRES Y CEREALES;GARBANZOS;1.50;2.59;86.3
+2020-10-01;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;40.2
+2023-06-22;Asia;India;Adrián Martín;DMart;A070 Zanahoria fresca;VERDURA;ZANAHORIA;0.75;1.39;80.5
+2023-04-15;América del Sur;Colombia;Fernando Alonso;Jumbo;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;16.7
+2022-07-30;Europa;Países Bajos;David Martínez;Albert Heijn;A026 Salmón ahumado en lonchas;PESCADO;SALMON AHUMADO;22.00;34.90;22.6
+2026-07-08;Europa;España;Alejandro García;Eroski;A168 Quinoa natural;LEGUMBRES Y CEREALES;QUINOA;3.80;6.29;89.2
+2026-03-27;América del Sur;Colombia;Fernando Alonso;Éxito;A230 Panecillos rústicos variados;PANADERIA;PANECILLOS RUSTICOS;2.50;4.29;53.7
+2020-06-01;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A153 Helado de chocolate;CONGELADOS;HELADO DE CHOCOLATE;4.20;6.90;22.4
+2021-09-20;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A110 Lomo embuchado curado;CHARCUTERIA;LOMO EMBUCHADO;15.50;24.90;33.6
+2026-09-19;Europa;España;Alejandro García;Lidl;A146 Lasaña boloñesa congelada;CONGELADOS;LASAÑA BOLOÑESA;4.80;7.90;39.6
+2026-08-14;América del Norte;Canadá;Lucas Díaz;Metro;A209 Pistachos tostados;FRUTOS SECOS;PISTACHOS;13.50;21.90;96.3
+2022-05-03;Europa;Italia;Manuel Fernández;Coop;A146 Lasaña boloñesa congelada;CONGELADOS;LASAÑA BOLOÑESA;4.80;7.90;78.5
+2026-04-18;Europa;Países Bajos;David Martínez;Aldi;A277 Calabaza fresca;VERDURA;CALABAZA;1.10;1.99;89.1
+2026-08-25;América del Sur;Argentina;Miguel Muñoz;Coto;A067 Tomate de ensalada;VERDURA;TOMATE DE ENSALADA;1.35;2.49;25.8
+2026-03-12;Europa;Alemania;Pablo González;Rewe;A205 Almendras naturales;FRUTOS SECOS;ALMENDRAS NATURALES;8.50;13.90;92.2
+2024-07-15;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;55.3
+2023-04-23;Oceanía;Nueva Zelanda;Iván Torres;New World;A069 Tomate Raf;VERDURA;TOMATE RAF;3.80;6.49;67.7
+2022-12-03;Oceanía;Fiyi;Óscar Castillo;MaxVal-u;A301 Merluza rebozada congelada;CONGELADOS;MERLUZA REBOZADA;6.50;10.90;55.4
+2022-12-12;Europa;España;Alejandro García;Lidl;A185 Aceitunas verdes sin hueso;CONSERVAS;ACEITUNAS VERDES;3.50;5.79;94.8
+2022-03-01;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A181 Tomate frito en conserva;CONSERVAS;TOMATE FRITO;1.70;2.89;73.9
+2024-04-01;Asia;Singapur;Mario Ruiz;FairPrice;A136 Empanada gallega;PANADERIA;EMPANADA;6.80;11.20;23.8
+2020-08-25;América del Norte;México;Marcos Moreno;Chedraui;A087 Leche de cabra;LACTEOS;LECHE DE CABRA;1.45;2.39;80.2
+2022-12-30;Europa;Alemania;Pablo González;Rewe;A165 Pasta integral;LEGUMBRES Y CEREALES;PASTA INTEGRAL;1.50;2.49;92.4
+2025-06-28;Asia;India;Adrián Martín;Spencer's;A102 Huevos ecológicos;LACTEOS;HUEVOS ECOLOGICOS;3.50;5.69;87.5
+2023-11-14;Europa;Países Bajos;David Martínez;Aldi;A021 Conejo entero fresco;CARNE;CONEJO ENTERO;5.80;9.49;4.7
+2024-09-09;América del Sur;Argentina;Miguel Muñoz;Carrefour;A052 Plátano de importación;FRUTA;PLATANO DE IMPORTACION;1.10;1.99;79.4
+2021-11-11;Asia;Japón;Sergio Pérez;Seiyu;A109 Salchichón tradicional;CHARCUTERIA;SALCHICHON;7.50;12.20;9.1
+2024-10-01;Europa;Francia;Daniel Rodríguez;Carrefour;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;82.9
+2022-02-27;Oceanía;Australia;Rubén Navarro;IGA;A174 Atún al natural;CONSERVAS;ATUN AL NATURAL;9.20;14.90;92.4
+2021-08-05;América del Sur;Argentina;Miguel Muñoz;Carrefour;A114 Bacon ahumado en lonchas;CHARCUTERIA;BACON AHUMADO;6.20;10.20;35.1
+2025-03-08;América del Sur;Colombia;Fernando Alonso;Éxito;A310 Sorbete de limón congelado;CONGELADOS;SORBETE DE LIMON;3.50;5.90;50.1
+2024-05-09;Europa;Portugal;Álvaro López;Pingo Doce;A139 Menestra de verduras congelada;CONGELADOS;MENESTRA DE VERDURAS;2.10;3.59;60.9
+2021-01-24;Europa;Francia;Daniel Rodríguez;Intermarché;A084 Leche semidesnatada UHT;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;62.2
+2026-02-12;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A165 Pasta integral;LEGUMBRES Y CEREALES;PASTA INTEGRAL;1.50;2.49;96.1
+2023-04-05;Europa;Países Bajos;David Martínez;Lidl;A180 Tomate triturado en conserva;CONSERVAS;TOMATE TRITURADO;1.20;2.09;22.5
+2025-06-05;Europa;Países Bajos;David Martínez;Jumbo;A027 Bacalao fresco;PESCADO;BACALAO FRESCO;10.80;17.50;66.3
+2022-07-04;Europa;España;Alejandro García;Eroski;A063 Patata blanca de consumo;VERDURA;PATATA BLANCA;0.55;1.09;81.8
+2020-11-27;Oceanía;Fiyi;Óscar Castillo;MaxVal-u;A171 Harina integral de trigo;LEGUMBRES Y CEREALES;HARINA INTEGRAL;1.10;1.89;60.9
+2022-11-10;América del Norte;Canadá;Lucas Díaz;Metro;A076 Calabacín fresco;VERDURA;CALABACIN;1.10;1.99;73
+2026-08-08;Europa;Francia;Daniel Rodríguez;Intermarché;A031 Boquerones frescos;PESCADO;BOQUERONES;4.50;7.49;57.7
+2023-09-03;Europa;Países Bajos;David Martínez;Jumbo;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;61.1
+2020-07-10;Europa;Portugal;Álvaro López;Pingo Doce;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;64.3
+2020-06-22;Europa;Francia;Daniel Rodríguez;Intermarché;A299 Salchichas frescas de cerdo;CHARCUTERIA;SALCHICHAS FRESCAS;5.20;8.49;19.1
+2021-09-10;América del Sur;Chile;José Romero;Unimarc;A089 Yogur griego cremoso;LACTEOS;YOGUR GRIEGO;2.40;3.99;12.7
+2024-08-30;Europa;Reino Unido;Javier Sánchez;Morrisons;A169 Avena en copos;LEGUMBRES Y CEREALES;AVENA;1.70;2.89;67.5
+2023-06-23;Europa;Francia;Daniel Rodríguez;Carrefour;A326 Garbanzos cocidos;CONSERVAS;GARBANZOS COCIDOS;1.40;2.39;42.3
+2020-02-11;Europa;Italia;Manuel Fernández;Conad;A295 Morcilla de Burgos;CHARCUTERIA;MORCILLA DE BURGOS;5.50;9.20;10
+2022-03-07;Europa;Países Bajos;David Martínez;Lidl;A077 Berenjena fresca;VERDURA;BERENJENA;1.30;2.39;37.3
+2020-09-10;Europa;Francia;Daniel Rodríguez;Intermarché;A194 Refresco de cola;BEBIDAS;REFRESCO DE COLA;1.10;1.89;5.4
+2024-08-16;Europa;Países Bajos;David Martínez;Lidl;A321 Polenta de maíz;LEGUMBRES Y CEREALES;POLENTA;2.20;3.79;2.7
+2020-09-09;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;46.1
+2023-01-08;Oceanía;Australia;Rubén Navarro;IGA;A037 Pulpo fresco;PESCADO;PULPO;14.00;23.50;29.4
+2021-02-20;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A332 Mermelada de fresa;CONSERVAS;MERMELADA DE FRESA;2.80;4.90;65.3
+2024-03-01;América del Sur;Perú;Raúl Gutiérrez;Wong;A040 Gambas frescas;PESCADO;GAMBAS;11.50;18.90;53.9
+2022-09-03;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A295 Morcilla de Burgos;CHARCUTERIA;MORCILLA DE BURGOS;5.50;9.20;43.8
+2020-10-03;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A312 Arroz jazmín;LEGUMBRES Y CEREALES;ARROZ JAZMIN;2.50;4.29;7.5
+2020-01-14;América del Norte;México;Marcos Moreno;La Comer;A023 Merluza fresca entera;PESCADO;MERLUZA;7.80;12.90;76.5
+2026-10-29;Europa;Francia;Daniel Rodríguez;Auchan;A310 Sorbete de limón congelado;CONGELADOS;SORBETE DE LIMON;3.50;5.90;48.8
+2022-03-16;Asia;Japón;Sergio Pérez;Seiyu;A279 Queso Brie francés;LACTEOS;QUESO BRIE;8.50;13.90;2.1
+2026-10-31;Europa;Francia;Daniel Rodríguez;Intermarché;A219 Gusanitos de maíz;APERITIVOS;GUSANITOS DE MAIZ;4.20;6.90;47.8
+2022-08-12;América del Norte;Canadá;Lucas Díaz;Metro;A254 Cigalas frescas;PESCADO;CIGALAS;19.50;31.90;7.2
+2022-12-02;Asia;Japón;Sergio Pérez;Life;A309 Tarta helada de nata;CONGELADOS;TARTA HELADA DE NATA;5.50;9.20;76.6
+2023-01-30;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A118 Morcilla tradicional;CHARCUTERIA;MORCILLA;4.50;7.49;70.9
+2020-01-01;Europa;Alemania;Pablo González;Aldi;A059 Kiwi amarillo;FRUTA;KIWI AMARILLO;3.80;6.49;31.7
+2025-09-26;Oceanía;Fiyi;Óscar Castillo;New World IGA;A100 Requesón fresco;LACTEOS;REQUESON;4.10;6.90;24.4
+2023-12-08;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A105 Jamón ibérico de bellota;CHARCUTERIA;JAMON IBERICO DE BELLOTA;65.00;99.90;19.4
+2023-05-17;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A216 Dátiles sin hueso;FRUTOS SECOS;DATILES;5.20;8.49;4.9
+2025-07-15;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A179 Almejas en conserva;CONSERVAS;ALMEJAS;15.50;24.90;57.4
+2020-03-31;Europa;Reino Unido;Javier Sánchez;Asda;A200 Café molido natural;BEBIDAS;CAFE MOLIDO;8.50;13.90;97.7
+2021-03-04;Europa;Reino Unido;Javier Sánchez;Tesco;A259 Granada fresca;FRUTA;GRANADA;2.10;3.69;47.4
+2026-07-16;Europa;Francia;Daniel Rodríguez;Carrefour;A283 Queso Ricotta italiano;LACTEOS;QUESO RICOTTA;5.50;9.20;83.4
+2025-12-29;Asia;India;Adrián Martín;Spencer's;A193 Zumo multifrutas;BEBIDAS;ZUMO MULTIFRUTAS;1.00;1.79;20.9
+2023-11-29;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A183 Champiñones laminados en conserva;CONSERVAS;CHAMPIÑONES;3.20;5.29;56.9
+2026-09-08;América del Norte;Estados Unidos;Hugo Hernández;Costco;A057 Uva negra fresca;FRUTA;UVA NEGRA;2.60;4.49;4.6
+2020-07-29;Europa;Reino Unido;Javier Sánchez;Morrisons;A018 Carne picada de ternera;CARNE;CARNE PICADA DE TERNERA;7.80;12.90;60.5
+2023-02-01;América del Sur;Colombia;Fernando Alonso;Carulla;A065 Cebolla amarilla;VERDURA;CEBOLLA AMARILLA;0.65;1.29;8.4
+2022-01-01;Europa;Países Bajos;David Martínez;Albert Heijn;A088 Yogur natural;LACTEOS;YOGUR NATURAL;1.65;2.69;89.9
+2021-09-20;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A189 Agua mineral natural;BEBIDAS;AGUA MINERAL;0.12;0.25;14.3
+2024-05-26;Europa;Italia;Manuel Fernández;Eurospin;A023 Merluza fresca entera;PESCADO;MERLUZA;7.80;12.90;14.1
+2024-09-17;Oceanía;Australia;Rubén Navarro;ALDI;A277 Calabaza fresca;VERDURA;CALABAZA;1.10;1.99;73.6
+2022-07-19;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A152 Helado de vainilla;CONGELADOS;HELADO DE VAINILLA;3.80;6.29;32.3
+2026-10-16;América del Sur;Perú;Raúl Gutiérrez;Tottus;A112 Salami en lonchas;CHARCUTERIA;SALAMI;6.80;11.20;44.8
+2020-02-21;Asia;Corea del Sur;Diego Jiménez;Homeplus;A104 Jamón ibérico de cebo;CHARCUTERIA;JAMON IBERICO DE CEBO;28.00;44.90;74.3
+2022-07-12;Europa;Alemania;Pablo González;Edeka;A119 Butifarra fresca;CHARCUTERIA;BUTIFARRA;6.50;10.90;89.2
+2021-06-22;América del Sur;Argentina;Miguel Muñoz;Coto;A001 Pollo entero fresco;CARNE;POLLO ENTERO;2.85;4.49;91.2
+2026-03-22;Europa;Alemania;Pablo González;Rewe;A329 Piña en su jugo;CONSERVAS;PIÑA EN SU JUGO;2.20;3.79;47.9
+2021-04-06;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A125 Pan de espelta;PANADERIA;PAN DE ESPELTA;2.80;4.69;64.3
+2026-07-21;América del Norte;Estados Unidos;Hugo Hernández;Costco;A306 Canelones rellenos de carne;CONGELADOS;CANELONES DE CARNE;5.20;8.49;58
+2022-11-08;Europa;Países Bajos;David Martínez;Aldi;A106 Jamón cocido en lonchas;CHARCUTERIA;JAMON COCIDO;5.20;8.49;38.2
+2022-09-06;América del Norte;Canadá;Lucas Díaz;Loblaws;A263 Cerezas frescas;FRUTA;CEREZAS;5.50;9.49;66.3
+2023-06-23;Asia;China;Carlos Gómez;Walmart;A181 Tomate frito en conserva;CONSERVAS;TOMATE FRITO;1.70;2.89;45.4
+2022-04-25;Asia;Corea del Sur;Diego Jiménez;E-Mart;A111 Fuet tradicional;CHARCUTERIA;FUET;8.20;13.50;89.8
+2024-09-13;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A033 Lubina fresca;PESCADO;LUBINA;7.80;12.90;91
+2025-04-04;América del Sur;Chile;José Romero;Unimarc;A162 Arroz bomba;LEGUMBRES Y CEREALES;ARROZ BOMBA;2.80;4.69;56
+2026-07-13;Europa;España;Alejandro García;Mercadona;A239 Presa de cerdo ibérico;CARNE;PRESA IBERICA;15.50;24.90;46.9
+2024-06-20;Europa;Países Bajos;David Martínez;Jumbo;A316 Semillas de lino;LEGUMBRES Y CEREALES;SEMILLAS DE LINO;3.50;5.90;9.6
+2022-09-25;Oceanía;Australia;Rubén Navarro;Coles;A044 Manzana Royal Gala;FRUTA;MANZANA ROYAL GALA;1.35;2.39;64.1
+2026-03-08;Europa;Francia;Daniel Rodríguez;Auchan;A119 Butifarra fresca;CHARCUTERIA;BUTIFARRA;6.50;10.90;70.5
+2024-10-19;Asia;Japón;Sergio Pérez;Life;A033 Lubina fresca;PESCADO;LUBINA;7.80;12.90;6.7
+2023-12-05;Europa;Francia;Daniel Rodríguez;Carrefour;A240 Pluma de cerdo ibérico;CARNE;PLUMA IBERICA;16.50;26.90;12
+2023-08-30;Europa;Italia;Manuel Fernández;Eurospin;A196 Refresco de naranja;BEBIDAS;REFRESCO DE NARANJA;0.95;1.69;76.5
+2023-08-24;Asia;Japón;Sergio Pérez;Ito-Yokado;A046 Pera Conferencia;FRUTA;PERA CONFERENCIA;1.45;2.59;77.1
+2026-05-08;Asia;Singapur;Mario Ruiz;Giant;A117 Chopped de cerdo;CHARCUTERIA;CHOPPED DE CERDO;3.90;6.49;42.6
+2026-10-03;América del Sur;Colombia;Fernando Alonso;Olímpica;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;37.9
+2022-04-28;América del Sur;Colombia;Fernando Alonso;Éxito;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;62.6
+2025-09-21;Asia;India;Adrián Martín;Spencer's;A027 Bacalao fresco;PESCADO;BACALAO FRESCO;10.80;17.50;33.2
+2022-09-14;Europa;Francia;Daniel Rodríguez;E.Leclerc;A175 Sardinas en aceite;CONSERVAS;SARDINAS EN ACEITE;5.50;9.20;93.8
+2026-08-08;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A120 Longaniza fresca;CHARCUTERIA;LONGANIZA;6.90;11.49;52.8
+2022-06-05;Europa;Países Bajos;David Martínez;Lidl;A105 Jamón ibérico de bellota;CHARCUTERIA;JAMON IBERICO DE BELLOTA;65.00;99.90;58.9
+2021-10-13;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A061 Sandía fresca;FRUTA;SANDIA;0.65;1.29;38.4
+2021-05-25;América del Norte;México;Marcos Moreno;Soriana;A151 Calamares a la romana congelados;CONGELADOS;CALAMARES A LA ROMANA;6.50;10.90;85.8
+2020-04-24;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;45
+2021-10-22;Asia;China;Carlos Gómez;CR Vanguard;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;20.8
+2026-01-14;Europa;Alemania;Pablo González;Edeka;A159 Arroz redondo;LEGUMBRES Y CEREALES;ARROZ REDONDO;1.30;2.19;23.6
+2021-01-30;Europa;Alemania;Pablo González;Aldi;A213 Pipas de calabaza;FRUTOS SECOS;PIPAS DE CALABAZA;8.50;13.90;56.2
+2025-01-27;Asia;India;Adrián Martín;Reliance Smart Bazaar;A249 Emperador fresco en filetes;PESCADO;EMPERADOR;14.50;23.90;1.3
+2026-08-23;Oceanía;Australia;Rubén Navarro;ALDI;A148 Nuggets de pollo congelados;CONGELADOS;NUGGETS DE POLLO;4.10;6.90;68.5
+2025-12-10;América del Sur;Perú;Raúl Gutiérrez;Metro;A046 Pera Conferencia;FRUTA;PERA CONFERENCIA;1.45;2.59;72.4
+2025-05-10;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A140 Espinacas congeladas;CONGELADOS;ESPINACAS;1.60;2.79;80.2
+2022-11-13;Asia;India;Adrián Martín;Reliance Smart Bazaar;A055 Arándanos frescos;FRUTA;ARANDANO;7.20;11.90;67.7
+2023-09-13;Asia;China;Carlos Gómez;RT-Mart;A241 Chuletas de cordero frescas;CARNE;CHULETAS DE CORDERO;14.50;23.90;97.9
+2023-10-04;Asia;India;Adrián Martín;More;A066 Cebolla morada;VERDURA;CEBOLLA MORADA;1.10;2.09;43.8
+2021-02-18;América del Norte;México;Marcos Moreno;Walmart de México;A121 Barra de pan tradicional;PANADERIA;BARRA DE PAN;1.10;1.95;99.6
+2020-01-09;Europa;Italia;Manuel Fernández;Coop;A065 Cebolla amarilla;VERDURA;CEBOLLA AMARILLA;0.65;1.29;63.6
+2024-06-15;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A163 Espaguetis de trigo;LEGUMBRES Y CEREALES;ESPAGUETIS;1.20;1.99;49.1
+2021-04-06;Europa;Alemania;Pablo González;Lidl;A273 Coles de Bruselas frescas;VERDURA;COL DE BRUSELAS;2.20;3.90;43.7
+2021-12-17;Europa;Portugal;Álvaro López;Lidl;A269 Puerro fresco;VERDURA;PUERRO;1.10;1.99;5.9
+2022-03-15;América del Norte;Estados Unidos;Hugo Hernández;Costco;A223 Pan artesanal de masa madre;PANADERIA;PAN DE MASA MADRE;2.40;4.20;53
+2023-12-22;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A054 Frambuesas frescas;FRUTA;FRAMBUESA;8.50;13.90;14.7
+2021-05-06;Europa;España;Alejandro García;Mercadona;A175 Sardinas en aceite;CONSERVAS;SARDINAS EN ACEITE;5.50;9.20;97.2
+2026-01-30;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;23.2
+2024-09-13;Asia;Singapur;Mario Ruiz;Sheng Siong;A075 Pimiento verde;VERDURA;PIMIENTO VERDE;1.70;2.99;42
+2023-06-27;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A072 Lechuga iceberg;VERDURA;LECHUGA ICEBERG;0.95;1.79;82.8
+2023-09-16;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A188 Pimientos del piquillo;CONSERVAS;PIQUILLOS;5.20;8.49;68.3
+2023-01-17;Europa;Alemania;Pablo González;Aldi;A171 Harina integral de trigo;LEGUMBRES Y CEREALES;HARINA INTEGRAL;1.10;1.89;86.5
+2024-10-08;Europa;Portugal;Álvaro López;Continente;A103 Jamón serrano curado;CHARCUTERIA;JAMON SERRANO;13.50;21.90;46.9
+2024-08-30;Europa;Italia;Manuel Fernández;Conad;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;58
+2023-03-06;Asia;Singapur;Mario Ruiz;Giant;A031 Boquerones frescos;PESCADO;BOQUERONES;4.50;7.49;76.3
+2022-07-01;Asia;India;Adrián Martín;DMart;A321 Polenta de maíz;LEGUMBRES Y CEREALES;POLENTA;2.20;3.79;34.5
+2024-08-30;Oceanía;Fiyi;Óscar Castillo;New World IGA;A288 Huevos de codorniz;LACTEOS;HUEVOS DE CODORNIZ;2.50;4.29;84.4
+2023-10-31;Europa;Reino Unido;Javier Sánchez;Morrisons;A131 Napolitana rellena de chocolate;PANADERIA;NAPOLITANA DE CHOCOLATE;6.20;10.20;36.9
+2020-05-25;América del Sur;Perú;Raúl Gutiérrez;Tottus;A247 Corvina fresca;PESCADO;CORVINA;10.50;17.50;40.6
+2023-10-01;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A305 Empanadillas de atún;CONGELADOS;EMPANADILLAS DE ATUN;4.50;7.49;4.6
+2026-10-24;Europa;España;Alejandro García;Mercadona;A149 Filetes de merluza congelados;CONGELADOS;FILETES DE MERLUZA;7.50;12.20;15.7
+2022-08-26;Asia;India;Adrián Martín;DMart;A012 Solomillo de cerdo fresco;CARNE;SOLOMILLO DE CERDO;7.50;12.20;76
+2025-02-06;Asia;Corea del Sur;Diego Jiménez;Homeplus;A249 Emperador fresco en filetes;PESCADO;EMPERADOR;14.50;23.90;36.5
+2020-02-17;Europa;Portugal;Álvaro López;Pingo Doce;A089 Yogur griego cremoso;LACTEOS;YOGUR GRIEGO;2.40;3.99;36
+2021-01-17;América del Sur;Colombia;Fernando Alonso;Olímpica;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;3.4
+2020-01-27;América del Norte;México;Marcos Moreno;Chedraui;A030 Sardinas frescas;PESCADO;SARDINAS;3.80;6.49;44.5
+2023-12-16;Oceanía;Australia;Rubén Navarro;Woolworths;A011 Secreto de cerdo ibérico;CARNE;SECRETO DE CERDO;8.90;14.50;53.6
+2021-11-15;Asia;Japón;Sergio Pérez;Life;A192 Zumo de melocotón;BEBIDAS;ZUMO DE MELOCOTON;0.95;1.69;67.5
+2023-02-09;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;15.7
+2026-06-16;Europa;Países Bajos;David Martínez;Lidl;A233 Palmeritas de hojaldre;PANADERIA;PALMERITAS DE HOJALDRE;4.50;7.49;18.6
+2024-06-01;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A204 Cacao puro en polvo;BEBIDAS;CACAO EN POLVO;5.50;9.20;53
+2022-02-17;América del Sur;Argentina;Miguel Muñoz;Día;A006 Pavo entero fresco;CARNE;PAVO ENTERO;4.80;7.90;55.5
+2026-08-14;América del Norte;Canadá;Lucas Díaz;Metro;A058 Kiwi verde;FRUTA;KIWI VERDE;2.10;3.69;40.2
+2020-06-30;América del Norte;Canadá;Lucas Díaz;Sobeys;A155 Lentejas secas;LEGUMBRES Y CEREALES;LENTEJAS;1.40;2.39;56.5
+2022-02-07;Europa;Portugal;Álvaro López;Auchan;A109 Salchichón tradicional;CHARCUTERIA;SALCHICHON;7.50;12.20;39.7
+2022-06-26;América del Sur;Chile;José Romero;Jumbo;A283 Queso Ricotta italiano;LACTEOS;QUESO RICOTTA;5.50;9.20;12
+2024-02-05;Europa;Portugal;Álvaro López;Lidl;A301 Merluza rebozada congelada;CONGELADOS;MERLUZA REBOZADA;6.50;10.90;74.4
+2023-01-05;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A322 Pimientos del piquillo rellenos;CONSERVAS;PIMIENTO DEL PIQUILLO RELLENO;7.50;12.50;91.2
+2026-01-14;América del Sur;Colombia;Fernando Alonso;Jumbo;A259 Granada fresca;FRUTA;GRANADA;2.10;3.69;66.5
+2021-02-21;América del Sur;Argentina;Miguel Muñoz;Coto;A104 Jamón ibérico de cebo;CHARCUTERIA;JAMON IBERICO DE CEBO;28.00;44.90;51.5
+2024-02-13;Asia;Singapur;Mario Ruiz;Giant;A242 Paletilla de cordero fresca;CARNE;PALETILLA DE CORDERO;13.50;21.90;84.5
+2024-04-13;América del Sur;Chile;José Romero;Jumbo;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;97.9
+2021-08-22;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;90.1
+2023-10-19;Asia;Japón;Sergio Pérez;Seiyu;A177 Mejillones en escabeche;CONSERVAS;MEJILLONES EN ESCABECHE;9.50;15.50;69.3
+2024-12-17;América del Sur;Colombia;Fernando Alonso;Carulla;A141 Brócoli congelado;CONGELADOS;BROCOLI;2.00;3.39;29.4
+2025-08-13;América del Norte;Canadá;Lucas Díaz;Sobeys;A167 Cuscús de trigo;LEGUMBRES Y CEREALES;CUSCUS;1.90;3.19;88.1
+2023-04-10;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A062 Aguacate fresco;FRUTA;AGUACATE;3.40;5.90;98
+2022-06-10;Asia;China;Carlos Gómez;RT-Mart;A315 Semillas de chía;LEGUMBRES Y CEREALES;SEMILLAS DE CHIA;5.50;9.20;59.9
+2026-07-07;Asia;Singapur;Mario Ruiz;Cold Storage;A318 Granola con cereales;LEGUMBRES Y CEREALES;GRANOLA;4.20;6.90;49.2
+2025-12-01;América del Sur;Colombia;Fernando Alonso;Jumbo;A143 Patatas gajo congeladas;CONGELADOS;PATATAS GAJO;2.10;3.59;66.7
+2023-08-17;Asia;China;Carlos Gómez;Walmart;A195 Refresco de limón;BEBIDAS;REFRESCO DE LIMON;0.95;1.69;83.7
+2021-12-26;Oceanía;Fiyi;Óscar Castillo;MaxVal-u;A128 Pan de hamburguesa clásico;PANADERIA;PAN DE HAMBURGUESA;2.20;3.79;56.5
+2026-06-03;Asia;Singapur;Mario Ruiz;Sheng Siong;A082 Espárrago verde fresco;VERDURA;ESPARRAGO VERDE;5.50;9.49;76.7
+2020-06-06;Asia;Japón;Sergio Pérez;Life;A037 Pulpo fresco;PESCADO;PULPO;14.00;23.50;67.5
+2023-07-22;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;21.5
+2022-11-25;Europa;Francia;Daniel Rodríguez;E.Leclerc;A311 Arroz salvaje;LEGUMBRES Y CEREALES;ARROZ SALVAJE;4.50;7.49;6.8
+2024-08-13;Asia;Japón;Sergio Pérez;Ito-Yokado;A122 Baguette francesa;PANADERIA;BAGUETTE;1.20;2.10;96.3
+2022-08-27;Europa;Portugal;Álvaro López;Continente;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;84.8
+2020-11-18;Europa;España;Alejandro García;Mercadona;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;73.2
+2020-04-16;Europa;Italia;Manuel Fernández;Coop;A201 Café en grano natural;BEBIDAS;CAFE EN GRANO;12.00;19.90;37.2
+2020-11-14;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A159 Arroz redondo;LEGUMBRES Y CEREALES;ARROZ REDONDO;1.30;2.19;44.2
+2025-12-20;Europa;Alemania;Pablo González;Rewe;A317 Copos de avena;LEGUMBRES Y CEREALES;COPOS DE AVENA;2.10;3.69;46.4
+2022-06-16;Asia;Corea del Sur;Diego Jiménez;E-Mart;A020 Cordero lechal fresco;CARNE;CORDERO LECHAL;13.50;21.90;64.6
+2025-01-06;Oceanía;Australia;Rubén Navarro;Coles;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;11.6
+2021-08-01;América del Sur;Colombia;Fernando Alonso;Éxito;A255 Bogavante fresco;PESCADO;BOGAVANTE;28.00;44.90;24.8
+2025-09-11;América del Sur;Chile;José Romero;Jumbo;A130 Croissant de mantequilla;PANADERIA;CROISSANT;5.50;9.20;15.4
+2025-04-03;Oceanía;Fiyi;Óscar Castillo;New World IGA;A252 Vieiras frescas;PESCADO;VIEIRAS;18.50;29.90;75.2
+2026-01-09;Europa;Portugal;Álvaro López;Auchan;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;1.4
+2024-01-25;Asia;Singapur;Mario Ruiz;Giant;A032 Dorada fresca;PESCADO;DORADA;6.90;11.49;52.1
+2025-07-31;América del Sur;Argentina;Miguel Muñoz;Carrefour;A051 Plátano de Canarias;FRUTA;PLATANO DE CANARIAS;1.55;2.69;82.9
+2021-12-09;América del Norte;México;Marcos Moreno;Chedraui;A086 Leche sin lactosa;LACTEOS;LECHE SIN LACTOSA;0.88;1.39;65.5
+2020-02-04;Europa;Alemania;Pablo González;Lidl;A295 Morcilla de Burgos;CHARCUTERIA;MORCILLA DE BURGOS;5.50;9.20;48.8
+2022-09-07;Asia;China;Carlos Gómez;RT-Mart;A029 Atún fresco en lomos;PESCADO;ATUN FRESCO;14.50;23.90;44.6
+2022-10-27;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A061 Sandía fresca;FRUTA;SANDIA;0.65;1.29;12.2
+2025-06-22;América del Sur;Argentina;Miguel Muñoz;Carrefour;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;43.2
+2020-01-12;América del Sur;Chile;José Romero;Santa Isabel;A255 Bogavante fresco;PESCADO;BOGAVANTE;28.00;44.90;93.1
+2022-12-04;América del Norte;Canadá;Lucas Díaz;Sobeys;A045 Manzana Fuji;FRUTA;MANZANA FUJI;1.55;2.79;4.8
+2023-05-24;Europa;Alemania;Pablo González;Rewe;A089 Yogur griego cremoso;LACTEOS;YOGUR GRIEGO;2.40;3.99;15.6
+2023-11-12;América del Sur;Perú;Raúl Gutiérrez;Wong;A079 Coliflor fresca;VERDURA;COLIFLOR;1.50;2.69;20
+2020-05-27;Asia;Japón;Sergio Pérez;Seiyu;A104 Jamón ibérico de cebo;CHARCUTERIA;JAMON IBERICO DE CEBO;28.00;44.90;99.2
+2022-09-07;Europa;Italia;Manuel Fernández;Esselunga;A281 Queso Cheddar madurado;LACTEOS;QUESO CHEDDAR;7.50;12.50;59
+2022-09-30;Europa;Países Bajos;David Martínez;Aldi;A031 Boquerones frescos;PESCADO;BOQUERONES;4.50;7.49;74.8
+2023-05-26;América del Sur;Argentina;Miguel Muñoz;Carrefour;A330 Melocotón en almíbar;CONSERVAS;MELOCOTON EN ALMIBAR;2.50;4.29;99.2
+2025-04-18;América del Sur;Colombia;Fernando Alonso;Carulla;A274 Rábanos frescos;VERDURA;RABANOS;1.60;2.79;19.2
+2025-06-07;Europa;Francia;Daniel Rodríguez;Auchan;A300 Anillas de calamar congeladas;CONGELADOS;ANILLAS DE CALAMAR;7.50;12.50;33
+2023-11-09;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A095 Queso mozzarella;LACTEOS;QUESO MOZZARELLA;5.50;8.90;99
+2023-01-01;Europa;Países Bajos;David Martínez;Lidl;A287 Yogur natural sin azúcar;LACTEOS;YOGUR NATURAL SIN AZUCAR;1.80;2.99;60.7
+2020-12-26;Oceanía;Australia;Rubén Navarro;Woolworths;A145 Pizza cuatro quesos congelada;CONGELADOS;PIZZA CUATRO QUESOS;4.50;7.49;89
+2020-05-29;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A070 Zanahoria fresca;VERDURA;ZANAHORIA;0.75;1.39;85.9
+2021-06-16;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A264 Melón Galia;FRUTA;MELON GALIA;1.10;1.99;19.8
+2026-03-23;América del Sur;Argentina;Miguel Muñoz;La Anónima;A314 Trigo sarraceno;LEGUMBRES Y CEREALES;TRIGO SARRACENO;3.20;5.49;62
+2025-08-06;Asia;India;Adrián Martín;More;A082 Espárrago verde fresco;VERDURA;ESPARRAGO VERDE;5.50;9.49;87.8
+2026-03-01;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A090 Yogur de fresa;LACTEOS;YOGUR DE FRESA;1.95;3.19;60.8
+2024-06-13;Asia;Japón;Sergio Pérez;Aeon;A087 Leche de cabra;LACTEOS;LECHE DE CABRA;1.45;2.39;40.2
+2022-06-28;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A324 Espárragos trigueros en conserva;CONSERVAS;ESPARRAGOS TRIGUEROS;5.20;8.49;47.4
+2024-04-28;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;26.7
+2022-04-07;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A115 Panceta de cerdo;CHARCUTERIA;PANCETA;5.50;9.20;4
+2024-12-23;América del Sur;Argentina;Miguel Muñoz;La Anónima;A307 Mezcla de verduras para wok;CONGELADOS;VERDURAS PARA WOK;2.80;4.90;37.5
+2025-08-22;Asia;Singapur;Mario Ruiz;Giant;A216 Dátiles sin hueso;FRUTOS SECOS;DATILES;5.20;8.49;38.4
+2023-11-14;Europa;Portugal;Álvaro López;Lidl;A274 Rábanos frescos;VERDURA;RABANOS;1.60;2.79;73.8
+2026-08-21;Europa;España;Alejandro García;Lidl;A003 Alitas de pollo frescas;CARNE;ALITAS DE POLLO;2.60;4.25;34.1
+2023-04-14;Oceanía;Fiyi;Óscar Castillo;New World IGA;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;37
+2025-03-19;América del Norte;México;Marcos Moreno;Soriana;A213 Pipas de calabaza;FRUTOS SECOS;PIPAS DE CALABAZA;8.50;13.90;72.3
+2024-02-13;Europa;Alemania;Pablo González;Edeka;A273 Coles de Bruselas frescas;VERDURA;COL DE BRUSELAS;2.20;3.90;41.9
+2024-03-04;América del Sur;Argentina;Miguel Muñoz;Coto;A283 Queso Ricotta italiano;LACTEOS;QUESO RICOTTA;5.50;9.20;13.5
+2025-01-26;Europa;España;Alejandro García;Lidl;A145 Pizza cuatro quesos congelada;CONGELADOS;PIZZA CUATRO QUESOS;4.50;7.49;11.9
+2020-11-15;Europa;Alemania;Pablo González;Lidl;A130 Croissant de mantequilla;PANADERIA;CROISSANT;5.50;9.20;35.2
+2024-05-09;Oceanía;Nueva Zelanda;Iván Torres;New World;A288 Huevos de codorniz;LACTEOS;HUEVOS DE CODORNIZ;2.50;4.29;2.1
+2022-02-04;Europa;Alemania;Pablo González;Lidl;A090 Yogur de fresa;LACTEOS;YOGUR DE FRESA;1.95;3.19;16.4
+2024-06-26;Europa;Países Bajos;David Martínez;Jumbo;A152 Helado de vainilla;CONGELADOS;HELADO DE VAINILLA;3.80;6.29;90.7
+2022-03-03;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A283 Queso Ricotta italiano;LACTEOS;QUESO RICOTTA;5.50;9.20;48.2
+2023-05-02;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A032 Dorada fresca;PESCADO;DORADA;6.90;11.49;2.6
+2023-06-11;Asia;India;Adrián Martín;Reliance Smart Bazaar;A116 Pechuga de pavo loncheada;CHARCUTERIA;PECHUGA DE PAVO LONCHEADA;8.20;13.50;98
+2026-06-26;América del Sur;Chile;José Romero;Unimarc;A236 Rabo de ternera troceado;CARNE;RABO DE TERNERA;8.50;13.90;83.7
+2024-08-28;América del Norte;México;Marcos Moreno;Soriana;A185 Aceitunas verdes sin hueso;CONSERVAS;ACEITUNAS VERDES;3.50;5.79;51.4
+2022-12-31;América del Sur;Argentina;Miguel Muñoz;Día;A010 Paleta de cerdo fresca;CARNE;PALETA DE CERDO;4.10;6.90;91.9
+2024-06-11;Europa;Italia;Manuel Fernández;Conad;A064 Patata roja de consumo;VERDURA;PATATA ROJA;0.75;1.49;47
+2026-02-01;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A160 Arroz basmati;LEGUMBRES Y CEREALES;ARROZ BASMATI;2.10;3.49;57.1
+2021-08-30;Europa;Portugal;Álvaro López;Continente;A129 Pan de hot dog;PANADERIA;PAN DE HOT DOG;2.10;3.59;46.2
+2023-12-11;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A090 Yogur de fresa;LACTEOS;YOGUR DE FRESA;1.95;3.19;48.7
+2020-06-03;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A283 Queso Ricotta italiano;LACTEOS;QUESO RICOTTA;5.50;9.20;16.7
+2024-02-12;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A253 Almejas frescas;PESCADO;ALMEJAS FRESCAS;12.50;20.90;32
+2022-07-14;América del Norte;Canadá;Lucas Díaz;Metro;A307 Mezcla de verduras para wok;CONGELADOS;VERDURAS PARA WOK;2.80;4.90;33.3
+2023-04-23;Asia;Singapur;Mario Ruiz;FairPrice;A021 Conejo entero fresco;CARNE;CONEJO ENTERO;5.80;9.49;81.4
+2020-12-12;América del Sur;Chile;José Romero;Jumbo;A152 Helado de vainilla;CONGELADOS;HELADO DE VAINILLA;3.80;6.29;99.4
+2023-03-25;Asia;India;Adrián Martín;More;A262 Ciruela amarilla fresca;FRUTA;CIRUELA AMARILLA;2.10;3.69;7.6
+2024-02-21;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A111 Fuet tradicional;CHARCUTERIA;FUET;8.20;13.50;39.9
+2026-05-26;Asia;India;Adrián Martín;Reliance Smart Bazaar;A086 Leche sin lactosa;LACTEOS;LECHE SIN LACTOSA;0.88;1.39;6.6
+2022-05-03;Asia;Japón;Sergio Pérez;Seiyu;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;89
+2026-05-18;Europa;Países Bajos;David Martínez;Albert Heijn;A115 Panceta de cerdo;CHARCUTERIA;PANCETA;5.50;9.20;44
+2022-03-23;Oceanía;Australia;Rubén Navarro;Woolworths;A109 Salchichón tradicional;CHARCUTERIA;SALCHICHON;7.50;12.20;86.7
+2021-03-28;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;66.8
+2021-11-12;Oceanía;Fiyi;Óscar Castillo;RB Patel;A078 Brócoli fresco;VERDURA;BROCOLI;1.80;3.19;66
+2024-07-20;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A172 Sémola de maíz;LEGUMBRES Y CEREALES;SEMOLA DE MAIZ;1.60;2.69;86.7
+2026-07-24;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A040 Gambas frescas;PESCADO;GAMBAS;11.50;18.90;92.7
+2021-09-21;América del Sur;Perú;Raúl Gutiérrez;Metro;A017 Entrecot de ternera fresco;CARNE;ENTRECOT DE TERNERA;15.50;25.90;86.2
+2026-02-07;América del Norte;Canadá;Lucas Díaz;Loblaws;A091 Queso fresco natural;LACTEOS;QUESO FRESCO;4.20;6.90;85.2
+2024-05-26;Europa;España;Alejandro García;Carrefour;A273 Coles de Bruselas frescas;VERDURA;COL DE BRUSELAS;2.20;3.90;6.5
+2026-03-29;Europa;Países Bajos;David Martínez;Lidl;A113 Mortadela italiana;CHARCUTERIA;MORTADELA;4.10;6.79;68.7
+2024-01-10;Oceanía;Fiyi;Óscar Castillo;New World IGA;A055 Arándanos frescos;FRUTA;ARANDANO;7.20;11.90;12.3
+2024-01-20;América del Norte;México;Marcos Moreno;La Comer;A151 Calamares a la romana congelados;CONGELADOS;CALAMARES A LA ROMANA;6.50;10.90;84
+2022-09-20;Oceanía;Australia;Rubén Navarro;Woolworths;A115 Panceta de cerdo;CHARCUTERIA;PANCETA;5.50;9.20;39.4
+2026-02-20;Asia;Japón;Sergio Pérez;Aeon;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;69.2
+2022-12-10;Asia;Japón;Sergio Pérez;Ito-Yokado;A026 Salmón ahumado en lonchas;PESCADO;SALMON AHUMADO;22.00;34.90;30.2
+2023-06-10;América del Sur;Argentina;Miguel Muñoz;Día;A264 Melón Galia;FRUTA;MELON GALIA;1.10;1.99;88.3
+2021-12-24;Europa;Italia;Manuel Fernández;Conad;A306 Canelones rellenos de carne;CONGELADOS;CANELONES DE CARNE;5.20;8.49;39.7
+2026-09-18;Europa;Países Bajos;David Martínez;Jumbo;A304 Gyozas rellenas de pollo;CONGELADOS;GYOZAS DE POLLO;5.50;9.20;24.2
+2020-12-07;América del Sur;Chile;José Romero;Santa Isabel;A106 Jamón cocido en lonchas;CHARCUTERIA;JAMON COCIDO;5.20;8.49;43.6
+2023-06-13;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A094 Queso manchego;LACTEOS;QUESO MANCHEGO;13.50;21.90;90.3
+2023-07-17;Europa;Italia;Manuel Fernández;Esselunga;A318 Granola con cereales;LEGUMBRES Y CEREALES;GRANOLA;4.20;6.90;49.2
+2023-04-06;Asia;Singapur;Mario Ruiz;Sheng Siong;A168 Quinoa natural;LEGUMBRES Y CEREALES;QUINOA;3.80;6.29;95.7
+2020-12-07;América del Norte;Canadá;Lucas Díaz;Metro;A190 Agua mineral con gas;BEBIDAS;AGUA CON GAS;0.25;0.49;45.5
+2023-09-30;América del Sur;Chile;José Romero;Unimarc;A215 Orejones de albaricoque;FRUTOS SECOS;OREJONES;7.50;12.20;56.3
+2021-10-26;América del Sur;Chile;José Romero;Santa Isabel;A248 Besugo fresco;PESCADO;BESUGO;12.50;20.90;90.8
+2020-08-10;América del Sur;Argentina;Miguel Muñoz;Carrefour;A332 Mermelada de fresa;CONSERVAS;MERMELADA DE FRESA;2.80;4.90;2.2
+2021-05-27;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A059 Kiwi amarillo;FRUTA;KIWI AMARILLO;3.80;6.49;30.6
+2020-12-25;América del Sur;Argentina;Miguel Muñoz;Día;A232 Tarta de chocolate;PANADERIA;TARTA DE CHOCOLATE;9.20;15.50;88.2
+2021-06-13;América del Sur;Chile;José Romero;Santa Isabel;A328 Pisto de verduras;CONSERVAS;PISTO DE VERDURAS;2.80;4.90;87.8
+2021-06-17;Europa;Países Bajos;David Martínez;Lidl;A265 Pomelo rosa;FRUTA;POMELO ROSA;1.50;2.69;18.6
+2024-03-26;Europa;Francia;Daniel Rodríguez;Carrefour;A044 Manzana Royal Gala;FRUTA;MANZANA ROYAL GALA;1.35;2.39;1.5
+2025-11-19;América del Norte;México;Marcos Moreno;Chedraui;A010 Paleta de cerdo fresca;CARNE;PALETA DE CERDO;4.10;6.90;11.9
+2023-06-14;Europa;Reino Unido;Javier Sánchez;Asda;A092 Queso curado de oveja;LACTEOS;QUESO CURADO;9.50;15.90;41.4
+2020-05-22;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A034 Rodaballo fresco;PESCADO;RODABALLO;12.50;20.90;62.9
+2023-11-22;Oceanía;Australia;Rubén Navarro;Coles;A074 Pimiento rojo;VERDURA;PIMIENTO ROJO;2.10;3.69;68.5
+2024-11-03;Europa;Alemania;Pablo González;Lidl;A049 Naranja para zumo;FRUTA;NARANJA DE ZUMO;0.75;1.39;67.8
+2026-05-28;América del Norte;Estados Unidos;Hugo Hernández;Costco;A145 Pizza cuatro quesos congelada;CONGELADOS;PIZZA CUATRO QUESOS;4.50;7.49;24.4
+2020-04-01;Asia;Singapur;Mario Ruiz;Sheng Siong;A024 Filetes de merluza frescos;PESCADO;MERLUZA EN FILETES;9.20;14.90;49.9
+2024-10-19;Europa;Alemania;Pablo González;Aldi;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;25.4
+2022-04-04;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A330 Melocotón en almíbar;CONSERVAS;MELOCOTON EN ALMIBAR;2.50;4.29;21.8
+2022-02-24;Oceanía;Australia;Rubén Navarro;Woolworths;A242 Paletilla de cordero fresca;CARNE;PALETILLA DE CORDERO;13.50;21.90;97.7
+2025-06-01;Europa;Italia;Manuel Fernández;Coop;A120 Longaniza fresca;CHARCUTERIA;LONGANIZA;6.90;11.49;32.5
+2022-04-11;Asia;India;Adrián Martín;DMart;A277 Calabaza fresca;VERDURA;CALABAZA;1.10;1.99;52.3
+2023-01-23;América del Norte;Estados Unidos;Hugo Hernández;Costco;A142 Patatas fritas congeladas;CONGELADOS;PATATAS FRITAS;1.50;2.59;35.9
+2026-01-11;Europa;Italia;Manuel Fernández;Conad;A281 Queso Cheddar madurado;LACTEOS;QUESO CHEDDAR;7.50;12.50;51.2
+2023-08-14;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;75.1
+2026-02-01;América del Sur;Argentina;Miguel Muñoz;Día;A145 Pizza cuatro quesos congelada;CONGELADOS;PIZZA CUATRO QUESOS;4.50;7.49;50.2
+2020-11-01;Oceanía;Australia;Rubén Navarro;Woolworths;A252 Vieiras frescas;PESCADO;VIEIRAS;18.50;29.90;4.7
+2024-01-17;América del Norte;México;Marcos Moreno;Walmart de México;A079 Coliflor fresca;VERDURA;COLIFLOR;1.50;2.69;64.2
+2021-06-07;América del Norte;México;Marcos Moreno;Walmart de México;A009 Costilla de cerdo fresca;CARNE;COSTILLA DE CERDO;4.30;7.20;67.9
+2022-04-24;América del Norte;Canadá;Lucas Díaz;Metro;A017 Entrecot de ternera fresco;CARNE;ENTRECOT DE TERNERA;15.50;25.90;92.8
+2023-10-25;Europa;Alemania;Pablo González;Rewe;A018 Carne picada de ternera;CARNE;CARNE PICADA DE TERNERA;7.80;12.90;6.1
+2022-02-02;Europa;Portugal;Álvaro López;Pingo Doce;A022 Magret de pato fresco;CARNE;MAGRET DE PATO;12.00;19.90;46.7
+2020-09-12;Asia;Japón;Sergio Pérez;Seiyu;A128 Pan de hamburguesa clásico;PANADERIA;PAN DE HAMBURGUESA;2.20;3.79;25.2
+2023-03-30;América del Sur;Chile;José Romero;Líder;A285 Nata montada refrigerada;LACTEOS;NATA MONTADA;3.20;5.49;21.6
+2021-12-29;Oceanía;Nueva Zelanda;Iván Torres;PAK'nSAVE;A223 Pan artesanal de masa madre;PANADERIA;PAN DE MASA MADRE;2.40;4.20;6
+2020-10-27;América del Sur;Chile;José Romero;Jumbo;A037 Pulpo fresco;PESCADO;PULPO;14.00;23.50;51.1
+2022-05-30;Europa;Reino Unido;Javier Sánchez;Asda;A184 Espárragos blancos en conserva;CONSERVAS;ESPARRAGOS BLANCOS;5.80;9.49;19.6
+2025-04-12;América del Sur;Chile;José Romero;Líder;A233 Palmeritas de hojaldre;PANADERIA;PALMERITAS DE HOJALDRE;4.50;7.49;30.4
+2020-09-10;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A154 Mezcla de frutos rojos congelados;CONGELADOS;FRUTOS ROJOS;5.20;8.49;18.2
+2020-04-19;Europa;Alemania;Pablo González;Aldi;A182 Maíz dulce en conserva;CONSERVAS;MAIZ DULCE;2.10;3.49;91.6
+2021-12-14;Asia;India;Adrián Martín;Reliance Smart Bazaar;A245 Lenguado fresco;PESCADO;LENGUADO;13.50;22.50;98.5
+2020-09-30;Oceanía;Australia;Rubén Navarro;IGA;A269 Puerro fresco;VERDURA;PUERRO;1.10;1.99;50.8
+2023-09-14;América del Sur;Argentina;Miguel Muñoz;La Anónima;A196 Refresco de naranja;BEBIDAS;REFRESCO DE NARANJA;0.95;1.69;75
+2024-06-12;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A325 Alubias blancas cocidas;CONSERVAS;ALUBIAS BLANCAS COCIDAS;1.50;2.59;69.5
+2021-12-07;Asia;Singapur;Mario Ruiz;FairPrice;A185 Aceitunas verdes sin hueso;CONSERVAS;ACEITUNAS VERDES;3.50;5.79;32
+2023-03-29;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A111 Fuet tradicional;CHARCUTERIA;FUET;8.20;13.50;33
+2023-10-12;Europa;Alemania;Pablo González;Edeka;A265 Pomelo rosa;FRUTA;POMELO ROSA;1.50;2.69;39.8
+2026-03-20;América del Sur;Perú;Raúl Gutiérrez;Tottus;A250 Caballa fresca entera;PESCADO;CABALLA FRESCA;4.50;7.49;24.9
+2024-09-04;América del Sur;Argentina;Miguel Muñoz;La Anónima;A171 Harina integral de trigo;LEGUMBRES Y CEREALES;HARINA INTEGRAL;1.10;1.89;28
+2020-01-04;Asia;Japón;Sergio Pérez;Seiyu;A283 Queso Ricotta italiano;LACTEOS;QUESO RICOTTA;5.50;9.20;16.3
+2022-03-03;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A163 Espaguetis de trigo;LEGUMBRES Y CEREALES;ESPAGUETIS;1.20;1.99;56.9
+2020-03-20;Europa;Italia;Manuel Fernández;Coop;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;38
+2022-04-04;Asia;China;Carlos Gómez;CR Vanguard;A310 Sorbete de limón congelado;CONGELADOS;SORBETE DE LIMON;3.50;5.90;4.3
+2023-11-13;Asia;Japón;Sergio Pérez;Seiyu;A046 Pera Conferencia;FRUTA;PERA CONFERENCIA;1.45;2.59;77.3
+2024-05-29;América del Norte;Estados Unidos;Hugo Hernández;Costco;A329 Piña en su jugo;CONSERVAS;PIÑA EN SU JUGO;2.20;3.79;16.3
+2020-08-06;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A146 Lasaña boloñesa congelada;CONGELADOS;LASAÑA BOLOÑESA;4.80;7.90;90.4
+2020-09-01;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A143 Patatas gajo congeladas;CONGELADOS;PATATAS GAJO;2.10;3.59;11.6
+2022-07-04;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A321 Polenta de maíz;LEGUMBRES Y CEREALES;POLENTA;2.20;3.79;17.9
+2024-01-09;Europa;Portugal;Álvaro López;Continente;A145 Pizza cuatro quesos congelada;CONGELADOS;PIZZA CUATRO QUESOS;4.50;7.49;73.1
+2022-10-04;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A037 Pulpo fresco;PESCADO;PULPO;14.00;23.50;64.7
+2022-11-05;Europa;España;Alejandro García;Carrefour;A285 Nata montada refrigerada;LACTEOS;NATA MONTADA;3.20;5.49;45.1
+2022-09-03;Europa;Países Bajos;David Martínez;Lidl;A135 Ensaimada tradicional;PANADERIA;ENSAIMADA;6.50;10.90;37.1
+2023-06-26;América del Norte;Canadá;Lucas Díaz;Metro;A298 Salchichas Frankfurt;CHARCUTERIA;SALCHICHAS FRANKFURT;4.50;7.49;95.8
+2023-02-14;América del Norte;Canadá;Lucas Díaz;Loblaws;A199 Té helado;BEBIDAS;TE HELADO;1.10;1.89;78.5
+2022-09-27;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A278 Queso de cabra curado;LACTEOS;QUESO DE CABRA;10.50;17.50;13.8
+2024-05-01;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A291 Lomo ibérico curado;CHARCUTERIA;LOMO IBERICO;24.00;38.90;11.2
+2020-10-26;América del Norte;Canadá;Lucas Díaz;Sobeys;A025 Salmón fresco;PESCADO;SALMON FRESCO;10.50;17.90;22.1
+2021-03-16;Europa;Alemania;Pablo González;Edeka;A326 Garbanzos cocidos;CONSERVAS;GARBANZOS COCIDOS;1.40;2.39;57.4
+2024-01-30;América del Norte;Canadá;Lucas Díaz;Metro;A025 Salmón fresco;PESCADO;SALMON FRESCO;10.50;17.90;34.2
+2022-06-16;Europa;Francia;Daniel Rodríguez;E.Leclerc;A135 Ensaimada tradicional;PANADERIA;ENSAIMADA;6.50;10.90;84.7
+2020-08-10;Europa;España;Alejandro García;Lidl;A282 Queso fresco de Burgos;LACTEOS;QUESO DE BURGOS;4.50;7.49;62.7
+2025-01-03;América del Norte;Canadá;Lucas Díaz;Loblaws;A181 Tomate frito en conserva;CONSERVAS;TOMATE FRITO;1.70;2.89;33.2
+2020-01-08;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;44.2
+2024-01-01;Europa;Italia;Manuel Fernández;Coop;A032 Dorada fresca;PESCADO;DORADA;6.90;11.49;32.6
+2024-04-15;Asia;Japón;Sergio Pérez;Ito-Yokado;A293 Salchichón ibérico curado;CHARCUTERIA;SALCHICHON IBERICO;16.50;26.90;35.7
+2021-10-07;Asia;India;Adrián Martín;Spencer's;A072 Lechuga iceberg;VERDURA;LECHUGA ICEBERG;0.95;1.79;9
+2024-12-04;Asia;China;Carlos Gómez;RT-Mart;A150 Gambas peladas congeladas;CONGELADOS;GAMBAS PELADAS;10.50;17.20;57.3
+2023-06-30;América del Sur;Argentina;Miguel Muñoz;Carrefour;A190 Agua mineral con gas;BEBIDAS;AGUA CON GAS;0.25;0.49;53.5
+2023-12-09;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A045 Manzana Fuji;FRUTA;MANZANA FUJI;1.55;2.79;79.6
+2021-07-07;Asia;Singapur;Mario Ruiz;Sheng Siong;A133 Donuts glaseados;PANADERIA;DONUTS;5.20;8.49;6.8
+2024-01-05;Asia;Japón;Sergio Pérez;Seiyu;A157 Alubias blancas secas;LEGUMBRES Y CEREALES;ALUBIAS BLANCAS;1.70;2.89;57.3
+2023-07-23;Asia;China;Carlos Gómez;Hema;A116 Pechuga de pavo loncheada;CHARCUTERIA;PECHUGA DE PAVO LONCHEADA;8.20;13.50;78.2
+2021-11-12;Europa;España;Alejandro García;Eroski;A211 Cacahuetes tostados;FRUTOS SECOS;CACAHUETES;3.80;6.29;66.5
+2023-08-25;Asia;Corea del Sur;Diego Jiménez;Lotte Mart;A136 Empanada gallega;PANADERIA;EMPANADA;6.80;11.20;91.1
+2020-01-16;Europa;Italia;Manuel Fernández;Esselunga;A317 Copos de avena;LEGUMBRES Y CEREALES;COPOS DE AVENA;2.10;3.69;32.2
+2024-11-21;Asia;China;Carlos Gómez;Hema;A060 Melocotón amarillo;FRUTA;MELOCOTON;1.80;3.19;75.3
+2022-04-25;Asia;China;Carlos Gómez;Hema;A207 Nueces peladas;FRUTOS SECOS;NUECES;8.20;13.50;61.6
+2021-06-18;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A228 Pan integral con semillas;PANADERIA;PAN DE SEMILLAS;2.30;3.99;48.9
+2024-01-27;Europa;Países Bajos;David Martínez;Jumbo;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;52.3
+2025-07-19;Oceanía;Nueva Zelanda;Iván Torres;New World;A197 Bebida isotónica;BEBIDAS;BEBIDA ISOTONICA;1.20;2.09;35.9
+2023-06-05;América del Norte;Canadá;Lucas Díaz;Metro;A250 Caballa fresca entera;PESCADO;CABALLA FRESCA;4.50;7.49;44.4
+2026-01-12;América del Norte;México;Marcos Moreno;Soriana;A076 Calabacín fresco;VERDURA;CALABACIN;1.10;1.99;35.6
+2022-07-08;América del Norte;Canadá;Lucas Díaz;Metro;A314 Trigo sarraceno;LEGUMBRES Y CEREALES;TRIGO SARRACENO;3.20;5.49;33.8
+2026-06-25;América del Sur;Argentina;Miguel Muñoz;Día;A136 Empanada gallega;PANADERIA;EMPANADA;6.80;11.20;31
+2023-03-29;Europa;Francia;Daniel Rodríguez;Intermarché;A205 Almendras naturales;FRUTOS SECOS;ALMENDRAS NATURALES;8.50;13.90;80.8
+2025-07-19;Europa;Italia;Manuel Fernández;Coop;A327 Lentejas cocidas;CONSERVAS;LENTEJAS COCIDAS;1.30;2.29;24.8
+2021-08-11;Europa;Países Bajos;David Martínez;Lidl;A241 Chuletas de cordero frescas;CARNE;CHULETAS DE CORDERO;14.50;23.90;30.4
+2021-08-27;América del Norte;México;Marcos Moreno;Chedraui;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;57.6
+2026-11-16;América del Norte;Estados Unidos;Hugo Hernández;Costco;A111 Fuet tradicional;CHARCUTERIA;FUET;8.20;13.50;45.5
+2022-11-20;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A112 Salami en lonchas;CHARCUTERIA;SALAMI;6.80;11.20;45.3
+2024-11-08;Asia;China;Carlos Gómez;RT-Mart;A142 Patatas fritas congeladas;CONGELADOS;PATATAS FRITAS;1.50;2.59;79.9
+2022-01-04;América del Sur;Chile;José Romero;Unimarc;A232 Tarta de chocolate;PANADERIA;TARTA DE CHOCOLATE;9.20;15.50;99.2
+2021-07-31;América del Sur;Colombia;Fernando Alonso;Carulla;A008 Lomo de cerdo fresco;CARNE;LOMO DE CERDO;5.20;8.49;47.8
+2021-09-02;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A146 Lasaña boloñesa congelada;CONGELADOS;LASAÑA BOLOÑESA;4.80;7.90;10
+2026-02-23;Europa;Italia;Manuel Fernández;Coop;A201 Café en grano natural;BEBIDAS;CAFE EN GRANO;12.00;19.90;68
+2026-03-17;América del Norte;México;Marcos Moreno;Walmart de México;A299 Salchichas frescas de cerdo;CHARCUTERIA;SALCHICHAS FRESCAS;5.20;8.49;25.3
+2025-06-20;América del Sur;Perú;Raúl Gutiérrez;Wong;A227 Pan brioche para hamburguesa;PANADERIA;PAN DE HAMBURGUESA BRIOCHE;2.90;4.90;84.4
+2021-09-19;Europa;Portugal;Álvaro López;Pingo Doce;A316 Semillas de lino;LEGUMBRES Y CEREALES;SEMILLAS DE LINO;3.50;5.90;10
+2025-10-05;Europa;Portugal;Álvaro López;Continente;A278 Queso de cabra curado;LACTEOS;QUESO DE CABRA;10.50;17.50;33
+2023-04-15;América del Norte;México;Marcos Moreno;La Comer;A239 Presa de cerdo ibérico;CARNE;PRESA IBERICA;15.50;24.90;14.2
+2025-12-30;Europa;Alemania;Pablo González;Lidl;A109 Salchichón tradicional;CHARCUTERIA;SALCHICHON;7.50;12.20;68.4
+2021-09-19;Asia;China;Carlos Gómez;CR Vanguard;A073 Pepino fresco;VERDURA;PEPINO;0.90;1.69;49.3
+2024-10-26;América del Norte;Canadá;Lucas Díaz;Loblaws;A028 Bacalao desalado;PESCADO;BACALAO DESALADO;13.50;21.90;2.2
+2026-08-30;Europa;Portugal;Álvaro López;Auchan;A156 Garbanzos secos;LEGUMBRES Y CEREALES;GARBANZOS;1.50;2.59;70.1
+2026-09-14;Asia;China;Carlos Gómez;Hema;A186 Aceitunas negras sin hueso;CONSERVAS;ACEITUNAS NEGRAS;4.10;6.79;81.3
+2023-11-12;Asia;Singapur;Mario Ruiz;FairPrice;A040 Gambas frescas;PESCADO;GAMBAS;11.50;18.90;2
+2025-01-13;Europa;Países Bajos;David Martínez;Albert Heijn;A122 Baguette francesa;PANADERIA;BAGUETTE;1.20;2.10;96.7
+2022-09-16;Oceanía;Fiyi;Óscar Castillo;Shop N Save;A206 Almendras tostadas;FRUTOS SECOS;ALMENDRAS TOSTADAS;10.00;16.50;11.3
+2024-03-13;América del Sur;Chile;José Romero;Jumbo;A036 Trucha fresca;PESCADO;TRUCHA;5.90;9.90;39.2
+2020-08-10;Europa;Francia;Daniel Rodríguez;Intermarché;A223 Pan artesanal de masa madre;PANADERIA;PAN DE MASA MADRE;2.40;4.20;80.1
+2020-02-04;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A187 Pepinillos en vinagre;CONSERVAS;PEPINILLOS;3.80;6.29;49
+2025-10-27;Asia;China;Carlos Gómez;CR Vanguard;A226 Pan de pita mediterráneo;PANADERIA;PAN DE PITA;1.80;3.19;70.3
+2022-04-29;Europa;Portugal;Álvaro López;Lidl;A084 Leche semidesnatada UHT;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;43.8
+2024-09-05;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A038 Calamar fresco;PESCADO;CALAMAR;9.50;15.90;12.6
+2023-01-28;Asia;China;Carlos Gómez;CR Vanguard;A069 Tomate Raf;VERDURA;TOMATE RAF;3.80;6.49;44.5
+2020-12-02;América del Sur;Perú;Raúl Gutiérrez;Wong;A139 Menestra de verduras congelada;CONGELADOS;MENESTRA DE VERDURAS;2.10;3.59;80.7
+2021-03-09;Asia;Japón;Sergio Pérez;Ito-Yokado;A138 Judías verdes congeladas;CONGELADOS;JUDIAS VERDES;1.90;3.19;87.8
+2020-01-25;Asia;India;Adrián Martín;Reliance Smart Bazaar;A325 Alubias blancas cocidas;CONSERVAS;ALUBIAS BLANCAS COCIDAS;1.50;2.59;62.5
+2022-10-16;Oceanía;Australia;Rubén Navarro;Woolworths;A169 Avena en copos;LEGUMBRES Y CEREALES;AVENA;1.70;2.89;11.2
+2021-01-15;Europa;Portugal;Álvaro López;Continente;A163 Espaguetis de trigo;LEGUMBRES Y CEREALES;ESPAGUETIS;1.20;1.99;75.2
+2025-03-20;América del Sur;Perú;Raúl Gutiérrez;Tottus;A159 Arroz redondo;LEGUMBRES Y CEREALES;ARROZ REDONDO;1.30;2.19;89.1
+2026-03-17;Europa;Italia;Manuel Fernández;Conad;A081 Champiñón fresco;VERDURA;CHAMPIÑON;2.60;4.49;39.7
+2022-08-26;Europa;Países Bajos;David Martínez;Jumbo;A284 Queso Feta griego;LACTEOS;QUESO FETA;8.20;13.50;15.9
+2023-10-08;Asia;China;Carlos Gómez;CR Vanguard;A006 Pavo entero fresco;CARNE;PAVO ENTERO;4.80;7.90;41
+2025-07-11;Asia;India;Adrián Martín;DMart;A271 Acelgas frescas;VERDURA;ACELGAS;1.50;2.69;57.4
+2026-10-11;Europa;España;Alejandro García;Lidl;A287 Yogur natural sin azúcar;LACTEOS;YOGUR NATURAL SIN AZUCAR;1.80;2.99;45
+2024-02-09;América del Norte;Estados Unidos;Hugo Hernández;Kroger;A143 Patatas gajo congeladas;CONGELADOS;PATATAS GAJO;2.10;3.59;28.1
+2024-08-18;Europa;Portugal;Álvaro López;Lidl;A081 Champiñón fresco;VERDURA;CHAMPIÑON;2.60;4.49;91.8
+2024-09-10;Europa;Francia;Daniel Rodríguez;Intermarché;A127 Pan de molde integral;PANADERIA;PAN DE MOLDE INTEGRAL;1.85;3.19;99.8
+2021-04-17;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A231 Tarta artesanal de queso;PANADERIA;TARTA DE QUESO;8.50;13.90;44.1
+2025-12-02;Europa;España;Alejandro García;Eroski;A255 Bogavante fresco;PESCADO;BOGAVANTE;28.00;44.90;4.5
+2026-04-25;Europa;España;Alejandro García;Carrefour;A175 Sardinas en aceite;CONSERVAS;SARDINAS EN ACEITE;5.50;9.20;60.3
+2022-01-22;Asia;India;Adrián Martín;More;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;64.7
+2024-12-08;América del Sur;Perú;Raúl Gutiérrez;Metro;A209 Pistachos tostados;FRUTOS SECOS;PISTACHOS;13.50;21.90;35.5
+2026-03-07;Europa;Alemania;Pablo González;Aldi;A222 Nachos de maíz;APERITIVOS;NACHOS DE MAIZ;4.50;7.49;30.8
+2026-07-18;América del Sur;Argentina;Miguel Muñoz;Día;A176 Caballa en aceite;CONSERVAS;CABALLA EN ACEITE;6.80;11.20;43.4
+2020-06-18;Asia;China;Carlos Gómez;Walmart;A275 Remolacha fresca;VERDURA;REMOLACHA;1.30;2.29;87.1
+2026-06-24;Asia;Corea del Sur;Diego Jiménez;E-Mart;A089 Yogur griego cremoso;LACTEOS;YOGUR GRIEGO;2.40;3.99;33.7
+2024-12-22;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A229 Pan de maíz tradicional;PANADERIA;PAN DE MAIZ;2.10;3.69;11.2
+2024-07-08;América del Sur;Brasil;Antonio Álvarez;Grupo Mateus;A303 Filetes de salmón congelados;CONGELADOS;FILETES DE SALMON;11.50;18.90;46.3
+2020-06-15;Europa;Reino Unido;Javier Sánchez;Tesco;A240 Pluma de cerdo ibérico;CARNE;PLUMA IBERICA;16.50;26.90;65.4
+2023-12-13;Asia;China;Carlos Gómez;RT-Mart;A313 Bulgur de trigo;LEGUMBRES Y CEREALES;BULGUR;2.80;4.90;17
+2021-03-10;América del Norte;México;Marcos Moreno;La Comer;A138 Judías verdes congeladas;CONGELADOS;JUDIAS VERDES;1.90;3.19;97.9
+2023-06-17;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A224 Pan tradicional de payés;PANADERIA;PAN DE PAYES;2.80;4.90;19.9
+2021-11-09;Europa;España;Alejandro García;Eroski;A092 Queso curado de oveja;LACTEOS;QUESO CURADO;9.50;15.90;19.6
+2024-06-19;Oceanía;Fiyi;Óscar Castillo;RB Patel;A189 Agua mineral natural;BEBIDAS;AGUA MINERAL;0.12;0.25;86.6
+2025-09-03;Europa;Reino Unido;Javier Sánchez;Sainsbury's;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;77.7
+2025-07-17;Oceanía;Fiyi;Óscar Castillo;MaxVal-u;A303 Filetes de salmón congelados;CONGELADOS;FILETES DE SALMON;11.50;18.90;10.8
+2022-08-26;Oceanía;Australia;Rubén Navarro;ALDI;A141 Brócoli congelado;CONGELADOS;BROCOLI;2.00;3.39;51.3
+2022-06-21;América del Norte;Estados Unidos;Hugo Hernández;Albertsons;A155 Lentejas secas;LEGUMBRES Y CEREALES;LENTEJAS;1.40;2.39;75.6
+2025-07-05;Oceanía;Nueva Zelanda;Iván Torres;New World;A067 Tomate de ensalada;VERDURA;TOMATE DE ENSALADA;1.35;2.49;64.4
+2023-06-01;Europa;Reino Unido;Javier Sánchez;Tesco;A183 Champiñones laminados en conserva;CONSERVAS;CHAMPIÑONES;3.20;5.29;80.5
+2022-08-16;Europa;Países Bajos;David Martínez;Albert Heijn;A105 Jamón ibérico de bellota;CHARCUTERIA;JAMON IBERICO DE BELLOTA;65.00;99.90;98.9
+2020-01-01;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A027 Bacalao fresco;PESCADO;BACALAO FRESCO;10.80;17.50;83.1
+2022-04-05;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A238 Aguja de cerdo fresca;CARNE;AGUJA DE CERDO;4.80;7.90;74
+2025-12-19;América del Norte;México;Marcos Moreno;Walmart de México;A024 Filetes de merluza frescos;PESCADO;MERLUZA EN FILETES;9.20;14.90;77.6
+2022-06-25;Asia;Corea del Sur;Diego Jiménez;Hanaro Mart;A067 Tomate de ensalada;VERDURA;TOMATE DE ENSALADA;1.35;2.49;94.1
+2026-11-12;Europa;España;Alejandro García;Eroski;A049 Naranja para zumo;FRUTA;NARANJA DE ZUMO;0.75;1.39;3.9
+2021-10-02;América del Sur;Colombia;Fernando Alonso;Jumbo;A122 Baguette francesa;PANADERIA;BAGUETTE;1.20;2.10;47.4
+2023-01-26;Asia;India;Adrián Martín;Spencer's;A190 Agua mineral con gas;BEBIDAS;AGUA CON GAS;0.25;0.49;95.9
+2020-07-07;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A315 Semillas de chía;LEGUMBRES Y CEREALES;SEMILLAS DE CHIA;5.50;9.20;71.3
+2023-04-10;Asia;Japón;Sergio Pérez;Life;A013 Carne picada de cerdo;CARNE;CARNE PICADA DE CERDO;4.60;7.50;36.3
+2020-06-25;América del Sur;Perú;Raúl Gutiérrez;Wong;A196 Refresco de naranja;BEBIDAS;REFRESCO DE NARANJA;0.95;1.69;48.4
+2020-05-04;Oceanía;Nueva Zelanda;Iván Torres;Woolworths;A286 Kéfir natural;LACTEOS;KEFIR NATURAL;2.10;3.69;12.2
+2025-05-14;Asia;Singapur;Mario Ruiz;Cold Storage;A303 Filetes de salmón congelados;CONGELADOS;FILETES DE SALMON;11.50;18.90;26.9
+2022-07-05;Europa;Francia;Daniel Rodríguez;Intermarché;A249 Emperador fresco en filetes;PESCADO;EMPERADOR;14.50;23.90;16
+2025-11-21;América del Sur;Colombia;Fernando Alonso;Éxito;A033 Lubina fresca;PESCADO;LUBINA;7.80;12.90;9
+2022-04-11;Asia;Japón;Sergio Pérez;Life;A216 Dátiles sin hueso;FRUTOS SECOS;DATILES;5.20;8.49;2.4
+2020-03-02;América del Sur;Argentina;Miguel Muñoz;Carrefour;A027 Bacalao fresco;PESCADO;BACALAO FRESCO;10.80;17.50;40.3
+2022-12-15;América del Sur;Colombia;Fernando Alonso;Carulla;A067 Tomate de ensalada;VERDURA;TOMATE DE ENSALADA;1.35;2.49;25
+2025-07-30;Oceanía;Australia;Rubén Navarro;IGA;A075 Pimiento verde;VERDURA;PIMIENTO VERDE;1.70;2.99;41.9
+2025-08-31;Asia;India;Adrián Martín;Reliance Smart Bazaar;A015 Filete de ternera fresco;CARNE;FILETE DE TERNERA;10.50;17.90;7.3
+2025-08-06;Europa;Portugal;Álvaro López;Continente;A282 Queso fresco de Burgos;LACTEOS;QUESO DE BURGOS;4.50;7.49;86.7
+2026-08-28;Europa;España;Alejandro García;Lidl;A032 Dorada fresca;PESCADO;DORADA;6.90;11.49;12.6
+2023-04-28;América del Norte;Estados Unidos;Hugo Hernández;Costco;A333 Agua de coco natural;BEBIDAS;AGUA DE COCO;1.80;3.19;27.7
+2026-08-25;América del Sur;Argentina;Miguel Muñoz;Coto;A313 Bulgur de trigo;LEGUMBRES Y CEREALES;BULGUR;2.80;4.90;57.4
+2022-04-19;Oceanía;Fiyi;Óscar Castillo;New World IGA;A261 Ciruela roja fresca;FRUTA;CIRUELA ROJA;1.90;3.39;7.1
+2022-08-12;Asia;Singapur;Mario Ruiz;Sheng Siong;A274 Rábanos frescos;VERDURA;RABANOS;1.60;2.79;23.4
+2022-04-13;Oceanía;Australia;Rubén Navarro;IGA;A095 Queso mozzarella;LACTEOS;QUESO MOZZARELLA;5.50;8.90;20.7
+2023-12-07;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A255 Bogavante fresco;PESCADO;BOGAVANTE;28.00;44.90;32.4
+2026-08-08;Europa;Italia;Manuel Fernández;Coop;A309 Tarta helada de nata;CONGELADOS;TARTA HELADA DE NATA;5.50;9.20;8.5
+2024-08-26;Oceanía;Nueva Zelanda;Iván Torres;New World;A222 Nachos de maíz;APERITIVOS;NACHOS DE MAIZ;4.50;7.49;95.2
+2025-03-05;Europa;Francia;Daniel Rodríguez;Auchan;A146 Lasaña boloñesa congelada;CONGELADOS;LASAÑA BOLOÑESA;4.80;7.90;55.7
+2021-09-10;América del Norte;México;Marcos Moreno;Soriana;A188 Pimientos del piquillo;CONSERVAS;PIQUILLOS;5.20;8.49;46.9
+2020-04-27;América del Sur;Perú;Raúl Gutiérrez;Metro;A297 Paté de pato;CHARCUTERIA;PATE DE PATO;8.50;13.90;42.7
+2023-03-28;Europa;Países Bajos;David Martínez;Albert Heijn;A117 Chopped de cerdo;CHARCUTERIA;CHOPPED DE CERDO;3.90;6.49;78.2
+2023-01-05;Europa;Alemania;Pablo González;Edeka;A210 Anacardos tostados;FRUTOS SECOS;ANACARDOS;10.50;17.20;55.2
+2022-01-15;América del Norte;México;Marcos Moreno;Chedraui;A100 Requesón fresco;LACTEOS;REQUESON;4.10;6.90;13.8
+2026-07-22;América del Norte;México;Marcos Moreno;La Comer;A168 Quinoa natural;LEGUMBRES Y CEREALES;QUINOA;3.80;6.29;53
+2026-10-19;Europa;Portugal;Álvaro López;Lidl;A124 Pan de centeno;PANADERIA;PAN DE CENTENO;2.10;3.59;25.9
+2022-07-17;América del Sur;Argentina;Miguel Muñoz;Día;A331 Peras en almíbar;CONSERVAS;PERAS EN ALMIBAR;2.60;4.49;43.5
+2023-12-11;Asia;Japón;Sergio Pérez;Aeon;A102 Huevos ecológicos;LACTEOS;HUEVOS ECOLOGICOS;3.50;5.69;95.3
+2026-10-19;Europa;Reino Unido;Javier Sánchez;Tesco;A249 Emperador fresco en filetes;PESCADO;EMPERADOR;14.50;23.90;43.2
+2024-09-25;Asia;Corea del Sur;Diego Jiménez;Homeplus;A045 Manzana Fuji;FRUTA;MANZANA FUJI;1.55;2.79;8.2
+2025-11-25;Asia;Corea del Sur;Diego Jiménez;Homeplus;A268 Boniato naranja;VERDURA;BONIATO;1.30;2.29;83.2
+2022-09-16;Europa;Francia;Daniel Rodríguez;Intermarché;A050 Mandarina fresca;FRUTA;MANDARINA;1.30;2.29;92.9
+2024-06-16;América del Sur;Argentina;Miguel Muñoz;La Anónima;A323 Corazones de alcachofa;CONSERVAS;CORAZONES DE ALCACHOFA;5.50;9.20;64.2
+2023-02-09;América del Sur;Colombia;Fernando Alonso;Olímpica;A329 Piña en su jugo;CONSERVAS;PIÑA EN SU JUGO;2.20;3.79;69.6
+2025-03-20;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A233 Palmeritas de hojaldre;PANADERIA;PALMERITAS DE HOJALDRE;4.50;7.49;17.8
+2025-06-02;Asia;Japón;Sergio Pérez;Aeon;A203 Té negro en bolsitas;BEBIDAS;TE NEGRO;12.50;19.90;15.7
+2020-09-19;Oceanía;Australia;Rubén Navarro;IGA;A125 Pan de espelta;PANADERIA;PAN DE ESPELTA;2.80;4.69;11.6
+2020-09-14;América del Norte;Canadá;Lucas Díaz;Metro;A290 Cecina de León curada;CHARCUTERIA;CECINA DE LEON;22.00;35.90;28.6
+2021-11-18;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A304 Gyozas rellenas de pollo;CONGELADOS;GYOZAS DE POLLO;5.50;9.20;54.9
+2022-08-10;América del Norte;México;Marcos Moreno;Walmart de México;A019 Hamburguesa de vacuno;CARNE;HAMBURGUESA DE VACUNO;7.20;11.90;29.2
+2024-02-06;América del Norte;Canadá;Lucas Díaz;Metro;A126 Pan de molde blanco;PANADERIA;PAN DE MOLDE BLANCO;1.65;2.79;45.8
+2026-04-15;Europa;Países Bajos;David Martínez;Lidl;A309 Tarta helada de nata;CONGELADOS;TARTA HELADA DE NATA;5.50;9.20;29.4
+2026-04-01;América del Sur;Perú;Raúl Gutiérrez;Metro;A257 Mango tropical;FRUTA;MANGO;2.20;3.90;94.7
+2024-09-01;Europa;Francia;Daniel Rodríguez;Carrefour;A164 Macarrones de trigo;LEGUMBRES Y CEREALES;MACARRONES;1.10;1.89;90.1
+2023-01-02;Oceanía;Fiyi;Óscar Castillo;RB Patel;A118 Morcilla tradicional;CHARCUTERIA;MORCILLA;4.50;7.49;69.1
+2023-05-02;Asia;India;Adrián Martín;Spencer's;A088 Yogur natural;LACTEOS;YOGUR NATURAL;1.65;2.69;86.8
+2020-10-17;América del Sur;Perú;Raúl Gutiérrez;Metro;A102 Huevos ecológicos;LACTEOS;HUEVOS ECOLOGICOS;3.50;5.69;24
+2022-04-21;Oceanía;Australia;Rubén Navarro;IGA;A178 Berberechos en conserva;CONSERVAS;BERBERECHOS;24.00;38.90;48.8
+2020-08-27;América del Sur;Perú;Raúl Gutiérrez;Plaza Vea;A196 Refresco de naranja;BEBIDAS;REFRESCO DE NARANJA;0.95;1.69;18.5
+2024-06-07;Europa;Alemania;Pablo González;Rewe;A256 Piña natural entera;FRUTA;PIÑA NATURAL;1.40;2.49;71.7
+2021-11-03;América del Sur;Chile;José Romero;Unimarc;A186 Aceitunas negras sin hueso;CONSERVAS;ACEITUNAS NEGRAS;4.10;6.79;91.8
+2024-02-01;América del Norte;México;Marcos Moreno;Chedraui;A165 Pasta integral;LEGUMBRES Y CEREALES;PASTA INTEGRAL;1.50;2.49;60.8
+2024-07-16;América del Norte;México;Marcos Moreno;Chedraui;A166 Pasta fresca refrigerada;LEGUMBRES Y CEREALES;PASTA FRESCA;3.20;5.29;86.2
+2024-08-09;Oceanía;Nueva Zelanda;Iván Torres;Four Square;A237 Carrillera de ternera fresca;CARNE;CARRILLERA DE TERNERA;10.50;17.50;39.6
