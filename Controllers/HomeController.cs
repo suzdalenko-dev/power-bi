@@ -1,7 +1,7 @@
 using bi.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
+using System.IO;
 namespace bi.Controllers;
 
 [ApiController]
@@ -48,6 +48,9 @@ public class HomeController: ControllerBase
             Directory.CreateDirectory(salesDirectory);
         }
 
+        string salesFile = Path.Combine(salesDirectory, "sales.csv");
+        string header    = "Date;Market;Country;Delegate;Customer;ArticleCode;Family;Subfamily;CostPrice;SalePrice;Quantity";
+        await File.WriteAllTextAsync(salesFile, header + Environment.NewLine, new System.Text.UTF8Encoding(false));
 
 
         // Crete 100 random sales for example
