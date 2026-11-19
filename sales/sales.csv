@@ -1,13 +1,13 @@
 Date;Market;Country;Delegate;Customer;ArticleCode;Family;Subfamily;CostPrice;SalePrice;Quantity
-2025-03-01;Asia;China;Carlos Gómez;CR Vanguard;A051;FRUTA;PLATANO DE CANARIAS;1.55;2.69;27.7
-2024-03-30;Asia;China;Carlos Gómez;Hema;A040;PESCADO;GAMBAS;11.50;18.90;15.5
-2025-05-24;Europa;Italia;Manuel Fernández;Eurospin;A164;LEGUMBRES Y CEREALES;MACARRONES;1.10;1.89;47.4
-2021-03-30;Asia;Singapur;Mario Ruiz;FairPrice;A075;VERDURA;PIMIENTO VERDE;1.70;2.99;43
-2025-01-07;América del Norte;Canadá;Lucas Díaz;Sobeys;A053;FRUTA;FRESA;3.20;5.49;52.1
-2022-08-13;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A012;CARNE;SOLOMILLO DE CERDO;7.50;12.20;54.3
-2020-04-12;Europa;Italia;Manuel Fernández;Coop;A220;APERITIVOS;PALOMITAS;3.10;5.20;89.1
-2024-05-26;Asia;Singapur;Mario Ruiz;Sheng Siong;A007;CARNE;PECHUGA DE PAVO;6.50;10.50;12.5
-2022-06-23;América del Norte;Estados Unidos;Hugo Hernández;Costco;A171;LEGUMBRES Y CEREALES;HARINA INTEGRAL;1.10;1.89;56.7
-2025-11-28;Oceanía;Fiyi;Óscar Castillo;RB Patel;A197;BEBIDAS;BEBIDA ISOTONICA;1.20;2.09;32.1
-2021-11-01;Asia;China;Carlos Gómez;CR Vanguard;A189;BEBIDAS;AGUA MINERAL;0.12;0.25;13.2
-2025-05-01;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A103;CHARCUTERIA;JAMON SERRANO;13.50;21.90;5.6
+2026-01-23;América del Sur;Argentina;Miguel Muñoz;Coto;A066 ;VERDURA;CEBOLLA MORADA;1.10;2.09;55.7
+2022-07-15;Asia;India;Adrián Martín;Reliance Smart Bazaar;A131 ;PANADERIA;NAPOLITANA DE CHOCOLATE;6.20;10.20;66.1
+2021-09-24;América del Sur;Perú;Raúl Gutiérrez;Metro;A049 ;FRUTA;NARANJA DE ZUMO;0.75;1.39;81.4
+2026-06-13;Europa;Portugal;Álvaro López;Auchan;A043 ;FRUTA;MANZANA GOLDEN;1.05;1.89;24.7
+2021-03-28;América del Norte;Estados Unidos;Hugo Hernández;Walmart;A025 ;PESCADO;SALMON FRESCO;10.50;17.90;90.2
+2025-07-30;Oceanía;Nueva Zelanda;Iván Torres;New World;A084 ;LACTEOS;LECHE SEMIDESNATADA;0.70;1.05;95.1
+2022-07-17;Europa;España;Alejandro García;Mercadona;A086 ;LACTEOS;LECHE SIN LACTOSA;0.88;1.39;41.7
+2024-04-05;América del Norte;Canadá;Lucas Díaz;Sobeys;A097 ;LACTEOS;QUESO AZUL;8.50;13.90;85.3
+2023-10-16;América del Norte;Canadá;Lucas Díaz;Walmart Canada;A185 ;CONSERVAS;ACEITUNAS VERDES;3.50;5.79;98
+2020-02-11;América del Sur;Brasil;Antonio Álvarez;Carrefour Brasil;A198 ;BEBIDAS;BEBIDA ENERGETICA;2.10;3.49;36.6
+2023-05-09;Europa;Países Bajos;David Martínez;Aldi;A213 ;FRUTOS SECOS;PIPAS DE CALABAZA;8.50;13.90;76
+2022-03-19;Asia;China;Carlos Gómez;Hema;A006 ;CARNE;PAVO ENTERO;4.80;7.90;33.3

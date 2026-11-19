@@ -101,7 +101,7 @@ public class HomeController: ControllerBase
                         $"{country.Name};" +
                         $"{salesDelegate.Name};" +
                         $"{customer.Name};" +
-                        $"{article.Code};" +
+                        $"{article.Code} {article.Description};" +
                         $"{article.Family};" +
                         $"{article.Subfamily};" +
                         $"{article.CostPrice.ToString(CultureInfo.InvariantCulture)};" +
