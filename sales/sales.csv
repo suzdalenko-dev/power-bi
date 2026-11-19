@@ -1,0 +1,13 @@
+Date;Market;Country;Delegate;Customer;ArticleCode;Family;Subfamily;CostPrice;SalePrice;Quantity
+2025-03-01;Asia;China;Carlos Gómez;CR Vanguard;A051;FRUTA;PLATANO DE CANARIAS;1.55;2.69;27.7
+2024-03-30;Asia;China;Carlos Gómez;Hema;A040;PESCADO;GAMBAS;11.50;18.90;15.5
+2025-05-24;Europa;Italia;Manuel Fernández;Eurospin;A164;LEGUMBRES Y CEREALES;MACARRONES;1.10;1.89;47.4
+2021-03-30;Asia;Singapur;Mario Ruiz;FairPrice;A075;VERDURA;PIMIENTO VERDE;1.70;2.99;43
+2025-01-07;América del Norte;Canadá;Lucas Díaz;Sobeys;A053;FRUTA;FRESA;3.20;5.49;52.1
+2022-08-13;América del Sur;Brasil;Antonio Álvarez;Assaí Atacadista;A012;CARNE;SOLOMILLO DE CERDO;7.50;12.20;54.3
+2020-04-12;Europa;Italia;Manuel Fernández;Coop;A220;APERITIVOS;PALOMITAS;3.10;5.20;89.1
+2024-05-26;Asia;Singapur;Mario Ruiz;Sheng Siong;A007;CARNE;PECHUGA DE PAVO;6.50;10.50;12.5
+2022-06-23;América del Norte;Estados Unidos;Hugo Hernández;Costco;A171;LEGUMBRES Y CEREALES;HARINA INTEGRAL;1.10;1.89;56.7
+2025-11-28;Oceanía;Fiyi;Óscar Castillo;RB Patel;A197;BEBIDAS;BEBIDA ISOTONICA;1.20;2.09;32.1
+2021-11-01;Asia;China;Carlos Gómez;CR Vanguard;A189;BEBIDAS;AGUA MINERAL;0.12;0.25;13.2
+2025-05-01;América del Sur;Brasil;Antonio Álvarez;Pão de Açúcar;A103;CHARCUTERIA;JAMON SERRANO;13.50;21.90;5.6
