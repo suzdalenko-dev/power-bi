@@ -8,9 +8,11 @@ namespace bi.Controllers;
 public class HomeController: ControllerBase
 {
     private readonly OracleDbContext _context;
-    public HomeController(OracleDbContext context)
+    private readonly IWebHostEnvironment _env;
+    public HomeController(OracleDbContext context, IWebHostEnvironment env)
     {
         _context = context;
+        _env     = env;
     }
 
     [HttpGet("/")]
@@ -41,6 +43,12 @@ public class HomeController: ControllerBase
     [HttpGet("/populate-db")]
     public async Task<IActionResult> PopulateDatabase()
     {
+        string salesDirectory = Path.Combine(_env.ContentRootPath,"sales"); 
+        if (!Directory.Exists(salesDirectory)){
+            Directory.CreateDirectory(salesDirectory);
+        }
+
+
 
         // Crete 100 random sales for example
         return Ok(new
