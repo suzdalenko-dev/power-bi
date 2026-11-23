@@ -49,7 +49,7 @@ public class HomeController: ControllerBase
         /*
             1. Create the "sales" folder if it does not exists
         */
-        string salesDirectory = Path.Combine(_env.ContentRootPath,"sales"); 
+        string salesDirectory = Path.Combine(_env.ContentRootPath, "sales"); 
         if (!Directory.Exists(salesDirectory)){
             Directory.CreateDirectory(salesDirectory);
         }
@@ -125,3 +125,72 @@ public class HomeController: ControllerBase
         });
     }
 }
+
+
+/*
+
+
+Hola, soy Alexey, técnico de software industrial. 
+Estoy interesado en la vacante de Analista de Negocio (Power BI). 
+Tengo 5 años de experiencia con Power BI, DAX y KPIs industriales. ¿Sigue abierta la posición? Gracias.
+
+
+Componente	            Función
+JDK	Entorno             Java necesario
+Oracle WebLogic Server	Servidor de aplicaciones
+Oracle Forms 12c	    Diseñador y ejecución de formularios
+Oracle Database XE 21c	Base de datos que ya tienes
+
+Podemos intentar preparar un entorno de aprendizaje por fases:
+1. Instalar JDK 8 compatible.
+2. Instalar Fusion Middleware Infrastructure 12.2.1.4.
+3. Instalar Oracle Forms and Reports 12.2.1.19.
+4. Configurar la conexión con Oracle Database.
+5. Crear un informe de solicitudes de ayudas y probar su ejecución.
+Forms2026!
+Forms2026!
+weblogic
+Forms2026!
+
+ALEXEY
+changeme
+XEPDB1
+//localhost:1521/XEPDB1
+
+
+Conseguir que CLIENTES.fmx se ejecute.
+Conectar con XEPDB1.
+Consultar los registros de CLIENTES.
+Insertar un cliente y comprobarlo en SQL Developer.
+Aprender a desplegar el formulario en producción.
+
+
+1. WINDOW
+set "JAVA_HOME=C:\PROGRA~1\Java\JDK18~1.0_5"
+set "PATH=C:\Windows\System32;C:\Windows;C:\Windows\System32\Wbem;C:\PROGRA~1\Java\JDK18~1.0_5\bin"
+java -version
+cd /d "C:\Oracle\Middleware\OracleHome\user_projects\domains\forms_domain\bin"
+startWebLogic.cmd
+
+2. WINDOWS
+set "JAVA_HOME=C:\PROGRA~1\Java\JDK18~1.0_5"
+set "PATH=C:\Windows\System32;C:\Windows;C:\Windows\System32\Wbem;C:\PROGRA~1\Java\JDK18~1.0_5\bin"
+cd /d "C:\Oracle\Middleware\OracleHome\user_projects\domains\forms_domain\bin"
+startManagedWebLogic.cmd WLS_FORMS http://localhost:7001
+weblogic
+Forms2026!
+
+3. TESING
+netstat -ano | findstr ":7001"
+netstat -ano | findstr ":9001"
+copy /Y "C:\Users\alexey\Downloads\clientes.fmx" "C:\Oracle\Middleware\OracleHome\forms\CLIENTES.fmx"
+java -jar "C:\Oracle\Middleware\OracleHome\forms\java\frmsal.jar" -url "http://localhost:9001/forms/frmservlet?config=standaloneapp&form=CLIENTES"
+ALEXEY
+changeme
+XEPDB1
+
+4. ORACLE FORM BUILDER
+set TNS_ADMIN=C:\Oracle\Middleware\OracleHome\network\admin
+"C:\Oracle\Middleware\OracleHome\bin\frmbld.exe"
+$env:JAVA_HOME='C:\PROGRA~1\Java\JDK18~1.0_5'; $env:ORACLE_HOME='C:\Oracle\Middleware\OracleHome'; $env:PATH="$env:JAVA_HOME\bin;$env:ORACLE_HOME\bin;$env:PATH"; Start-Process "$env:ORACLE_HOME\bin\rwbuilder.exe"
+*/
