@@ -4,7 +4,7 @@ public class Truck : ITransportable
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public string TypeTruck { get; set; } = "Truck";
+    public string TypeTruck { get; set; }
 
 
     public Truck(int id, string name, string type){
