@@ -1,8 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using bi.Data;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddControllers();
+// builder.Services.AddControllers();
 builder.Services.AddDbContext<OracleDbContext>(options => options.UseOracle(builder.Configuration.GetConnectionString("OracleConnection")));
 
 
@@ -10,7 +11,12 @@ builder.Services.AddDbContext<OracleDbContext>(options => options.UseOracle(buil
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNamingPolicy = null;
+        options.JsonSerializerOptions.DictionaryKeyPolicy = null;
+    });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
